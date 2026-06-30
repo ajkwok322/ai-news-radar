@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-06-30T17:09:30.486038Z",
+  "generated_at": "2026-06-30T19:21:49.753934Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0f764e9bc764",
+      "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
+          "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        },
+        {
+          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:02:06.984000Z"
+        },
+        {
+          "id": "67fa563844e9154887350136b4fe9208b8030f96",
+          "title": "克劳德·索内特 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T18:19:05.316000Z"
+        },
+        {
+          "id": "457fe7952a8c92b08f47e35462fed2ea23e1bb98",
+          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-30T17:59:52Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Anthropic News",
+        "Anthropic：Newsroom（网页）",
+        "Hacker News",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
+          "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        },
+        {
+          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:02:06.984000Z"
+        },
+        {
+          "id": "67fa563844e9154887350136b4fe9208b8030f96",
+          "title": "克劳德·索内特 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T18:19:05.316000Z"
+        },
+        {
+          "id": "457fe7952a8c92b08f47e35462fed2ea23e1bb98",
+          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-30T17:59:52Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8911,
+      "importance": 0.8911,
+      "importance_score": 0.8911,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7561,
+        "story_heat": 0.75
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T18:19:05.316000Z",
+      "primary_item": {
+        "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
+        "title": "Claude Sonnet 5 发布 / Introducing Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f8c0cbef5e2e",
       "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -57,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8741,
-      "importance": 0.8741,
-      "importance_score": 0.8741,
+      "score": 0.8686,
+      "importance": 0.8686,
+      "importance_score": 0.8686,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.984,
+        "recency": 0.9532,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +202,68 @@
         "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
         "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8654826289ec",
+      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.8639,
+      "importance_score": 0.8639,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9883,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:32:50Z",
+      "latest_at": "2026-06-30T18:32:50Z",
+      "primary_item": {
+        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.865,
-      "importance": 0.865,
-      "importance_score": 0.865,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8889,
+        "recency": 0.861,
         "story_heat": 0.25
       },
       "category": "official",
@@ -164,6 +346,68 @@
         "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势 / How ChatGPT adoption has expanded",
         "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_baf3220209a7",
+      "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T17:25:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T17:25:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9725,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T17:25:51Z",
+      "latest_at": "2026-06-30T17:25:51Z",
+      "primary_item": {
+        "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+        "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -202,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9645,
+        "recency": 0.9342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,15 +508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9835,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -326,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8512,
+        "recency": 0.8245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -354,64 +598,84 @@
       }
     },
     {
-      "story_id": "story_ef7eb6a30414",
-      "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-      "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-      "source": "GitHub Changelog",
+      "story_id": "story_d5f7bd1f6df8",
+      "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "primary_url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "Anthropic News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b289077459097c40473999515d248be3b047e5c8",
-          "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-          "source": "GitHub Changelog",
+          "id": "e851698f224d2ead39febd4da48c4125c94a8612",
+          "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:30:17Z"
+          "published_at": "2026-06-30T00:00:00Z"
+        },
+        {
+          "id": "c6de65356b1ef1fff743dc3f8a5a6a60b54eae32",
+          "title": "Claude Science 科研工作台正式上线",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:32:06.724000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Anthropic News",
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "b289077459097c40473999515d248be3b047e5c8",
-          "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-          "source": "GitHub Changelog",
+          "id": "e851698f224d2ead39febd4da48c4125c94a8612",
+          "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:30:17Z"
+          "published_at": "2026-06-30T00:00:00Z"
+        },
+        {
+          "id": "c6de65356b1ef1fff743dc3f8a5a6a60b54eae32",
+          "title": "Claude Science 科研工作台正式上线",
+          "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:32:06.724000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9906,
-        "story_heat": 0.0
+        "ai_relevance": 0.95,
+        "recency": 0.7561,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T16:30:17Z",
-      "latest_at": "2026-06-30T16:30:17Z",
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T17:32:06.724000Z",
       "primary_item": {
-        "id": "b289077459097c40473999515d248be3b047e5c8",
-        "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-        "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-        "source": "GitHub Changelog",
+        "id": "e851698f224d2ead39febd4da48c4125c94a8612",
+        "title": "Claude Science 科研工作台正式上线 / Claude Science, an AI workbench for scientists, is now available",
+        "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "source": "Anthropic News",
         "source_name": "Official AI Updates"
       }
     },
@@ -469,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7805,
+        "recency": 0.7561,
         "story_heat": 0.25
       },
       "category": "official",
@@ -498,83 +762,102 @@
       }
     },
     {
-      "story_id": "story_3f0a56fa7011",
-      "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "primary_url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_759e2573fbbc",
+      "title": "Acti 将 AI 智能体直接放入手机键盘",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+      "primary_url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "url": "https://huggingface.co/blog/eee-community-evals",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
+          "id": "512a5bb906707c2311c2abffb83f770704604ed7",
+          "title": "Acti 将 AI 智能体直接放入手机键盘",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:52:46Z"
+        },
+        {
+          "id": "52f7d10a9d95b5830f13d5a81d95572bfd80850a",
+          "title": "Acti 将 AI 智能体直接放入手机键盘 / Acti puts AI agents directly into your smartphone keyboard",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-30T17:52:46Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-          "url": "https://huggingface.co/blog/eee-community-evals",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T00:00:00Z"
+          "id": "512a5bb906707c2311c2abffb83f770704604ed7",
+          "title": "Acti 将 AI 智能体直接放入手机键盘",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:52:46Z"
+        },
+        {
+          "id": "52f7d10a9d95b5830f13d5a81d95572bfd80850a",
+          "title": "Acti 将 AI 智能体直接放入手机键盘 / Acti puts AI agents directly into your smartphone keyboard",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-30T17:52:46Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7805,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9788,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T00:00:00Z",
-      "latest_at": "2026-06-30T00:00:00Z",
+      "earliest_at": "2026-06-30T17:52:46Z",
+      "latest_at": "2026-06-30T17:52:46Z",
       "primary_item": {
-        "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
-        "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
-        "url": "https://huggingface.co/blog/eee-community-evals",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "512a5bb906707c2311c2abffb83f770704604ed7",
+        "title": "Acti 将 AI 智能体直接放入手机键盘",
+        "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_626d4a79e36c",
-      "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
-      "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
-      "primary_url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+      "story_id": "story_0b9cb68fce80",
+      "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+      "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
-          "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
-          "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
+          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T13:24:21Z"
+          "published_at": "2026-06-30T16:42:21Z"
         }
       ],
       "source_count": 1,
@@ -583,26 +866,26 @@
       ],
       "items": [
         {
-          "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
-          "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
-          "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
+          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T13:24:21Z"
+          "published_at": "2026-06-30T16:42:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.9473,
+        "ai_relevance": 0.87,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,12 +894,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T13:24:21Z",
-      "latest_at": "2026-06-30T13:24:21Z",
+      "earliest_at": "2026-06-30T16:42:21Z",
+      "latest_at": "2026-06-30T16:42:21Z",
       "primary_item": {
-        "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
-        "title": "即将推出的针对封闭式安全警报的云数据保留策略 / Upcoming cloud data retention policy for closed security alerts",
-        "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+        "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
+        "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+        "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -675,15 +958,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8645,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -756,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.8894,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -781,6 +1064,190 @@
         "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ea75cbc697c1",
+      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+      "primary_url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
+          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:54:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
+          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:54:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9651,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:54:26Z",
+      "latest_at": "2026-06-30T16:54:26Z",
+      "primary_item": {
+        "id": "05239e6ad111231fdc74d5d787317cdba652d506",
+        "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b799958215d9",
+      "title": "Claude Code 入门：智能体循环",
+      "url": "https://claude.com/blog/getting-started-with-loops",
+      "primary_url": "https://claude.com/blog/getting-started-with-loops",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
+          "title": "Claude Code 入门：智能体循环",
+          "url": "https://claude.com/blog/getting-started-with-loops",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:28:28.530000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
+          "title": "Claude Code 入门：智能体循环",
+          "url": "https://claude.com/blog/getting-started-with-loops",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:28:28.530000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9731,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T17:28:28.530000Z",
+      "latest_at": "2026-06-30T17:28:28.530000Z",
+      "primary_item": {
+        "id": "5831629f32ee1ae8f700ba8df358b55e67e2b7f0",
+        "title": "Claude Code 入门：智能体循环",
+        "url": "https://claude.com/blog/getting-started-with-loops",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f0a56fa7011",
+      "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "primary_url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+          "url": "https://huggingface.co/blog/eee-community-evals",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+          "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+          "url": "https://huggingface.co/blog/eee-community-evals",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T00:00:00Z",
+      "primary_item": {
+        "id": "34bb09bd52903a24212fb51c3ae5dad0e16d5bcd",
+        "title": "在拥抱脸部模型页面上展示所有评估结果 / Featuring Every Eval Ever Results on Hugging Face Model Pages",
+        "url": "https://huggingface.co/blog/eee-community-evals",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -837,15 +1304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -923,149 +1390,6 @@
         "url": "https://x.com/xiaohu/status/2071796715162857477",
         "source": "X：小互 (@xiaohu)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_854000477b8f",
-      "title": "AI就业争论变得更加混乱",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-      "primary_url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b799e04948668aa710ae4cef56c32e93c7dcc4b3",
-          "title": "AI就业争论变得更加混乱",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:01:00Z"
-        },
-        {
-          "id": "746886b90de274ba76964297575c107a05215d9f",
-          "title": "AI就业争论变得更加混乱 / The AI jobs debate just got messier",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T04:01:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b799e04948668aa710ae4cef56c32e93c7dcc4b3",
-          "title": "AI就业争论变得更加混乱",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:01:00Z"
-        },
-        {
-          "id": "746886b90de274ba76964297575c107a05215d9f",
-          "title": "AI就业争论变得更加混乱 / The AI jobs debate just got messier",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T04:01:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8271,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T04:01:00Z",
-      "latest_at": "2026-06-30T04:01:00Z",
-      "primary_item": {
-        "id": "b799e04948668aa710ae4cef56c32e93c7dcc4b3",
-        "title": "AI就业争论变得更加混乱",
-        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91d16542fa1f",
-      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T18:02:48Z",
-      "latest_at": "2026-06-29T18:02:48Z",
-      "primary_item": {
-        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-        "url": "https://huggingface.co/blog/allenai/discoformer",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1103,15 +1427,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7805,
+        "recency": 0.7561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1128,248 +1452,6 @@
         "url": "https://openai.com/index/genebench-pro/case-studies",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_19ba80596298",
-      "title": "Claude Desktop 推出 Linux 公测版",
-      "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-      "primary_url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2069eb7c3dbc9c1df70a235a42063d091286c544",
-          "title": "Claude Desktop 推出 Linux 公测版",
-          "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:06:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "2069eb7c3dbc9c1df70a235a42063d091286c544",
-          "title": "Claude Desktop 推出 Linux 公测版",
-          "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:06:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9851,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T16:06:59Z",
-      "latest_at": "2026-06-30T16:06:59Z",
-      "primary_item": {
-        "id": "2069eb7c3dbc9c1df70a235a42063d091286c544",
-        "title": "Claude Desktop 推出 Linux 公测版",
-        "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6caca3033900",
-      "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-      "url": "https://x.com/op7418/status/2071816099986022650",
-      "primary_url": "https://x.com/op7418/status/2071816099986022650",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
-          "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-          "url": "https://x.com/op7418/status/2071816099986022650",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:40:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
-          "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-          "url": "https://x.com/op7418/status/2071816099986022650",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:40:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T04:40:25Z",
-      "latest_at": "2026-06-30T04:40:25Z",
-      "primary_item": {
-        "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
-        "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-        "url": "https://x.com/op7418/status/2071816099986022650",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a376defa06a",
-      "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
-      "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
-      "primary_url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
-          "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
-          "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T13:53:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
-          "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
-          "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T13:53:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.954,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T13:53:48Z",
-      "latest_at": "2026-06-30T13:53:48Z",
-      "primary_item": {
-        "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
-        "title": "Dependabot 不再推断 .npmrc / Dependabot no longer infers .npmrc",
-        "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_103ac9573b22",
-      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-      "url": "https://x.com/EMostaque/status/2071701921241448574",
-      "primary_url": "https://x.com/EMostaque/status/2071701921241448574",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ce241cd2ecd1d731301d032162c11c288557211",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://x.com/EMostaque/status/2071701921241448574",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Emad Mostaque (@EMostaque)"
-      ],
-      "items": [
-        {
-          "id": "8ce241cd2ecd1d731301d032162c11c288557211",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://x.com/EMostaque/status/2071701921241448574",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7487,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T21:06:43Z",
-      "latest_at": "2026-06-29T21:06:43Z",
-      "primary_item": {
-        "id": "8ce241cd2ecd1d731301d032162c11c288557211",
-        "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-        "url": "https://x.com/EMostaque/status/2071701921241448574",
-        "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
       }
     }
   ]
