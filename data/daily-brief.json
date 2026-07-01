@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-01T00:14:42.210127Z",
+  "generated_at": "2026-07-01T05:08:19.220237Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
+          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
+          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8531,
+      "importance": 0.8531,
+      "importance_score": 0.8531,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9285,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T00:00:00Z",
+      "latest_at": "2026-07-01T00:00:00Z",
+      "primary_item": {
+        "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
+        "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f8c0cbef5e2e",
       "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash / Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8883,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.921,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8024,
+        "recency": 0.7477,
         "story_heat": 0.25
       },
       "category": "official",
@@ -264,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9063,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,19 +380,19 @@
           "published_at": "2026-06-30T18:19:05.316000Z"
         },
         {
-          "id": "457fe7952a8c92b08f47e35462fed2ea23e1bb98",
+          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
           "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
           "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-06-30T17:59:52Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.anthropic.com"
       ],
       "items": [
@@ -353,26 +415,26 @@
           "published_at": "2026-06-30T18:19:05.316000Z"
         },
         {
-          "id": "457fe7952a8c92b08f47e35462fed2ea23e1bb98",
+          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
           "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
           "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-06-30T17:59:52Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8519,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -388,6 +450,87 @@
         "title": "Claude Sonnet 5 发布",
         "url": "https://www.anthropic.com/news/claude-sonnet-5",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_adc0d337ee6f",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "primary_url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T00:11:00Z"
+        },
+        {
+          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
+          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T00:55:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T00:11:00Z"
+        },
+        {
+          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
+          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-01T00:55:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9309,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T00:11:00Z",
+      "latest_at": "2026-07-01T00:55:08Z",
+      "primary_item": {
+        "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
+        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+        "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -426,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8707,
+        "recency": 0.8112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7684,
+        "recency": 0.716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -550,15 +693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8878,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,6 +718,67 @@
         "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e7110ebabb37",
+      "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+      "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "primary_url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "source": "公众号：龙猫LongCat（美团）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+          "source": "公众号：龙猫LongCat（美团）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T02:24:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：龙猫LongCat（美团）"
+      ],
+      "items": [
+        {
+          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+          "source": "公众号：龙猫LongCat（美团）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T02:24:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9612,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T02:24:00Z",
+      "latest_at": "2026-07-01T02:24:00Z",
+      "primary_item": {
+        "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
+        "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+        "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+        "source": "公众号：龙猫LongCat（美团）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -631,15 +835,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9925,
+        "recency": 0.9248,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -655,6 +859,128 @@
         "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
         "url": "https://www.ithome.com/0/970/810.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bf72435c1c9",
+      "title": "AI 芯片初创公司 Etched 估值达50亿美元，首款推理系统斩获10亿美元订单",
+      "url": "https://www.aibase.com/news/29285",
+      "primary_url": "https://www.aibase.com/news/29285",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a6238dd435a6202ee9be0e307ca7318d775a5536",
+          "title": "AI 芯片初创公司 Etched 估值达50亿美元，首款推理系统斩获10亿美元订单",
+          "url": "https://www.aibase.com/news/29285",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T05:08:19.220237Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a6238dd435a6202ee9be0e307ca7318d775a5536",
+          "title": "AI 芯片初创公司 Etched 估值达50亿美元，首款推理系统斩获10亿美元订单",
+          "url": "https://www.aibase.com/news/29285",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-01T05:08:19.220237Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T05:08:19.220237Z",
+      "latest_at": "2026-07-01T05:08:19.220237Z",
+      "primary_item": {
+        "id": "a6238dd435a6202ee9be0e307ca7318d775a5536",
+        "title": "AI 芯片初创公司 Etched 估值达50亿美元，首款推理系统斩获10亿美元订单",
+        "url": "https://www.aibase.com/news/29285",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c5fef2c86cb3",
+      "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+      "url": "https://x.com/shao__meng/status/2072126769986220157",
+      "primary_url": "https://x.com/shao__meng/status/2072126769986220157",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
+          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+          "url": "https://x.com/shao__meng/status/2072126769986220157",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T01:14:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
+          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+          "url": "https://x.com/shao__meng/status/2072126769986220157",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T01:14:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9454,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T01:14:54Z",
+      "latest_at": "2026-07-01T01:14:54Z",
+      "primary_item": {
+        "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
+        "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+        "url": "https://x.com/shao__meng/status/2072126769986220157",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -712,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -774,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9757,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8968,
+        "recency": 0.8357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -860,87 +1186,6 @@
         "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_dca46b3f7e38",
-      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-      "url": "https://www.aibase.com/news/29275",
-      "primary_url": "https://www.aibase.com/news/29275",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:17:02.541555Z"
-        },
-        {
-          "id": "3cfaac71948cc4e90aeefc7a4d627c66cda442fc",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/zh/news/29275",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:17:02.541555Z"
-        },
-        {
-          "id": "3cfaac71948cc4e90aeefc7a4d627c66cda442fc",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/zh/news/29275",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8057,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T09:17:02.541555Z",
-      "latest_at": "2026-06-30T09:17:02.541555Z",
-      "primary_item": {
-        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-        "url": "https://www.aibase.com/news/29275",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -997,22 +1242,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.7723,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T11:14:52Z",
       "latest_at": "2026-06-30T11:14:52Z",
@@ -1059,21 +1303,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T16:54:26Z",
       "latest_at": "2026-06-30T16:54:26Z",
@@ -1120,21 +1363,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.845,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T17:28:28.530000Z",
       "latest_at": "2026-06-30T17:28:28.530000Z",
@@ -1144,248 +1386,6 @@
         "url": "https://claude.com/blog/getting-started-with-loops",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a1ae999ca0c",
-      "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-      "url": "https://x.com/xiaohu/status/2071796715162857477",
-      "primary_url": "https://x.com/xiaohu/status/2071796715162857477",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-          "url": "https://x.com/xiaohu/status/2071796715162857477",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T03:23:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-          "url": "https://x.com/xiaohu/status/2071796715162857477",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T03:23:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.74,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T03:23:23Z",
-      "latest_at": "2026-06-30T03:23:23Z",
-      "primary_item": {
-        "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-        "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-        "url": "https://x.com/xiaohu/status/2071796715162857477",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b7b692161c6",
-      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-      "url": "https://x.com/NotebookLM/status/2072043680442245276",
-      "primary_url": "https://x.com/NotebookLM/status/2072043680442245276",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c269d91cc08c6e0bbc48b93150dbb6cb0921f2ed",
-          "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-          "url": "https://x.com/NotebookLM/status/2072043680442245276",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T19:44:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：NotebookLM (@NotebookLM)"
-      ],
-      "items": [
-        {
-          "id": "c269d91cc08c6e0bbc48b93150dbb6cb0921f2ed",
-          "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-          "url": "https://x.com/NotebookLM/status/2072043680442245276",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T19:44:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9371,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T19:44:44Z",
-      "latest_at": "2026-06-30T19:44:44Z",
-      "primary_item": {
-        "id": "c269d91cc08c6e0bbc48b93150dbb6cb0921f2ed",
-        "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-        "url": "https://x.com/NotebookLM/status/2072043680442245276",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_af92f13a24dd",
-      "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-      "url": "https://developers.googleblog.com/announcing-adk-go-20",
-      "primary_url": "https://developers.googleblog.com/announcing-adk-go-20",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "32d16f72a9fa9a3dbb4a7fea295de8ad36cb15cd",
-          "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-          "url": "https://developers.googleblog.com/announcing-adk-go-20",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:17:40.302000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32d16f72a9fa9a3dbb4a7fea295de8ad36cb15cd",
-          "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-          "url": "https://developers.googleblog.com/announcing-adk-go-20",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:17:40.302000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9045,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T17:17:40.302000Z",
-      "latest_at": "2026-06-30T17:17:40.302000Z",
-      "primary_item": {
-        "id": "32d16f72a9fa9a3dbb4a7fea295de8ad36cb15cd",
-        "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-        "url": "https://developers.googleblog.com/announcing-adk-go-20",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a6720de068e4",
-      "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
-      "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-      "primary_url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39e34106d05e9da40ed4faa72f00a9e157a73e2b",
-          "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
-          "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:36:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "39e34106d05e9da40ed4faa72f00a9e157a73e2b",
-          "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
-          "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:36:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8955,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T16:36:06Z",
-      "latest_at": "2026-06-30T16:36:06Z",
-      "primary_item": {
-        "id": "39e34106d05e9da40ed4faa72f00a9e157a73e2b",
-        "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
-        "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
