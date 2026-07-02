@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-01T23:52:45.438260Z",
+  "generated_at": "2026-07-02T04:07:40.984002Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_774ebb0256c8",
-      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "story_id": "story_76b510f3d3c5",
+      "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
+      "primary_url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "id": "349db1f72311c5884c89ea0acb8669990a340b11",
+          "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+          "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
+          "published_at": "2026-07-02T00:37:55Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+          "id": "349db1f72311c5884c89ea0acb8669990a340b11",
+          "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+          "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
+          "published_at": "2026-07-02T00:37:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9273,
+        "ai_relevance": 0.87,
+        "recency": 0.9508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,12 +55,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T18:39:17Z",
-      "latest_at": "2026-07-01T18:39:17Z",
+      "earliest_at": "2026-07-02T00:37:55Z",
+      "latest_at": "2026-07-02T00:37:55Z",
       "primary_item": {
-        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+        "id": "349db1f72311c5884c89ea0acb8669990a340b11",
+        "title": "企业秘密扫描公共监控 / Secret scanning public monitoring for enterprises",
+        "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9219,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,21 +128,21 @@
       }
     },
     {
-      "story_id": "story_0818b7e36264",
-      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "story_id": "story_774ebb0256c8",
+      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
+          "published_at": "2026-07-01T18:39:17Z"
         }
       ],
       "source_count": 1,
@@ -151,26 +151,26 @@
       ],
       "items": [
         {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
+          "published_at": "2026-07-01T18:39:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.953,
+        "ai_relevance": 0.94,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -179,138 +179,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T20:32:52Z",
-      "latest_at": "2026-07-01T20:32:52Z",
+      "earliest_at": "2026-07-01T18:39:17Z",
+      "latest_at": "2026-07-01T18:39:17Z",
       "primary_item": {
-        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f709f41925c8",
+      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+      "url": "https://www.ithome.com/0/971/469.htm",
+      "primary_url": "https://www.ithome.com/0/971/469.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
-          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T00:00:00Z"
+          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
+          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+          "url": "https://www.ithome.com/0/971/469.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:51:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
-          "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T00:00:00Z"
+          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
+          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+          "url": "https://www.ithome.com/0/971/469.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:51:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
-      "importance_label": "官方更新",
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7083,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T00:00:00Z",
-      "latest_at": "2026-07-01T00:00:00Z",
+      "earliest_at": "2026-07-02T02:51:10Z",
+      "latest_at": "2026-07-02T02:51:10Z",
       "primary_item": {
-        "id": "a387fb2f8e83526f268272d65df9e65aac52ac3c",
-        "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b7f49b2bc148",
-      "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "primary_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
-          "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
-          "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T00:00:00Z",
-      "latest_at": "2026-07-01T00:00:00Z",
-      "primary_item": {
-        "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
-        "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
+        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+        "url": "https://www.ithome.com/0/971/469.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -348,15 +285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8925,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,21 +313,82 @@
       }
     },
     {
-      "story_id": "story_3aa6eba89386",
-      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "story_id": "story_d8f3653ac051",
+      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+      "url": "https://x.com/shao__meng/status/2072484635955900792",
+      "primary_url": "https://x.com/shao__meng/status/2072484635955900792",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://x.com/shao__meng/status/2072484635955900792",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T00:56:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://x.com/shao__meng/status/2072484635955900792",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T00:56:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9551,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T00:56:56Z",
+      "latest_at": "2026-07-02T00:56:56Z",
+      "primary_item": {
+        "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+        "url": "https://x.com/shao__meng/status/2072484635955900792",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0818b7e36264",
+      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
+          "published_at": "2026-07-01T20:32:52Z"
         }
       ],
       "source_count": 1,
@@ -399,26 +397,26 @@
       ],
       "items": [
         {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
+          "published_at": "2026-07-01T20:32:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9796,
+        "ai_relevance": 0.91,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,12 +425,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T22:27:16Z",
-      "latest_at": "2026-07-01T22:27:16Z",
+      "earliest_at": "2026-07-01T20:32:52Z",
+      "latest_at": "2026-07-01T20:32:52Z",
       "primary_item": {
-        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
+        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
+        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -509,15 +507,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.7704,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -537,84 +535,64 @@
       }
     },
     {
-      "story_id": "story_adc0d337ee6f",
-      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-      "primary_url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_7b5406df4999",
+      "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+      "url": "https://www.aibase.com/news/29322",
+      "primary_url": "https://www.aibase.com/news/29322",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
-          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T00:11:00Z"
-        },
-        {
-          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
-          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-01T00:55:08Z"
+          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+          "url": "https://www.aibase.com/news/29322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T04:07:40.984002Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克",
-        "虎嗅 (Huxiu)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
-          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-          "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T00:11:00Z"
-        },
-        {
-          "id": "62a6b81d5f61661b85148e64a141616e9f8c54cf",
-          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-          "url": "https://www.huxiu.com/article/4871698.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-01T00:55:08Z"
+          "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+          "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+          "url": "https://www.aibase.com/news/29322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T04:07:40.984002Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7102,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T00:11:00Z",
-      "latest_at": "2026-07-01T00:55:08Z",
+      "earliest_at": "2026-07-02T04:07:40.984002Z",
+      "latest_at": "2026-07-02T04:07:40.984002Z",
       "primary_item": {
-        "id": "b701f63c0bf537b13694170c1159fd3a4cc90043",
-        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-        "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "8e8f9f1cdd349b8a90090508662dccdca129503e",
+        "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+        "url": "https://www.aibase.com/news/29322",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -671,15 +649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8121,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -695,87 +673,6 @@
         "title": "Meta效仿SpaceX，将过剩AI算力变现",
         "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_69c215f0bf18",
-      "title": "Claude Code v2.1.198 发布",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
-          "title": "Claude Code v2.1.198 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T20:45:36Z"
-        },
-        {
-          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
-          "title": "v2.1.198",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T20:45:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
-          "title": "Claude Code v2.1.198 发布",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T20:45:36Z"
-        },
-        {
-          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
-          "title": "v2.1.198",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-01T20:45:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.956,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T20:45:36Z",
-      "latest_at": "2026-07-01T20:45:36Z",
-      "primary_item": {
-        "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
-        "title": "Claude Code v2.1.198 发布",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-        "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -833,15 +730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7971,
+        "recency": 0.7496,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -857,6 +754,147 @@
         "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
         "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_69c215f0bf18",
+      "title": "Claude Code v2.1.198 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+          "title": "Claude Code v2.1.198 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T20:45:36Z"
+        },
+        {
+          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
+          "title": "v2.1.198",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T20:45:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+          "title": "Claude Code v2.1.198 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T20:45:36Z"
+        },
+        {
+          "id": "328e91c43f76178b569f3be140e99b4037ed373d",
+          "title": "v2.1.198",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-01T20:45:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8991,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T20:45:36Z",
+      "latest_at": "2026-07-01T20:45:36Z",
+      "primary_item": {
+        "id": "4a13a4aa1769a0c2eecc2cf60faaded3b8fdd874",
+        "title": "Claude Code v2.1.198 发布",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0054df545125",
+      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+      "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+      "primary_url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "454069cd6d29664414373234271738c1cfe9e519",
+          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+          "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:53:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "454069cd6d29664414373234271738c1cfe9e519",
+          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+          "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T02:53:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T02:53:26Z",
+      "latest_at": "2026-07-02T02:53:26Z",
+      "primary_item": {
+        "id": "454069cd6d29664414373234271738c1cfe9e519",
+        "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+        "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+        "source": "公众号：昆仑万维（天工）",
         "source_name": "AI HOT"
       }
     },
@@ -895,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.932,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -923,63 +961,64 @@
       }
     },
     {
-      "story_id": "story_e7110ebabb37",
-      "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-      "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
-      "primary_url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
-      "source": "公众号：龙猫LongCat（美团）",
-      "source_name": "AI HOT",
+      "story_id": "story_5ecb6c46573c",
+      "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+      "url": "https://www.aibase.com/news/29320",
+      "primary_url": "https://www.aibase.com/news/29320",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
-          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
-          "source": "公众号：龙猫LongCat（美团）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T02:24:00Z"
+          "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
+          "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+          "url": "https://www.aibase.com/news/29320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T04:07:40.984002Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：龙猫LongCat（美团）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
-          "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-          "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
-          "source": "公众号：龙猫LongCat（美团）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T02:24:00Z"
+          "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
+          "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+          "url": "https://www.aibase.com/news/29320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T04:07:40.984002Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7333,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-01T02:24:00Z",
-      "latest_at": "2026-07-01T02:24:00Z",
+      "earliest_at": "2026-07-02T04:07:40.984002Z",
+      "latest_at": "2026-07-02T04:07:40.984002Z",
       "primary_item": {
-        "id": "ca1ced8a81ccf8cd86d14c65e131efd2440a42ce",
-        "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-        "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
-        "source": "公众号：龙猫LongCat（美团）",
-        "source_name": "AI HOT"
+        "id": "f7debefecd9a89b20cc142a78354f0fcae7c5a10",
+        "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+        "url": "https://www.aibase.com/news/29320",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1017,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1043,63 +1082,63 @@
       }
     },
     {
-      "story_id": "story_13b959c7f8d2",
-      "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
-      "url": "https://www.aibase.com/news/29313",
-      "primary_url": "https://www.aibase.com/news/29313",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_cc66edf5317d",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "url": "https://x.com/Khazix0918/status/2072235797592658395",
+      "primary_url": "https://x.com/Khazix0918/status/2072235797592658395",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d1419609719143580bcd9b2bbab2d16dcf050312",
-          "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
-          "url": "https://www.aibase.com/news/29313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T12:20:39.433036Z"
+          "id": "74beb3b13d41b51983671ca5605fcd9dda89c611",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://x.com/Khazix0918/status/2072235797592658395",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T08:28:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：卡兹克 (@Khazix0918)"
       ],
       "items": [
         {
-          "id": "d1419609719143580bcd9b2bbab2d16dcf050312",
-          "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
-          "url": "https://www.aibase.com/news/29313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-01T12:20:39.433036Z"
+          "id": "74beb3b13d41b51983671ca5605fcd9dda89c611",
+          "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+          "url": "https://x.com/Khazix0918/status/2072235797592658395",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T08:28:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T12:20:39.433036Z",
-      "latest_at": "2026-07-01T12:20:39.433036Z",
+      "earliest_at": "2026-07-01T08:28:09Z",
+      "latest_at": "2026-07-01T08:28:09Z",
       "primary_item": {
-        "id": "d1419609719143580bcd9b2bbab2d16dcf050312",
-        "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
-        "url": "https://www.aibase.com/news/29313",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "74beb3b13d41b51983671ca5605fcd9dda89c611",
+        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+        "url": "https://x.com/Khazix0918/status/2072235797592658395",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1137,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1197,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1223,123 +1262,65 @@
       }
     },
     {
-      "story_id": "story_bf56d5c95a04",
-      "title": "xAI 发布 Voice Agent Builder 测试版",
-      "url": "https://x.ai/news/grok-voice-agent-builder",
-      "primary_url": "https://x.ai/news/grok-voice-agent-builder",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_3aa6eba89386",
+      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "24bdb8d66264a5df742df215b078f115aabb8646",
-          "title": "xAI 发布 Voice Agent Builder 测试版",
-          "url": "https://x.ai/news/grok-voice-agent-builder",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T00:00:00Z"
+          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T22:27:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "xAI：News（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "24bdb8d66264a5df742df215b078f115aabb8646",
-          "title": "xAI 发布 Voice Agent Builder 测试版",
-          "url": "https://x.ai/news/grok-voice-agent-builder",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T00:00:00Z"
+          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T22:27:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-01T00:00:00Z",
-      "latest_at": "2026-07-01T00:00:00Z",
+      "earliest_at": "2026-07-01T22:27:16Z",
+      "latest_at": "2026-07-01T22:27:16Z",
       "primary_item": {
-        "id": "24bdb8d66264a5df742df215b078f115aabb8646",
-        "title": "xAI 发布 Voice Agent Builder 测试版",
-        "url": "https://x.ai/news/grok-voice-agent-builder",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c5fef2c86cb3",
-      "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-      "url": "https://x.com/shao__meng/status/2072126769986220157",
-      "primary_url": "https://x.com/shao__meng/status/2072126769986220157",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
-          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-          "url": "https://x.com/shao__meng/status/2072126769986220157",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T01:14:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
-          "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-          "url": "https://x.com/shao__meng/status/2072126769986220157",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T01:14:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7212,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T01:14:54Z",
-      "latest_at": "2026-07-01T01:14:54Z",
-      "primary_item": {
-        "id": "d10ca2ca83e854ed28066568d999ba5938a7ac14",
-        "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-        "url": "https://x.com/shao__meng/status/2072126769986220157",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
+        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
+        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
+        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
