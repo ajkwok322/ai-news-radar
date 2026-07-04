@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T00:11:47.691374Z",
+  "generated_at": "2026-07-04T04:21:24.574036Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8684,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.8778,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8059,
+        "recency": 0.7589,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,6 +224,106 @@
         "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
         "url": "https://www.ithome.com/0/972/341.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5fa8133bc14c",
+      "title": "Leanstral 1.5：人人可用的证明丰富性",
+      "url": "https://mistral.ai/news/leanstral-1-5",
+      "primary_url": "https://mistral.ai/news/leanstral-1-5",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f671b636d24355b474d498f38c883db269d5f550",
+          "title": "Leanstral 1.5：人人可用的证明丰富性",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T15:19:52.792000Z"
+        },
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Mistral AI：News（网页）",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "f671b636d24355b474d498f38c883db269d5f550",
+          "title": "Leanstral 1.5：人人可用的证明丰富性",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T15:19:52.792000Z"
+        },
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
+          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8285,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T15:19:52.792000Z",
+      "latest_at": "2026-07-04T03:03:37.023000Z",
+      "primary_item": {
+        "id": "f671b636d24355b474d498f38c883db269d5f550",
+        "title": "Leanstral 1.5：人人可用的证明丰富性",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -281,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.7755,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,21 +443,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T18:51:06Z",
       "latest_at": "2026-07-03T18:51:06Z",
@@ -366,187 +465,6 @@
         "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
         "url": "https://simonwillison.net/2026/Jul/3/judgement",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c70aaf21743",
-      "title": "面向 Web 开发者的 Safari MCP 服务器",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-      "primary_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
-          "title": "面向 Web 开发者的 Safari MCP 服务器",
-          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:59:42.679000Z"
-        },
-        {
-          "id": "a894ae63ca5bf2feb07abbeff4ea5bc7b22e44df",
-          "title": "面向 Web 开发人员的 Safari MCP 服务器 / The Safari MCP server for web developers",
-          "url": "https://news.ycombinator.com/item?id=48769639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T07:34:15.555000Z"
-        },
-        {
-          "id": "0fcff0abc60116c3b36c7d7447a4f807cd9701d3",
-          "title": "面向 Web 开发者的 Safari MCP 服务器 / The Safari MCP server for web developers",
-          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T01:37:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
-          "title": "面向 Web 开发者的 Safari MCP 服务器",
-          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:59:42.679000Z"
-        },
-        {
-          "id": "a894ae63ca5bf2feb07abbeff4ea5bc7b22e44df",
-          "title": "面向 Web 开发人员的 Safari MCP 服务器 / The Safari MCP server for web developers",
-          "url": "https://news.ycombinator.com/item?id=48769639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T07:34:15.555000Z"
-        },
-        {
-          "id": "0fcff0abc60116c3b36c7d7447a4f807cd9701d3",
-          "title": "面向 Web 开发者的 Safari MCP 服务器 / The Safari MCP server for web developers",
-          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T01:37:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8146,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T01:37:11Z",
-      "latest_at": "2026-07-03T09:59:42.679000Z",
-      "primary_item": {
-        "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
-        "title": "面向 Web 开发者的 Safari MCP 服务器",
-        "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5fa8133bc14c",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://mistral.ai/news/leanstral-1-5",
-      "primary_url": "https://mistral.ai/news/leanstral-1-5",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        },
-        {
-          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
-          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T22:33:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f671b636d24355b474d498f38c883db269d5f550",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52.792000Z"
-        },
-        {
-          "id": "73d3a22435c248f533f99a0c75bbf6cfb0f30251",
-          "title": "Leanstral 1.5：人人可用的证明丰富性 / Leanstral 1.5: Proof Abundance for All",
-          "url": "https://mistral.ai/news/leanstral-1-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T22:33:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8798,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52.792000Z",
-      "latest_at": "2026-07-03T22:33:10Z",
-      "primary_item": {
-        "id": "f671b636d24355b474d498f38c883db269d5f550",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://mistral.ai/news/leanstral-1-5",
-        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -585,15 +503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8022,
+        "recency": 0.7554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -671,68 +589,68 @@
       }
     },
     {
-      "story_id": "story_85eefad9b7fe",
-      "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-      "url": "https://www.ithome.com/0/972/089.htm",
-      "primary_url": "https://www.ithome.com/0/972/089.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_9e5663cb740f",
+      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "75da6a61738da5908abb0807ab2b78852cf450c1",
-          "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家（RSS）",
+          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T03:27:15Z"
+          "published_at": "2026-07-03T04:56:06.814000Z"
         },
         {
-          "id": "8de63de01b2c819c9c875e07a5c5aa1c125a535d",
-          "title": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T03:27:15Z"
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "75da6a61738da5908abb0807ab2b78852cf450c1",
-          "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家（RSS）",
+          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T03:27:15Z"
+          "published_at": "2026-07-03T04:56:06.814000Z"
         },
         {
-          "id": "8de63de01b2c819c9c875e07a5c5aa1c125a535d",
-          "title": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
-          "url": "https://www.ithome.com/0/972/089.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T03:27:15Z"
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7412,
+        "recency": 0.713,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -741,13 +659,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T03:27:15Z",
-      "latest_at": "2026-07-03T03:27:15Z",
+      "earliest_at": "2026-07-03T04:56:06.814000Z",
+      "latest_at": "2026-07-03T04:56:06.814000Z",
       "primary_item": {
-        "id": "75da6a61738da5908abb0807ab2b78852cf450c1",
-        "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-        "url": "https://www.ithome.com/0/972/089.htm",
-        "source": "IT之家（RSS）",
+        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -786,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -865,22 +783,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7892,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T07:48:22.139425Z",
       "latest_at": "2026-07-03T07:48:22.139425Z",
@@ -890,147 +807,6 @@
         "url": "https://www.aibase.com/news/29370",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dbb9e0804735",
-      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-      "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-      "primary_url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-      "source": "公众号：京东JoyAI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：京东JoyAI"
-      ],
-      "items": [
-        {
-          "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8153,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:03:25Z",
-      "latest_at": "2026-07-03T10:03:25Z",
-      "primary_item": {
-        "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
-        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-        "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-        "source": "公众号：京东JoyAI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e5663cb740f",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7572,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T04:56:06.814000Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
-      "primary_item": {
-        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1068,21 +844,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T11:57:00Z",
       "latest_at": "2026-07-03T11:57:00Z",
@@ -1092,66 +867,6 @@
         "url": "https://www.ithome.com/0/972/424.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.425814Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.425814Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8235,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:45:10.425814Z",
-      "latest_at": "2026-07-03T10:45:10.425814Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1208,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7719,
+        "recency": 0.7269,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1232,6 +947,66 @@
         "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_45743761a27c",
+      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+      "url": "https://www.aibase.com/news/29378",
+      "primary_url": "https://www.aibase.com/news/29378",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
+          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+          "url": "https://www.aibase.com/news/29378",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:45:10.425814Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
+          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+          "url": "https://www.aibase.com/news/29378",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:45:10.425814Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7755,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T10:45:10.425814Z",
+      "latest_at": "2026-07-03T10:45:10.425814Z",
+      "primary_item": {
+        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
+        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
+        "url": "https://www.aibase.com/news/29378",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1269,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.7755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,6 +1067,66 @@
         "url": "https://www.aibase.com/news/29373",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7c70aaf21743",
+      "title": "面向 Web 开发者的 Safari MCP 服务器",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+      "primary_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:59:42.679000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:59:42.679000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7671,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T09:59:42.679000Z",
+      "latest_at": "2026-07-03T09:59:42.679000Z",
+      "primary_item": {
+        "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
+        "title": "面向 Web 开发者的 Safari MCP 服务器",
+        "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1383,15 +1218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6322,
-      "importance": 0.6322,
-      "importance_score": 0.6322,
+      "score": 0.6226,
+      "importance": 0.6226,
+      "importance_score": 0.6226,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.91,
+        "recency": 0.857,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1443,15 +1278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.7755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1466,6 +1301,164 @@
         "url": "https://www.aibase.com/news/29374",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0738428c0f84",
+      "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
+      "url": "https://www.aibase.com/news/29376",
+      "primary_url": "https://www.aibase.com/news/29376",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
+          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
+          "url": "https://www.aibase.com/news/29376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:45:10.425814Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
+          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
+          "url": "https://www.aibase.com/news/29376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:45:10.425814Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7755,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T10:45:10.425814Z",
+      "latest_at": "2026-07-03T10:45:10.425814Z",
+      "primary_item": {
+        "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
+        "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
+        "url": "https://www.aibase.com/news/29376",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2136c92701f5",
+      "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "source": "inpreparation.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "245757b598ca847002d17893283fa6c037edb6fd",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "inpreparation.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T20:23:50.986000Z"
+        },
+        {
+          "id": "46448a29279ffcfa6e79c31dbc7152d0dc070242",
+          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+          "url": "https://news.ycombinator.com/item?id=48777728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:26:45.199000Z"
+        },
+        {
+          "id": "66c974b9979b623bb0620f7ae15c9c4b342321c2",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T17:46:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "inpreparation.substack.com"
+      ],
+      "items": [
+        {
+          "id": "245757b598ca847002d17893283fa6c037edb6fd",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "inpreparation.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T20:23:50.986000Z"
+        },
+        {
+          "id": "46448a29279ffcfa6e79c31dbc7152d0dc070242",
+          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+          "url": "https://news.ycombinator.com/item?id=48777728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:26:45.199000Z"
+        },
+        {
+          "id": "66c974b9979b623bb0620f7ae15c9c4b342321c2",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T17:46:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5513,
+      "importance": 0.5513,
+      "importance_score": 0.5513,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8914,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T17:46:10Z",
+      "latest_at": "2026-07-03T20:23:50.986000Z",
+      "primary_item": {
+        "id": "245757b598ca847002d17893283fa6c037edb6fd",
+        "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+        "source": "inpreparation.substack.com",
+        "source_name": "Buzzing"
       }
     }
   ]
