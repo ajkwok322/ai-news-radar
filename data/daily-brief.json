@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T21:35:00.758708Z",
+  "generated_at": "2026-07-05T23:08:07.477095Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9172,
+        "recency": 0.8968,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -279,15 +279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8963,
+        "recency": 0.8765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,15 +359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.82,
+        "recency": 0.8018,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -440,15 +440,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9249,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -521,15 +521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.9073,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -655,15 +655,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6585,
-      "importance": 0.6585,
-      "importance_score": 0.6585,
+      "score": 0.6547,
+      "importance": 0.6547,
+      "importance_score": 0.6547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9404,
+        "recency": 0.9195,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -678,6 +678,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-05",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_54e97f468046",
+      "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "primary_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "source": "intextbooks.science.uu.nl",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "intextbooks.science.uu.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T22:31:42.105000Z"
+        },
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T20:19:53.098000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "intextbooks.science.uu.nl"
+      ],
+      "items": [
+        {
+          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "intextbooks.science.uu.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T22:31:42.105000Z"
+        },
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T20:19:53.098000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9913,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T18:47:43Z",
+      "latest_at": "2026-07-05T22:31:42.105000Z",
+      "primary_item": {
+        "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
+        "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "source": "intextbooks.science.uu.nl",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -753,15 +851,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
+      "score": 0.5605,
+      "importance": 0.5605,
+      "importance_score": 0.5605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.9428,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -776,6 +874,85 @@
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
         "source": "techcrunch.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_73651901f9c0",
+      "title": "物理 AI 驱动的组织变革",
+      "url": "https://www.huxiu.com/article/4872804.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872804.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "19657d4723370ad904c631b7d4c02a3108e78d1e",
+          "title": "物理 AI 驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4872804.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "370ccbb88de8b542deaec9431b0a27588ee88c8a",
+          "title": "物理AI驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4872804.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T22:07:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "19657d4723370ad904c631b7d4c02a3108e78d1e",
+          "title": "物理 AI 驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4872804.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "370ccbb88de8b542deaec9431b0a27588ee88c8a",
+          "title": "物理AI驱动的组织变革",
+          "url": "https://www.huxiu.com/article/4872804.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T22:07:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T22:07:16Z",
+      "latest_at": "2026-07-05T23:08:07.477095Z",
+      "primary_item": {
+        "id": "19657d4723370ad904c631b7d4c02a3108e78d1e",
+        "title": "物理 AI 驱动的组织变革",
+        "url": "https://www.huxiu.com/article/4872804.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -832,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.9733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,15 +1087,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9583,
+        "recency": 0.9371,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -988,15 +1165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9434,
+        "recency": 0.9225,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1011,85 +1188,6 @@
         "url": "https://www.starringthecomputer.com/computers.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_655bb15bb133",
-      "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-      "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872798.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
-          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
-          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T16:07:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
-          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
-          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T16:07:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9404,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T16:07:34Z",
-      "latest_at": "2026-07-05T17:19:29.637182Z",
-      "primary_item": {
-        "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
-        "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-        "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1146,15 +1244,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8753,
+        "recency": 0.8559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1169,104 +1267,6 @@
         "url": "https://github.com/hesreallyhim/awesome-claude-code",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7e9ffc3a6038",
-      "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "primary_url": "https://github.com/openai/codex/issues/30364",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1491dceae844e236964ec16492437e204db4290b",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T23:51:31.657000Z"
-        },
-        {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T22:16:36.431000Z"
-        },
-        {
-          "id": "5a54cf46a8ff6a7320c1d08dda14bfb32330416f",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T21:51:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1491dceae844e236964ec16492437e204db4290b",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T23:51:31.657000Z"
-        },
-        {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T22:16:36.431000Z"
-        },
-        {
-          "id": "5a54cf46a8ff6a7320c1d08dda14bfb32330416f",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T21:51:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7307,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T21:51:09Z",
-      "latest_at": "2026-07-04T23:51:31.657000Z",
-      "primary_item": {
-        "id": "1491dceae844e236964ec16492437e204db4290b",
-        "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1323,15 +1323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8624,
+        "recency": 0.8432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1349,80 +1349,159 @@
       }
     },
     {
-      "story_id": "story_54e97f468046",
-      "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://news.ycombinator.com/item?id=48796817",
-      "primary_url": "https://news.ycombinator.com/item?id=48796817",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_655bb15bb133",
+      "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+      "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872798.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T20:19:53.098000Z"
+          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
+          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T18:47:43Z"
+          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
+          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T16:07:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T20:19:53.098000Z"
+          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
+          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T18:47:43Z"
+          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
+          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T16:07:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T18:47:43Z",
-      "latest_at": "2026-07-05T20:19:53.098000Z",
+      "earliest_at": "2026-07-05T16:07:34Z",
+      "latest_at": "2026-07-05T17:19:29.637182Z",
       "primary_item": {
-        "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-        "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "url": "https://news.ycombinator.com/item?id=48796817",
+        "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
+        "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+        "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://news.ycombinator.com/item?id=48795174",
+      "primary_url": "https://news.ycombinator.com/item?id=48795174",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:20:06.050000Z"
+        },
+        {
+          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T15:49:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:20:06.050000Z"
+        },
+        {
+          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T15:49:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9197,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T15:49:18Z",
+      "latest_at": "2026-07-05T17:20:06.050000Z",
+      "primary_item": {
+        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://news.ycombinator.com/item?id=48795174",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1445,18 +1524,17 @@
           "published_at": "2026-07-05T17:05:57Z"
         },
         {
-          "id": "0be92a8b926d1954644627f94d0c7bb8d86da749",
+          "id": "d109d47fc34e928875a0985651d346998cce9a4b",
           "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
           "url": "https://arxiv.org/abs/2602.09239",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-05T17:05:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "items": [
@@ -1470,26 +1548,26 @@
           "published_at": "2026-07-05T17:05:57Z"
         },
         {
-          "id": "0be92a8b926d1954644627f94d0c7bb8d86da749",
+          "id": "d109d47fc34e928875a0985651d346998cce9a4b",
           "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
           "url": "https://arxiv.org/abs/2602.09239",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-05T17:05:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.9165,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1504,85 +1582,6 @@
         "url": "https://arxiv.org/abs/2602.09239",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_eb867b414ad7",
-      "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
-      "url": "https://www.huxiu.com/article/4872781.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872781.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "658671106c2118b3951a4469a005dfd1ee1cb3f6",
-          "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
-          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "db40f41a19ac8895c47f373edab5b586e79c1871",
-          "title": "AGI第一股暴跌90%，AI泡沫终于要破了？",
-          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T13:17:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "658671106c2118b3951a4469a005dfd1ee1cb3f6",
-          "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
-          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "db40f41a19ac8895c47f373edab5b586e79c1871",
-          "title": "AGI第一股暴跌90%，AI泡沫终于要破了？",
-          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T13:17:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9002,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T13:17:52Z",
-      "latest_at": "2026-07-05T14:18:13.268524Z",
-      "primary_item": {
-        "id": "658671106c2118b3951a4469a005dfd1ee1cb3f6",
-        "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
-        "url": "https://www.huxiu.com/article/4872781.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1639,15 +1638,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8753,
+        "recency": 0.8559,
         "story_heat": 0.25
       },
       "category": "watch",
