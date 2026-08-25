@@ -2321,6 +2321,11 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
                 "error": error,
             }
         )
+        print(
+            f"[source] {site_id}: {count} items in {elapsed_ms / 1000:.1f}s"
+            + (f" | error: {error}" if error else ""),
+            flush=True,
+        )
 
     return raw_items, statuses
 
@@ -4533,12 +4538,24 @@ def load_title_zh_cache(path: Path) -> dict[str, str]:
     return {}
 
 
-def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
+TRANSLATE_SESSION = requests.Session()
+TRANSLATE_SESSION.trust_env = False
+TRANSLATE_SESSION.headers.update(
+    {"User-Agent": BROWSER_UA, "Accept-Language": "zh-CN,zh;q=0.9"}
+)
+
+TRANSLATE_TOTAL_BUDGET_SECONDS = 240
+TRANSLATE_CONSECUTIVE_FAIL_CIRCUIT = 8
+
+
+def translate_to_zh_cn(session: requests.Session, text: str, *, deadline: float | None = None) -> str | None:
     s = (text or "").strip()
     if not s:
         return None
+    if deadline is not None and time.monotonic() >= deadline:
+        return None
     try:
-        r = session.get(
+        r = TRANSLATE_SESSION.get(
             "https://translate.googleapis.com/translate_a/single",
             params={
                 "client": "gtx",
@@ -4547,7 +4564,7 @@ def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
                 "dt": "t",
                 "q": s,
             },
-            timeout=12,
+            timeout=(3.05, 8),
         )
         r.raise_for_status()
         payload = r.json()
@@ -4580,9 +4597,12 @@ def add_bilingual_fields(
             zh_by_url[url] = title
 
     translated_now = 0
+    translate_deadline = time.monotonic() + TRANSLATE_TOTAL_BUDGET_SECONDS
+    consecutive_failures = 0
+    translate_disabled_reason = ""
 
     def enrich(item: dict[str, Any], allow_translate: bool) -> dict[str, Any]:
-        nonlocal translated_now
+        nonlocal translated_now, consecutive_failures, translate_disabled_reason
         out = dict(item)
         title = str(out.get("title") or "").strip()
         url = normalize_url(str(out.get("url") or ""))
@@ -4605,11 +4625,23 @@ def add_bilingual_fields(
         if not zh_title:
             zh_title = cache.get(title)
         if not zh_title and allow_translate and translated_now < max_new_translations:
-            tr = translate_to_zh_cn(session, title)
-            if tr and has_cjk(tr):
-                zh_title = tr
-                cache[title] = tr
-                translated_now += 1
+            if consecutive_failures >= TRANSLATE_CONSECUTIVE_FAIL_CIRCUIT:
+                if not translate_disabled_reason:
+                    translate_disabled_reason = (
+                        f"circuit breaker: {consecutive_failures} consecutive failures"
+                    )
+            elif time.monotonic() >= translate_deadline:
+                if not translate_disabled_reason:
+                    translate_disabled_reason = "time budget exhausted"
+            else:
+                tr = translate_to_zh_cn(session, title, deadline=translate_deadline)
+                if tr and has_cjk(tr):
+                    zh_title = tr
+                    cache[title] = tr
+                    translated_now += 1
+                    consecutive_failures = 0
+                else:
+                    consecutive_failures += 1
 
         if zh_title:
             out["title_zh"] = zh_title
@@ -4618,6 +4650,12 @@ def add_bilingual_fields(
 
     ai_out = [enrich(it, allow_translate=True) for it in items_ai]
     all_out = [enrich(it, allow_translate=False) for it in items_all]
+    if translate_disabled_reason:
+        print(
+            f"[translate] disabled early: {translate_disabled_reason} "
+            f"(translated {translated_now} of {max_new_translations} budget)",
+            flush=True,
+        )
     return ai_out, all_out, cache
 
 
@@ -5464,6 +5502,7 @@ def main() -> int:
 
     latest_items_all.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
     latest_items = [record for record in latest_items_all if record.get("ai_is_related", is_ai_related_record(record))]
+    print(f"[pipeline] {len(latest_items)} AI items / {len(latest_items_all)} all items in 24h window", flush=True)
     title_cache = load_title_zh_cache(title_cache_path)
     latest_items, latest_items_all, title_cache = add_bilingual_fields(
         latest_items,
@@ -5483,7 +5522,9 @@ def main() -> int:
     )
     latest_items_ai_dedup = suppress_near_duplicate_items(dedupe_items_by_title_url(latest_items, random_pick=False))
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
+    print(f"[pipeline] bilingual + dedup done: {len(latest_items_ai_dedup)} AI dedup items", flush=True)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
+    print(f"[pipeline] story merge done: {len(stories)} stories, {len(merge_events)} merges", flush=True)
     generated_at = iso(now)
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     stories_merged_payload = build_stories_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
