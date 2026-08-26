@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:11:25.376329Z",
+  "generated_at": "2026-08-26T05:06:44.931953Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7876,
+        "recency": 0.7772,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.909,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8896,
+        "recency": 0.8778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7373,
+        "recency": 0.7275,
         "story_heat": 0.25
       },
       "category": "official",
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8386,
+        "recency": 0.8275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8294,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,15 +469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7364,
+        "recency": 0.7266,
         "story_heat": 0.25
       },
       "category": "official",
@@ -532,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8896,
+        "recency": 0.8779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -560,26 +560,26 @@
       }
     },
     {
-      "story_id": "story_e523f8141642",
-      "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-      "url": "https://www.aibase.com/news/30625",
-      "primary_url": "https://www.aibase.com/news/30625",
+      "story_id": "story_1d7c1a8e9beb",
+      "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+      "url": "https://www.aibase.com/news/30628",
+      "primary_url": "https://www.aibase.com/news/30628",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
-          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "url": "https://www.aibase.com/news/30625",
+          "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
+          "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+          "url": "https://www.aibase.com/news/30628",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T03:11:29.557110Z"
+          "published_at": "2026-08-26T04:11:25.376329Z"
         },
         {
-          "id": "58a8fdc9f2d18db48c92141d586be2708614d1b4",
-          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达 30 亿美元",
-          "url": "https://www.aibase.com/zh/news/30625",
+          "id": "05138e45d88c70ec24b263d9cc167f02415b35f6",
+          "title": "xAI 深化 Grok Bot 功能演进：将支持模板共享、多账户切换与网络出口路由",
+          "url": "https://www.aibase.com/zh/news/30628",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -593,18 +593,18 @@
       ],
       "items": [
         {
-          "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
-          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "url": "https://www.aibase.com/news/30625",
+          "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
+          "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+          "url": "https://www.aibase.com/news/30628",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T03:11:29.557110Z"
+          "published_at": "2026-08-26T04:11:25.376329Z"
         },
         {
-          "id": "58a8fdc9f2d18db48c92141d586be2708614d1b4",
-          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达 30 亿美元",
-          "url": "https://www.aibase.com/zh/news/30625",
+          "id": "05138e45d88c70ec24b263d9cc167f02415b35f6",
+          "title": "xAI 深化 Grok Bot 功能演进：将支持模板共享、多账户切换与网络出口路由",
+          "url": "https://www.aibase.com/zh/news/30628",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -613,15 +613,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9868,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,12 +630,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T03:11:29.557110Z",
-      "latest_at": "2026-08-26T03:11:29.557110Z",
+      "earliest_at": "2026-08-26T04:11:25.376329Z",
+      "latest_at": "2026-08-26T05:06:44.931953Z",
       "primary_item": {
-        "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
-        "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-        "url": "https://www.aibase.com/news/30625",
+        "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
+        "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+        "url": "https://www.aibase.com/news/30628",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8f08c36923d0",
+      "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
+      "url": "https://www.aibase.com/news/30629",
+      "primary_url": "https://www.aibase.com/news/30629",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ff8054689882d8afe563c059cfc2ade52b2a827c",
+          "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
+          "url": "https://www.aibase.com/news/30629",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T04:11:25.376329Z"
+        },
+        {
+          "id": "66f113b7dc14f4db12dfa1af058833c5ca3e70a8",
+          "title": "汤道生内部发文回应「腾讯 AI 慢了」：竞争是马拉松，熬得久比起得早更重要",
+          "url": "https://www.aibase.com/zh/news/30629",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ff8054689882d8afe563c059cfc2ade52b2a827c",
+          "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
+          "url": "https://www.aibase.com/news/30629",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T04:11:25.376329Z"
+        },
+        {
+          "id": "66f113b7dc14f4db12dfa1af058833c5ca3e70a8",
+          "title": "汤道生内部发文回应「腾讯 AI 慢了」：竞争是马拉松，熬得久比起得早更重要",
+          "url": "https://www.aibase.com/zh/news/30629",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T04:11:25.376329Z",
+      "latest_at": "2026-08-26T05:06:44.931953Z",
+      "primary_item": {
+        "id": "ff8054689882d8afe563c059cfc2ade52b2a827c",
+        "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
+        "url": "https://www.aibase.com/news/30629",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -675,15 +756,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8713,
+        "recency": 0.8598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -700,87 +781,6 @@
         "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9d7207560feb",
-      "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-      "url": "https://www.aibase.com/news/30610",
-      "primary_url": "https://www.aibase.com/news/30610",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
-          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-          "url": "https://www.aibase.com/news/30610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T01:45:09.243931Z"
-        },
-        {
-          "id": "2e22d60f9ef7e83c0750d3a771835b58cd39074b",
-          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-          "url": "https://www.aibase.com/zh/news/30610",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
-          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-          "url": "https://www.aibase.com/news/30610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T01:45:09.243931Z"
-        },
-        {
-          "id": "2e22d60f9ef7e83c0750d3a771835b58cd39074b",
-          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-          "url": "https://www.aibase.com/zh/news/30610",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9654,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T01:45:09.243931Z",
-      "latest_at": "2026-08-26T01:45:09.243931Z",
-      "primary_item": {
-        "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
-        "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-        "url": "https://www.aibase.com/news/30610",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -818,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.834,
+        "recency": 0.823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,15 +897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8031,
+        "recency": 0.7925,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -921,6 +921,87 @@
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
         "source": "Apple：Newsroom（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e523f8141642",
+      "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
+      "url": "https://www.aibase.com/news/30625",
+      "primary_url": "https://www.aibase.com/news/30625",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
+          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
+          "url": "https://www.aibase.com/news/30625",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T03:11:29.557110Z"
+        },
+        {
+          "id": "58a8fdc9f2d18db48c92141d586be2708614d1b4",
+          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达 30 亿美元",
+          "url": "https://www.aibase.com/zh/news/30625",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
+          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
+          "url": "https://www.aibase.com/news/30625",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T03:11:29.557110Z"
+        },
+        {
+          "id": "58a8fdc9f2d18db48c92141d586be2708614d1b4",
+          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达 30 亿美元",
+          "url": "https://www.aibase.com/zh/news/30625",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T03:11:29.557110Z",
+      "latest_at": "2026-08-26T03:11:29.557110Z",
+      "primary_item": {
+        "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
+        "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
+        "url": "https://www.aibase.com/news/30625",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -958,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8591,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,15 +1101,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8665,
+        "recency": 0.855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,6 +1184,87 @@
         "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9d7207560feb",
+      "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+      "url": "https://www.aibase.com/news/30610",
+      "primary_url": "https://www.aibase.com/news/30610",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
+          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "url": "https://www.aibase.com/news/30610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:45:09.243931Z"
+        },
+        {
+          "id": "2e22d60f9ef7e83c0750d3a771835b58cd39074b",
+          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "url": "https://www.aibase.com/zh/news/30610",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
+          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "url": "https://www.aibase.com/news/30610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:45:09.243931Z"
+        },
+        {
+          "id": "2e22d60f9ef7e83c0750d3a771835b58cd39074b",
+          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "url": "https://www.aibase.com/zh/news/30610",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9526,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T01:45:09.243931Z",
+      "latest_at": "2026-08-26T01:45:09.243931Z",
+      "primary_item": {
+        "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
+        "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+        "url": "https://www.aibase.com/news/30610",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1159,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9654,
+        "recency": 0.9526,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1182,168 +1344,6 @@
         "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
         "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
         "url": "https://www.aibase.com/news/30616",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_20cb07c4dcb4",
-      "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-      "url": "https://www.aibase.com/news/30612",
-      "primary_url": "https://www.aibase.com/news/30612",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
-          "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-          "url": "https://www.aibase.com/news/30612",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T01:45:09.243931Z"
-        },
-        {
-          "id": "25d23941ecb0537bafc61b846e763afff1f2d3d6",
-          "title": "OpenAI 自研 Jalapeno 芯片曝光：性能测试全面反超英伟达 GB300",
-          "url": "https://www.aibase.com/zh/news/30612",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
-          "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-          "url": "https://www.aibase.com/news/30612",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T01:45:09.243931Z"
-        },
-        {
-          "id": "25d23941ecb0537bafc61b846e763afff1f2d3d6",
-          "title": "OpenAI 自研 Jalapeno 芯片曝光：性能测试全面反超英伟达 GB300",
-          "url": "https://www.aibase.com/zh/news/30612",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9654,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T01:45:09.243931Z",
-      "latest_at": "2026-08-26T01:45:09.243931Z",
-      "primary_item": {
-        "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
-        "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-        "url": "https://www.aibase.com/news/30612",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bd85a080adf2",
-      "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-      "url": "https://www.aibase.com/news/30613",
-      "primary_url": "https://www.aibase.com/news/30613",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fd13cbb353295cfa777659619655a6ea3373553",
-          "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "url": "https://www.aibase.com/news/30613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T01:45:09.243931Z"
-        },
-        {
-          "id": "6e9a70513638099943e618c128d5de719fd26a7d",
-          "title": "Stability AI 完成 7600 万美元 B 轮融资，索尼与环球音乐等巨头参投",
-          "url": "https://www.aibase.com/zh/news/30613",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4fd13cbb353295cfa777659619655a6ea3373553",
-          "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "url": "https://www.aibase.com/news/30613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T01:45:09.243931Z"
-        },
-        {
-          "id": "6e9a70513638099943e618c128d5de719fd26a7d",
-          "title": "Stability AI 完成 7600 万美元 B 轮融资，索尼与环球音乐等巨头参投",
-          "url": "https://www.aibase.com/zh/news/30613",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9654,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T01:45:09.243931Z",
-      "latest_at": "2026-08-26T01:45:09.243931Z",
-      "primary_item": {
-        "id": "4fd13cbb353295cfa777659619655a6ea3373553",
-        "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-        "url": "https://www.aibase.com/news/30613",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1473,15 +1473,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6477,
-      "importance": 0.6477,
-      "importance_score": 0.6477,
+      "score": 0.6456,
+      "importance": 0.6456,
+      "importance_score": 0.6456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8805,
+        "recency": 0.8689,
         "story_heat": 1.0
       },
       "category": "multi_source",
