@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-08-26T14:20:07.523534Z",
+  "generated_at": "2026-08-26T16:01:37.966321Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_82debd04a7d6",
+      "title": "以色列资助的假美国智库试图利用AI进行宣传",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "primary_url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:28.706000Z"
+        },
+        {
+          "id": "ed324b97a510bf3774fbd2f97a510c34b682d9a3",
+          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "url": "https://news.ycombinator.com/item?id=49447600",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-26T14:20:51.365000Z"
+        },
+        {
+          "id": "26e18a5fdfcdc9acc3304a792ad6fafc84058728",
+          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-26T14:05:28.706000Z"
+        },
+        {
+          "id": "3b698066064bb05eec21cabfa73c7c06f86a0bf1",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:11:19Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:28.706000Z"
+        },
+        {
+          "id": "ed324b97a510bf3774fbd2f97a510c34b682d9a3",
+          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "url": "https://news.ycombinator.com/item?id=49447600",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-26T14:20:51.365000Z"
+        },
+        {
+          "id": "26e18a5fdfcdc9acc3304a792ad6fafc84058728",
+          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-26T14:05:28.706000Z"
+        },
+        {
+          "id": "3b698066064bb05eec21cabfa73c7c06f86a0bf1",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:11:19Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8676,
+      "importance": 0.8676,
+      "importance_score": 0.8676,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9724,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:11:19Z",
+      "latest_at": "2026-08-26T14:20:51.365000Z",
+      "primary_item": {
+        "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
+        "title": "以色列资助的假美国智库试图利用AI进行宣传",
+        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_5309d9655463",
       "title": "用 Sentence Transformers 训练与微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -57,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.813,
+        "recency": 0.7934,
         "story_heat": 0.25
       },
       "category": "official",
@@ -83,6 +202,206 @@
         "url": "https://huggingface.co/blog/train-multi-vector-encoder",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
+          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:11:33Z"
+        },
+        {
+          "id": "52018ec375522098423f511b83102e8a0a1c3c9f",
+          "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T08:27:00Z"
+        },
+        {
+          "id": "c4810573b947190f73ba986cd181cfff47ec62bd",
+          "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T08:04:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "公众号：卡尔的AI沃茨",
+        "公众号：智谱（GLM）",
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
+          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:11:33Z"
+        },
+        {
+          "id": "52018ec375522098423f511b83102e8a0a1c3c9f",
+          "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T08:27:00Z"
+        },
+        {
+          "id": "c4810573b947190f73ba986cd181cfff47ec62bd",
+          "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T08:04:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8459,
+      "importance": 0.8459,
+      "importance_score": 0.8459,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9739,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T08:04:03Z",
+      "latest_at": "2026-08-26T14:11:33Z",
+      "primary_item": {
+        "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
+        "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b6e71c13696b",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "1a64a33f368e096e708b88a2879936f307a4aadd",
+          "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-26T14:05:28.714000Z"
+        },
+        {
+          "id": "f65959ffa1a24a3c588e29891a90fadedae722e1",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "1a64a33f368e096e708b88a2879936f307a4aadd",
+          "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-26T14:05:28.714000Z"
+        },
+        {
+          "id": "f65959ffa1a24a3c588e29891a90fadedae722e1",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9503,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:30:00Z",
+      "latest_at": "2026-08-26T14:05:28.714000Z",
+      "primary_item": {
+        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -120,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9713,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +501,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.813,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,87 +526,6 @@
         "url": "https://openai.com/index/loveholidays",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b6e71c13696b",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:30:00Z"
-        },
-        {
-          "id": "f65959ffa1a24a3c588e29891a90fadedae722e1",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-26T12:52:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:30:00Z"
-        },
-        {
-          "id": "f65959ffa1a24a3c588e29891a90fadedae722e1",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-26T12:52:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9738,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:30:00Z",
-      "latest_at": "2026-08-26T12:52:12Z",
-      "primary_item": {
-        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -325,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7852,
+        "recency": 0.7662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -350,6 +588,67 @@
         "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4be15faadb10",
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
+          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T15:32:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
+          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T15:32:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9931,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T15:32:46Z",
+      "latest_at": "2026-08-26T15:32:46Z",
+      "primary_item": {
+        "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
+        "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+        "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -425,15 +724,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.8836,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,191 +749,6 @@
         "url": "https://www.aibase.com/news/30634",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3668e64c1eca",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
-          "title": "5 ways to upgrade your home decor with Google Search",
-          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
-          "title": "5 ways to upgrade your home decor with Google Search",
-          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7243,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T16:00:00Z",
-      "latest_at": "2026-08-25T16:00:00Z",
-      "primary_item": {
-        "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
-        "title": "5 ways to upgrade your home decor with Google Search",
-        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_15a9ffd77268",
-      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
-      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
-          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
-          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:34:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
-          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
-          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:34:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9748,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:34:01Z",
-      "latest_at": "2026-08-26T12:34:01Z",
-      "primary_item": {
-        "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
-        "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
-        "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_74043a2c13e4",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T15:14:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T15:14:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7164,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:14:14Z",
-      "latest_at": "2026-08-25T15:14:14Z",
-      "primary_item": {
-        "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-        "title": "Granite 4.2 LLMs: How They're Built",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -672,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7684,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -697,6 +811,148 @@
         "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_285e4c858631",
+      "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "primary_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2394468a8ea996b819314588cee1f91572cc0a31",
+          "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:27.506000Z"
+        },
+        {
+          "id": "66c0c04ce64a19757ac2263e4957227958cf18d7",
+          "title": "C2PA相机经不起现实的考验 / C2PA Cameras Do Not Survive Contact with Reality",
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T19:38:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "2394468a8ea996b819314588cee1f91572cc0a31",
+          "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:27.506000Z"
+        },
+        {
+          "id": "66c0c04ce64a19757ac2263e4957227958cf18d7",
+          "title": "C2PA相机经不起现实的考验 / C2PA Cameras Do Not Survive Contact with Reality",
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T19:38:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9724,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T19:38:24Z",
+      "latest_at": "2026-08-26T14:05:27.506000Z",
+      "primary_item": {
+        "id": "2394468a8ea996b819314588cee1f91572cc0a31",
+        "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+        "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_15a9ffd77268",
+      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:34:01Z",
+      "latest_at": "2026-08-26T12:34:01Z",
+      "primary_item": {
+        "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+        "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+        "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -753,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9182,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -815,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7684,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,15 +1152,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9182,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -921,66 +1177,6 @@
         "url": "https://www.aibase.com/news/30643",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2f33442fe473",
-      "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
-      "url": "https://x.com/GoogleAI/status/2092275116503707733",
-      "primary_url": "https://x.com/GoogleAI/status/2092275116503707733",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
-          "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
-          "url": "https://x.com/GoogleAI/status/2092275116503707733",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T15:37:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
-          "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
-          "url": "https://x.com/GoogleAI/status/2092275116503707733",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T15:37:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7204,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T15:37:15Z",
-      "latest_at": "2026-08-25T15:37:15Z",
-      "primary_item": {
-        "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
-        "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
-        "url": "https://x.com/GoogleAI/status/2092275116503707733",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1018,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7526,
+        "recency": 0.7344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1043,6 +1239,211 @@
         "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Anthropic 官方发布的AI Native 开发手册，适合研发团队、技术负责人和正在把Claude/Codex接进工作流的人看。他们把软件从一个想法变成线上产品的完整过程：规划、设计、构建、测试、部署、运维 详细拆解了下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-26",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "97fea4843ca0920a1fe499260301d459e5c3d1c9",
+          "title": "Anthropic 官方发布的AI Native 开发手册，适合研发团队、技术负责人和正在把Claude/Codex接进工作流的人看。他们把软件从一个想法变成线上产品的完整过程：规划、设计、构建、测试、部署、运维 详细拆解了下。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-26T16:01:37.966321Z"
+        },
+        {
+          "id": "337129c58ef2d99cf830bdc4caef3b9b4ebe53b1",
+          "title": "或许大家也看过不少 DeepSeek Harness 的分析文章和架构介绍，但只要没有亲手把插件跑起来，对它的理解就总像隔着一层皮。作者沿着官方文档亲手做了一个Hello Plugin：从最小插件、工具注册和配置校验，到组合包安装、profile 加载、发布与卸载，把插件开发的完整链路实操了一遍。快一起上手实操试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-26T16:01:37.966321Z"
+        },
+        {
+          "id": "c4e2428fa35ff5eeb954108b71aa6b0f1514bfe2",
+          "title": "本文附有很多名词解释与图片表达，可以让想学AI但苦于不懂术语、基础不好的人或懂技术但不太了解DSH的人，都能获得对Deepseek Harness的深度认知！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-26T16:01:37.966321Z"
+        },
+        {
+          "id": "fbaa93bec1eafacd231a57c8182a182cfd7aaeda",
+          "title": "“零行手写代码也能发布软件”，听起来很厉害，但关键其实在 Harness：给Agent配好沙箱、权限边界、测试反馈和急停机制，让它写完代码后能自己跑测试、看报错、再修复。谷歌官方的这篇文章详细拆解了下Harness到底是什么？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "7a66792437833a2e8987ad671d2d789d5276bd01",
+          "title": "代码已经越来越像最容易交给Agent的环节，真正考验人的是做不做、怎么做、做完好不好用。宝玉这篇文章从BaoCut的远程转录功能出发，复盘了一套 AI 原生开发流程：可行性分析、设计文档、高精度原型、Agent 实现、自验证，再由人像普通用户一样黑盒测试。适合开发者、产品读，能帮你把 AI 从“写代码助手”变成完整开发协作系统。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "e690d38ee6525601aebf12c68a9511bbda7b55fc",
+          "title": "作者最近在做 skill/agent 驱动的 AI 成片产线，顺手把 GitHub 同赛道全扒了一遍，分成视频 Skill、一站式成片平台、分镜/导演画布三类，总共55个。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "b220c9371c2a72b0a56897de22772f4be46f25a5",
+          "title": "这期对话复盘了OpenClaw从一小时做出的WhatsApp中继，到周下载量 470万、社区PR爆炸、配置项堆到9500个的全过程。里面最值得开发者和 AI 创业者看的，是Peter对增长、依赖平台、安全边界和产品失焦的反思：热度会来会走，真正要守住的是你自己的判断、使用频率和创造乐趣。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "6f3dcf0bab14b100862a2cbcf45d014fc0360e0e",
+          "title": "这篇文章适合三类人：经常用 AI 生海报的人、要让 AI 写 HTML 落地页的人，以及不会专业设计软件，但需要把视觉需求讲清楚的人。读完以后，你会知道该选哪种构图，也知道怎么把它写进提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "f745d90fa6a0e8d01f9b7f834ab9f0f2bb60dc7d",
+          "title": "都说提示词已死，AI 越聊越笨。作者整理了《关于提示工程的100个问题》，带你看清提示工程当下真实面貌。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        }
+      ],
+      "source_count": 9,
+      "source_names": [
+        "社区更新 · 2026-08-25",
+        "社区更新 · 2026-08-26"
+      ],
+      "items": [
+        {
+          "id": "97fea4843ca0920a1fe499260301d459e5c3d1c9",
+          "title": "Anthropic 官方发布的AI Native 开发手册，适合研发团队、技术负责人和正在把Claude/Codex接进工作流的人看。他们把软件从一个想法变成线上产品的完整过程：规划、设计、构建、测试、部署、运维 详细拆解了下。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-26T16:01:37.966321Z"
+        },
+        {
+          "id": "337129c58ef2d99cf830bdc4caef3b9b4ebe53b1",
+          "title": "或许大家也看过不少 DeepSeek Harness 的分析文章和架构介绍，但只要没有亲手把插件跑起来，对它的理解就总像隔着一层皮。作者沿着官方文档亲手做了一个Hello Plugin：从最小插件、工具注册和配置校验，到组合包安装、profile 加载、发布与卸载，把插件开发的完整链路实操了一遍。快一起上手实操试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-26T16:01:37.966321Z"
+        },
+        {
+          "id": "c4e2428fa35ff5eeb954108b71aa6b0f1514bfe2",
+          "title": "本文附有很多名词解释与图片表达，可以让想学AI但苦于不懂术语、基础不好的人或懂技术但不太了解DSH的人，都能获得对Deepseek Harness的深度认知！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-26T16:01:37.966321Z"
+        },
+        {
+          "id": "fbaa93bec1eafacd231a57c8182a182cfd7aaeda",
+          "title": "“零行手写代码也能发布软件”，听起来很厉害，但关键其实在 Harness：给Agent配好沙箱、权限边界、测试反馈和急停机制，让它写完代码后能自己跑测试、看报错、再修复。谷歌官方的这篇文章详细拆解了下Harness到底是什么？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "7a66792437833a2e8987ad671d2d789d5276bd01",
+          "title": "代码已经越来越像最容易交给Agent的环节，真正考验人的是做不做、怎么做、做完好不好用。宝玉这篇文章从BaoCut的远程转录功能出发，复盘了一套 AI 原生开发流程：可行性分析、设计文档、高精度原型、Agent 实现、自验证，再由人像普通用户一样黑盒测试。适合开发者、产品读，能帮你把 AI 从“写代码助手”变成完整开发协作系统。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "e690d38ee6525601aebf12c68a9511bbda7b55fc",
+          "title": "作者最近在做 skill/agent 驱动的 AI 成片产线，顺手把 GitHub 同赛道全扒了一遍，分成视频 Skill、一站式成片平台、分镜/导演画布三类，总共55个。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "b220c9371c2a72b0a56897de22772f4be46f25a5",
+          "title": "这期对话复盘了OpenClaw从一小时做出的WhatsApp中继，到周下载量 470万、社区PR爆炸、配置项堆到9500个的全过程。里面最值得开发者和 AI 创业者看的，是Peter对增长、依赖平台、安全边界和产品失焦的反思：热度会来会走，真正要守住的是你自己的判断、使用频率和创造乐趣。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "6f3dcf0bab14b100862a2cbcf45d014fc0360e0e",
+          "title": "这篇文章适合三类人：经常用 AI 生海报的人、要让 AI 写 HTML 落地页的人，以及不会专业设计软件，但需要把视觉需求讲清楚的人。读完以后，你会知道该选哪种构图，也知道怎么把它写进提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        },
+        {
+          "id": "f745d90fa6a0e8d01f9b7f834ab9f0f2bb60dc7d",
+          "title": "都说提示词已死，AI 越聊越笨。作者整理了《关于提示工程的100个问题》，带你看清提示工程当下真实面貌。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:22:37.829775Z"
+        }
+      ],
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.69,
+      "importance": 0.69,
+      "importance_score": 0.69,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.54,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T19:22:37.829775Z",
+      "latest_at": "2026-08-26T16:01:37.966321Z",
+      "primary_item": {
+        "id": "97fea4843ca0920a1fe499260301d459e5c3d1c9",
+        "title": "Anthropic 官方发布的AI Native 开发手册，适合研发团队、技术负责人和正在把Claude/Codex接进工作流的人看。他们把软件从一个想法变成线上产品的完整过程：规划、设计、构建、测试、部署、运维 详细拆解了下。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-26",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1099,15 +1500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8948,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1161,15 +1562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.742,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1242,15 +1643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.8836,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1265,237 +1666,6 @@
         "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
         "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
         "url": "https://www.aibase.com/news/30632",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "“零行手写代码也能发布软件”，听起来很厉害，但关键其实在 Harness：给Agent配好沙箱、权限边界、测试反馈和急停机制，让它写完代码后能自己跑测试、看报错、再修复。谷歌官方的这篇文章详细拆解了下Harness到底是什么？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-25",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "fbaa93bec1eafacd231a57c8182a182cfd7aaeda",
-          "title": "“零行手写代码也能发布软件”，听起来很厉害，但关键其实在 Harness：给Agent配好沙箱、权限边界、测试反馈和急停机制，让它写完代码后能自己跑测试、看报错、再修复。谷歌官方的这篇文章详细拆解了下Harness到底是什么？",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "7a66792437833a2e8987ad671d2d789d5276bd01",
-          "title": "代码已经越来越像最容易交给Agent的环节，真正考验人的是做不做、怎么做、做完好不好用。宝玉这篇文章从BaoCut的远程转录功能出发，复盘了一套 AI 原生开发流程：可行性分析、设计文档、高精度原型、Agent 实现、自验证，再由人像普通用户一样黑盒测试。适合开发者、产品读，能帮你把 AI 从“写代码助手”变成完整开发协作系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "e690d38ee6525601aebf12c68a9511bbda7b55fc",
-          "title": "作者最近在做 skill/agent 驱动的 AI 成片产线，顺手把 GitHub 同赛道全扒了一遍，分成视频 Skill、一站式成片平台、分镜/导演画布三类，总共55个。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "b220c9371c2a72b0a56897de22772f4be46f25a5",
-          "title": "这期对话复盘了OpenClaw从一小时做出的WhatsApp中继，到周下载量 470万、社区PR爆炸、配置项堆到9500个的全过程。里面最值得开发者和 AI 创业者看的，是Peter对增长、依赖平台、安全边界和产品失焦的反思：热度会来会走，真正要守住的是你自己的判断、使用频率和创造乐趣。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "6f3dcf0bab14b100862a2cbcf45d014fc0360e0e",
-          "title": "这篇文章适合三类人：经常用 AI 生海报的人、要让 AI 写 HTML 落地页的人，以及不会专业设计软件，但需要把视觉需求讲清楚的人。读完以后，你会知道该选哪种构图，也知道怎么把它写进提示词。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "f745d90fa6a0e8d01f9b7f834ab9f0f2bb60dc7d",
-          "title": "都说提示词已死，AI 越聊越笨。作者整理了《关于提示工程的100个问题》，带你看清提示工程当下真实面貌。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-08-25"
-      ],
-      "items": [
-        {
-          "id": "fbaa93bec1eafacd231a57c8182a182cfd7aaeda",
-          "title": "“零行手写代码也能发布软件”，听起来很厉害，但关键其实在 Harness：给Agent配好沙箱、权限边界、测试反馈和急停机制，让它写完代码后能自己跑测试、看报错、再修复。谷歌官方的这篇文章详细拆解了下Harness到底是什么？",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "7a66792437833a2e8987ad671d2d789d5276bd01",
-          "title": "代码已经越来越像最容易交给Agent的环节，真正考验人的是做不做、怎么做、做完好不好用。宝玉这篇文章从BaoCut的远程转录功能出发，复盘了一套 AI 原生开发流程：可行性分析、设计文档、高精度原型、Agent 实现、自验证，再由人像普通用户一样黑盒测试。适合开发者、产品读，能帮你把 AI 从“写代码助手”变成完整开发协作系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "e690d38ee6525601aebf12c68a9511bbda7b55fc",
-          "title": "作者最近在做 skill/agent 驱动的 AI 成片产线，顺手把 GitHub 同赛道全扒了一遍，分成视频 Skill、一站式成片平台、分镜/导演画布三类，总共55个。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "b220c9371c2a72b0a56897de22772f4be46f25a5",
-          "title": "这期对话复盘了OpenClaw从一小时做出的WhatsApp中继，到周下载量 470万、社区PR爆炸、配置项堆到9500个的全过程。里面最值得开发者和 AI 创业者看的，是Peter对增长、依赖平台、安全边界和产品失焦的反思：热度会来会走，真正要守住的是你自己的判断、使用频率和创造乐趣。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "6f3dcf0bab14b100862a2cbcf45d014fc0360e0e",
-          "title": "这篇文章适合三类人：经常用 AI 生海报的人、要让 AI 写 HTML 落地页的人，以及不会专业设计软件，但需要把视觉需求讲清楚的人。读完以后，你会知道该选哪种构图，也知道怎么把它写进提示词。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        },
-        {
-          "id": "f745d90fa6a0e8d01f9b7f834ab9f0f2bb60dc7d",
-          "title": "都说提示词已死，AI 越聊越笨。作者整理了《关于提示工程的100个问题》，带你看清提示工程当下真实面貌。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-25T19:22:37.829775Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6261,
-      "importance": 0.6261,
-      "importance_score": 0.6261,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7605,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T19:22:37.829775Z",
-      "latest_at": "2026-08-25T19:22:37.829775Z",
-      "primary_item": {
-        "id": "fbaa93bec1eafacd231a57c8182a182cfd7aaeda",
-        "title": "“零行手写代码也能发布软件”，听起来很厉害，但关键其实在 Harness：给Agent配好沙箱、权限边界、测试反馈和急停机制，让它写完代码后能自己跑测试、看报错、再修复。谷歌官方的这篇文章详细拆解了下Harness到底是什么？",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-25",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_1d7c1a8e9beb",
-      "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-      "url": "https://www.aibase.com/news/30628",
-      "primary_url": "https://www.aibase.com/news/30628",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
-          "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-          "url": "https://www.aibase.com/news/30628",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T04:11:25.376329Z"
-        },
-        {
-          "id": "05138e45d88c70ec24b263d9cc167f02415b35f6",
-          "title": "xAI 深化 Grok Bot 功能演进：将支持模板共享、多账户切换与网络出口路由",
-          "url": "https://www.aibase.com/zh/news/30628",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
-          "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-          "url": "https://www.aibase.com/news/30628",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T04:11:25.376329Z"
-        },
-        {
-          "id": "05138e45d88c70ec24b263d9cc167f02415b35f6",
-          "title": "xAI 深化 Grok Bot 功能演进：将支持模板共享、多账户切换与网络出口路由",
-          "url": "https://www.aibase.com/zh/news/30628",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8637,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T04:11:25.376329Z",
-      "latest_at": "2026-08-26T05:06:44.931953Z",
-      "primary_item": {
-        "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
-        "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-        "url": "https://www.aibase.com/news/30628",
         "source": "AIbase",
         "source_name": "AIbase"
       }
