@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:47:55.485998Z",
+  "generated_at": "2026-08-29T23:11:04.100201Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7406,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.76,
+        "recency": 0.7343,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7905,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8257,
+        "recency": 0.7978,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,15 +414,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6367,
-      "importance": 0.6367,
-      "importance_score": 0.6367,
+      "score": 0.6308,
+      "importance": 0.6308,
+      "importance_score": 0.6308,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9582,
+        "recency": 0.9258,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -531,15 +531,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.582,
-      "importance": 0.582,
-      "importance_score": 0.582,
+      "score": 0.5764,
+      "importance": 0.5764,
+      "importance_score": 0.5764,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9233,
+        "recency": 0.892,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -629,15 +629,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9597,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -652,6 +652,85 @@
         "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
         "source": "newsletter.eng-leadership.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eb0bc1242835",
+      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+      "url": "https://www.ithome.com/0/996/053.htm",
+      "primary_url": "https://www.ithome.com/0/996/053.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T22:44:37Z",
+      "latest_at": "2026-08-29T23:11:04.100201Z",
+      "primary_item": {
+        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+        "url": "https://www.ithome.com/0/996/053.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -708,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -787,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,15 +945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9524,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -918,18 +997,18 @@
           "published_at": "2026-08-29T01:34:22.802000Z"
         },
         {
-          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "pwning.systems"
       ],
@@ -953,26 +1032,26 @@
           "published_at": "2026-08-29T01:34:22.802000Z"
         },
         {
-          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8162,
+        "recency": 0.7886,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -987,85 +1066,6 @@
         "url": "https://pwning.systems/posts/llm-memory-program-analysis",
         "source": "pwning.systems",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbef34f02ce8",
-      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9109,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:17:26Z",
-      "latest_at": "2026-08-29T14:20:15.516394Z",
-      "primary_item": {
-        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1122,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8321,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1149,7 +1149,7 @@
     },
     {
       "story_id": "story_356cb5adee51",
-      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
       "url": "https://www.inventati.org/who/manifesto",
       "primary_url": "https://www.inventati.org/who/manifesto",
       "source": "Hacker News · 24h最热",
@@ -1157,7 +1157,7 @@
       "sources": [
         {
           "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1166,7 +1166,7 @@
         },
         {
           "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1181,7 +1181,7 @@
       "items": [
         {
           "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1190,7 +1190,7 @@
         },
         {
           "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1200,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1219,7 +1219,7 @@
       "latest_at": "2026-08-29T07:38:31Z",
       "primary_item": {
         "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
         "url": "https://www.inventati.org/who/manifesto",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -1279,15 +1279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5116,
-      "importance": 0.5116,
-      "importance_score": 0.5116,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.81,
+        "recency": 0.7825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1305,82 +1305,82 @@
       }
     },
     {
-      "story_id": "story_4d812cfbbce6",
-      "title": "Claude Code is going reduce limits by 25% from September 14",
-      "url": "https://news.ycombinator.com/item?id=49491631",
-      "primary_url": "https://news.ycombinator.com/item?id=49491631",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_723b7b0828b8",
+      "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "primary_url": "https://github.com/rysh-ai/rysh-cli-code",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
+          "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T18:44:16.882000Z"
         },
         {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信 / Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
+          "published_at": "2026-08-29T18:34:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "HN Algolia · AI 24h",
-        "hackernews"
+        "github.com"
       ],
       "items": [
         {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
+          "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T18:44:16.882000Z"
         },
         {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信 / Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
+          "published_at": "2026-08-29T18:34:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.955,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:27:31Z",
-      "latest_at": "2026-08-29T17:36:29.303000Z",
+      "earliest_at": "2026-08-29T18:34:03Z",
+      "latest_at": "2026-08-29T18:44:16.882000Z",
       "primary_item": {
-        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-        "title": "Claude Code is going reduce limits by 25% from September 14",
-        "url": "https://news.ycombinator.com/item?id=49491631",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+        "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+        "url": "https://github.com/rysh-ai/rysh-cli-code",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1437,15 +1437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7841,
+        "recency": 0.7575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1460,6 +1460,85 @@
         "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
         "source": "Business Insider",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_4d812cfbbce6",
+      "title": "Claude Code is going reduce limits by 25% from September 14",
+      "url": "https://news.ycombinator.com/item?id=49491631",
+      "primary_url": "https://news.ycombinator.com/item?id=49491631",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T17:27:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T17:27:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9226,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:27:31Z",
+      "latest_at": "2026-08-29T17:36:29.303000Z",
+      "primary_item": {
+        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
+        "title": "Claude Code is going reduce limits by 25% from September 14",
+        "url": "https://news.ycombinator.com/item?id=49491631",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1480,18 +1559,18 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
           "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "openai.com"
       ],
       "items": [
@@ -1505,26 +1584,26 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
           "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
+      "score": 0.5008,
+      "importance": 0.5008,
+      "importance_score": 0.5008,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7764,
+        "recency": 0.7501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1538,85 +1617,6 @@
         "title": "关于Cursor被SpaceX收购后的决定",
         "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
         "source": "openai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 对 LLM 的使用既不支持也不禁止",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7734,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:40:59Z",
-      "latest_at": "2026-08-29T03:00:24.283000Z",
-      "primary_item": {
-        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-        "title": "Debian 对 LLM 的使用既不支持也不禁止",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
         "source_name": "Buzzing"
       }
     }
