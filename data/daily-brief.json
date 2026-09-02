@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:39:04.835495Z",
+  "generated_at": "2026-09-02T11:03:02.987688Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8723,
-      "importance": 0.8723,
-      "importance_score": 0.8723,
+      "score": 0.861,
+      "importance": 0.861,
+      "importance_score": 0.861,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8348,
+        "recency": 0.7722,
         "story_heat": 0.5
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8635,
-      "importance": 0.8635,
-      "importance_score": 0.8635,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7863,
+        "recency": 0.7273,
         "story_heat": 0.5
       },
       "category": "official",
@@ -278,15 +278,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.8975,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -340,15 +340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,15 +421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8211,
+        "recency": 0.7595,
         "story_heat": 0.25
       },
       "category": "official",
@@ -484,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8628,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,6 +509,87 @@
         "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_287b017d17a4",
+      "title": "深度医疗AI迎来关键里程碑：ChatGPT打通Epic电子健康记录系统",
+      "url": "https://www.aibase.com/news/30778",
+      "primary_url": "https://www.aibase.com/news/30778",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5a8b77b71f3864604451d74780ee047e90140fea",
+          "title": "深度医疗AI迎来关键里程碑：ChatGPT打通Epic电子健康记录系统",
+          "url": "https://www.aibase.com/news/30778",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T11:03:02.987688Z"
+        },
+        {
+          "id": "b91bdeba1e3c3920e236b5401c02201903506731",
+          "title": "深度医疗 AI 迎来关键里程碑：ChatGPT 打通 Epic 电子健康记录系统",
+          "url": "https://www.aibase.com/zh/news/30778",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5a8b77b71f3864604451d74780ee047e90140fea",
+          "title": "深度医疗AI迎来关键里程碑：ChatGPT打通Epic电子健康记录系统",
+          "url": "https://www.aibase.com/news/30778",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T11:03:02.987688Z"
+        },
+        {
+          "id": "b91bdeba1e3c3920e236b5401c02201903506731",
+          "title": "深度医疗 AI 迎来关键里程碑：ChatGPT 打通 Epic 电子健康记录系统",
+          "url": "https://www.aibase.com/zh/news/30778",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T11:03:02.987688Z",
+      "latest_at": "2026-09-02T11:03:02.987688Z",
+      "primary_item": {
+        "id": "5a8b77b71f3864604451d74780ee047e90140fea",
+        "title": "深度医疗AI迎来关键里程碑：ChatGPT打通Epic电子健康记录系统",
+        "url": "https://www.aibase.com/news/30778",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -546,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9007,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,149 +651,6 @@
         "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
         "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e9817b7fa884",
-      "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-      "url": "https://www.aibase.com/news/30768",
-      "primary_url": "https://www.aibase.com/news/30768",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "16e24df1699ed5e0c4713bd05d97e40999910ebd",
-          "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/news/30768",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T05:39:04.835495Z"
-        },
-        {
-          "id": "9836e885d82c1cdf9b6026cdc71cf862db14a038",
-          "title": "Perplexity 上线「混合计算」：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/zh/news/30768",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "16e24df1699ed5e0c4713bd05d97e40999910ebd",
-          "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/news/30768",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T05:39:04.835495Z"
-        },
-        {
-          "id": "9836e885d82c1cdf9b6026cdc71cf862db14a038",
-          "title": "Perplexity 上线「混合计算」：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/zh/news/30768",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T05:39:04.835495Z",
-      "latest_at": "2026-09-02T05:39:04.835495Z",
-      "primary_item": {
-        "id": "16e24df1699ed5e0c4713bd05d97e40999910ebd",
-        "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-        "url": "https://www.aibase.com/news/30768",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4df22e291125",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-          "title": "The latest AI news we announced in August 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-          "title": "The latest AI news we announced in August 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8794,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T20:45:00Z",
-      "latest_at": "2026-09-01T20:45:00Z",
-      "primary_item": {
-        "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-        "title": "The latest AI news we announced in August 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -751,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.833,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -775,6 +713,68 @@
         "title": "How AI-native companies turn workflows into operating capability",
         "url": "https://openai.com/index/ai-native-company-workflows",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4df22e291125",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+          "title": "The latest AI news we announced in August 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+          "title": "The latest AI news we announced in August 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8134,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T20:45:00Z",
+      "latest_at": "2026-09-01T20:45:00Z",
+      "primary_item": {
+        "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+        "title": "The latest AI news we announced in August 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -813,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9547,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,6 +837,87 @@
         "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91f0ad70bfeb",
+      "title": "网信办“清朗”第二阶段重拳整治 AI 乱象：清理违规信息 561 万余条，查处账号 4.9 万余个",
+      "url": "https://www.aibase.com/news/30776",
+      "primary_url": "https://www.aibase.com/news/30776",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f9923990802bf487a9ba4459da189b7e43dc632",
+          "title": "网信办“清朗”第二阶段重拳整治 AI 乱象：清理违规信息 561 万余条，查处账号 4.9 万余个",
+          "url": "https://www.aibase.com/news/30776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T11:03:02.987688Z"
+        },
+        {
+          "id": "59fb6b8d92f2a01adb4628e99a19de4042c096c0",
+          "title": "网信办「清朗」第二阶段重拳整治 AI 乱象：清理违规信息 561 万余条，查处账号 4.9 万余个",
+          "url": "https://www.aibase.com/zh/news/30776",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f9923990802bf487a9ba4459da189b7e43dc632",
+          "title": "网信办“清朗”第二阶段重拳整治 AI 乱象：清理违规信息 561 万余条，查处账号 4.9 万余个",
+          "url": "https://www.aibase.com/news/30776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T11:03:02.987688Z"
+        },
+        {
+          "id": "59fb6b8d92f2a01adb4628e99a19de4042c096c0",
+          "title": "网信办「清朗」第二阶段重拳整治 AI 乱象：清理违规信息 561 万余条，查处账号 4.9 万余个",
+          "url": "https://www.aibase.com/zh/news/30776",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T11:03:02.987688Z",
+      "latest_at": "2026-09-02T11:03:02.987688Z",
+      "primary_item": {
+        "id": "6f9923990802bf487a9ba4459da189b7e43dc632",
+        "title": "网信办“清朗”第二阶段重拳整治 AI 乱象：清理违规信息 561 万余条，查处账号 4.9 万余个",
+        "url": "https://www.aibase.com/news/30776",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -893,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7826,
+        "recency": 0.7239,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -955,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8034,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1017,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.775,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1140,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,15 +1281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1283,67 +1364,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a76c25d2df14",
-      "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-      "url": "https://www.aibase.com/news/30767",
-      "primary_url": "https://www.aibase.com/news/30767",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cfeb69d1071fa4c018fd94fe73ca802dafb80a87",
-          "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-          "url": "https://www.aibase.com/news/30767",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T05:39:04.835495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cfeb69d1071fa4c018fd94fe73ca802dafb80a87",
-          "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-          "url": "https://www.aibase.com/news/30767",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T05:39:04.835495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T05:39:04.835495Z",
-      "latest_at": "2026-09-02T05:39:04.835495Z",
-      "primary_item": {
-        "id": "cfeb69d1071fa4c018fd94fe73ca802dafb80a87",
-        "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-        "url": "https://www.aibase.com/news/30767",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1381,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.8014,
         "story_heat": 0.0
       },
       "category": "industry",
