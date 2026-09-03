@@ -1,8 +1,190 @@
 {
-  "generated_at": "2026-09-03T04:11:18.234773Z",
+  "generated_at": "2026-09-03T09:06:46.542531Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b844bdeeb825",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        },
+        {
+          "id": "683633ba97a679d3af1e2a04324f1cf25c00ac2e",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        },
+        {
+          "id": "683633ba97a679d3af1e2a04324f1cf25c00ac2e",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8767,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_362ae46d9e3c",
+      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "fd1c9c23263213b3b7f8e8c8a13e1650d407f7d2",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-02T23:08:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "metr.org"
+      ],
+      "items": [
+        {
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "fd1c9c23263213b3b7f8e8c8a13e1650d407f7d2",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-02T23:08:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.94,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T23:08:47Z",
+      "latest_at": "2026-09-03T04:49:35.840000Z",
+      "primary_item": {
+        "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+        "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "Codex CLI 0.153.0",
@@ -38,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9413,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,88 +244,6 @@
         "title": "Codex CLI 0.153.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_22915ca8a273",
-      "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        },
-        {
-          "id": "6545feacb15dfff71c512e0b83ebad9dbf6d3256",
-          "title": "IBM 时间序列模型在 Confluent 上实现实时智能",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        },
-        {
-          "id": "6545feacb15dfff71c512e0b83ebad9dbf6d3256",
-          "title": "IBM 时间序列模型在 Confluent 上实现实时智能",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8126,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T13:49:14Z",
-      "latest_at": "2026-09-02T15:14:09.599260Z",
-      "primary_item": {
-        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-        "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -201,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8424,
+        "recency": 0.7845,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,15 +383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8632,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "official",
@@ -346,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8662,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -408,15 +508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7915,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,6 +532,88 @@
         "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
         "url": "https://openai.com/index/atv-big-air-tour",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_22915ca8a273",
+      "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T13:49:14Z"
+        },
+        {
+          "id": "6545feacb15dfff71c512e0b83ebad9dbf6d3256",
+          "title": "IBM 时间序列模型在 Confluent 上实现实时智能",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T13:49:14Z"
+        },
+        {
+          "id": "6545feacb15dfff71c512e0b83ebad9dbf6d3256",
+          "title": "IBM 时间序列模型在 Confluent 上实现实时智能",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7568,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T13:49:14Z",
+      "latest_at": "2026-09-02T15:14:09.599260Z",
+      "primary_item": {
+        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+        "title": "IBM 时间序列模型在 Confluent 上实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -470,15 +652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8346,
+        "recency": 0.7773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -495,6 +677,87 @@
         "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dddd803a358a",
+      "title": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+      "url": "https://www.aibase.com/news/30803",
+      "primary_url": "https://www.aibase.com/news/30803",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a2bac9ad9026675c6c646fba1dabc8756683165a",
+          "title": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+          "url": "https://www.aibase.com/news/30803",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T09:06:46.542531Z"
+        },
+        {
+          "id": "8560aed39b5d636d30027ace4448669d72d29f7c",
+          "title": "博通预测 Anthropic 与 OpenAI 将超越谷歌，成为 AI 定制芯片前两大客户",
+          "url": "https://www.aibase.com/zh/news/30803",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a2bac9ad9026675c6c646fba1dabc8756683165a",
+          "title": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+          "url": "https://www.aibase.com/news/30803",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T09:06:46.542531Z"
+        },
+        {
+          "id": "8560aed39b5d636d30027ace4448669d72d29f7c",
+          "title": "博通预测 Anthropic 与 OpenAI 将超越谷歌，成为 AI 定制芯片前两大客户",
+          "url": "https://www.aibase.com/zh/news/30803",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T09:06:46.542531Z",
+      "latest_at": "2026-09-03T09:06:46.542531Z",
+      "primary_item": {
+        "id": "a2bac9ad9026675c6c646fba1dabc8756683165a",
+        "title": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+        "url": "https://www.aibase.com/news/30803",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -551,15 +814,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.8746,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9014,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -638,87 +901,6 @@
         "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9aa760e75223",
-      "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-      "url": "https://www.aibase.com/news/30793",
-      "primary_url": "https://www.aibase.com/news/30793",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "url": "https://www.aibase.com/news/30793",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T04:11:18.234773Z"
-        },
-        {
-          "id": "208670c7f614f3fd5856328db68d157cab0df0e2",
-          "title": "AI 提前 9.24 小时「听见」太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "url": "https://www.aibase.com/zh/news/30793",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "url": "https://www.aibase.com/news/30793",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T04:11:18.234773Z"
-        },
-        {
-          "id": "208670c7f614f3fd5856328db68d157cab0df0e2",
-          "title": "AI 提前 9.24 小时「听见」太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-          "url": "https://www.aibase.com/zh/news/30793",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T04:11:18.234773Z",
-      "latest_at": "2026-09-03T04:11:18.234773Z",
-      "primary_item": {
-        "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
-        "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
-        "url": "https://www.aibase.com/news/30793",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -756,15 +938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8739,
+        "recency": 0.8139,
         "story_heat": 0.0
       },
       "category": "official",
@@ -837,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8216,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -862,6 +1044,87 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e6e5e5143ba1",
+      "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+      "url": "https://www.aibase.com/news/30807",
+      "primary_url": "https://www.aibase.com/news/30807",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
+          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+          "url": "https://www.aibase.com/news/30807",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T09:06:46.542531Z"
+        },
+        {
+          "id": "a62544dd84e649fade93b19d472f24afb430eb94",
+          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+          "url": "https://www.aibase.com/zh/news/30807",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
+          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+          "url": "https://www.aibase.com/news/30807",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T09:06:46.542531Z"
+        },
+        {
+          "id": "a62544dd84e649fade93b19d472f24afb430eb94",
+          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+          "url": "https://www.aibase.com/zh/news/30807",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T09:06:46.542531Z",
+      "latest_at": "2026-09-03T09:06:46.542531Z",
+      "primary_item": {
+        "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
+        "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+        "url": "https://www.aibase.com/news/30807",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -899,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9101,
+        "recency": 0.8476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -926,68 +1189,68 @@
       }
     },
     {
-      "story_id": "story_85df40f91850",
-      "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
-      "url": "https://www.aibase.com/news/30798",
-      "primary_url": "https://www.aibase.com/news/30798",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3e603eb7bfd7",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "30d28e0602e9986ae6eca08670cf9b110958f47d",
-          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
-          "url": "https://www.aibase.com/news/30798",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T04:11:18.234773Z"
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T19:06:19Z"
         },
         {
-          "id": "1c3adf99424141d25b617e77b54c49ab47d77bf8",
-          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属「合理使用」",
-          "url": "https://www.aibase.com/zh/news/30798",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "30d28e0602e9986ae6eca08670cf9b110958f47d",
-          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
-          "url": "https://www.aibase.com/news/30798",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T04:11:18.234773Z"
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T19:06:19Z"
         },
         {
-          "id": "1c3adf99424141d25b617e77b54c49ab47d77bf8",
-          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属「合理使用」",
-          "url": "https://www.aibase.com/zh/news/30798",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -996,14 +1259,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T04:11:18.234773Z",
-      "latest_at": "2026-09-03T04:11:18.234773Z",
+      "earliest_at": "2026-09-02T19:06:19Z",
+      "latest_at": "2026-09-02T19:06:19Z",
       "primary_item": {
-        "id": "30d28e0602e9986ae6eca08670cf9b110958f47d",
-        "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
-        "url": "https://www.aibase.com/news/30798",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1041,21 +1304,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8529,
+        "recency": 0.7944,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T17:10:11Z",
       "latest_at": "2026-09-02T17:10:11Z",
@@ -1102,21 +1364,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8965,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T20:37:12Z",
       "latest_at": "2026-09-02T20:37:12Z",
@@ -1129,86 +1390,26 @@
       }
     },
     {
-      "story_id": "story_3e603eb7bfd7",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8771,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T19:06:19Z",
-      "latest_at": "2026-09-02T19:06:19Z",
-      "primary_item": {
-        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "url": "https://x.com/claudeai/status/2095226833293685100",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4d906252e517",
-      "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
-      "url": "https://www.aibase.com/news/30795",
-      "primary_url": "https://www.aibase.com/news/30795",
+      "story_id": "story_9aa760e75223",
+      "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+      "url": "https://www.aibase.com/news/30793",
+      "primary_url": "https://www.aibase.com/news/30793",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60a404d9ec092757bbddfb5ba4c3b104c8ef44b3",
-          "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
-          "url": "https://www.aibase.com/news/30795",
+          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/news/30793",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-03T04:11:18.234773Z"
         },
         {
-          "id": "de7cd1d64abe4a7d598be5bd3ba16c7ae18d1483",
-          "title": "月之暗面秘密递交港交所 A1 文件，启动 IPO 并以 500 亿美元估值寻融资",
-          "url": "https://www.aibase.com/zh/news/30795",
+          "id": "208670c7f614f3fd5856328db68d157cab0df0e2",
+          "title": "AI 提前 9.24 小时「听见」太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/zh/news/30793",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1222,18 +1423,18 @@
       ],
       "items": [
         {
-          "id": "60a404d9ec092757bbddfb5ba4c3b104c8ef44b3",
-          "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
-          "url": "https://www.aibase.com/news/30795",
+          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/news/30793",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-03T04:11:18.234773Z"
         },
         {
-          "id": "de7cd1d64abe4a7d598be5bd3ba16c7ae18d1483",
-          "title": "月之暗面秘密递交港交所 A1 文件，启动 IPO 并以 500 亿美元估值寻融资",
-          "url": "https://www.aibase.com/zh/news/30795",
+          "id": "208670c7f614f3fd5856328db68d157cab0df0e2",
+          "title": "AI 提前 9.24 小时「听见」太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/zh/news/30793",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1242,15 +1443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9314,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1262,131 +1463,11 @@
       "earliest_at": "2026-09-03T04:11:18.234773Z",
       "latest_at": "2026-09-03T04:11:18.234773Z",
       "primary_item": {
-        "id": "60a404d9ec092757bbddfb5ba4c3b104c8ef44b3",
-        "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
-        "url": "https://www.aibase.com/news/30795",
+        "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+        "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+        "url": "https://www.aibase.com/news/30793",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_20f546620d3c",
-      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "primary_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T15:28:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T15:28:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8322,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T15:28:05Z",
-      "latest_at": "2026-09-02T15:28:05Z",
-      "primary_item": {
-        "id": "c2620b02650bc64857d143863c0b48e606b2625d",
-        "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-        "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a5e9897b557",
-      "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-      "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-      "primary_url": "https://x.com/alexandr_wang/status/2095318449602138577",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b548c700051f885f26fea09ea77a698537432d1",
-          "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-          "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T01:10:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "6b548c700051f885f26fea09ea77a698537432d1",
-          "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-          "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T01:10:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-03T01:10:22Z",
-      "latest_at": "2026-09-03T01:10:22Z",
-      "primary_item": {
-        "id": "6b548c700051f885f26fea09ea77a698537432d1",
-        "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-        "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
       }
     }
   ]
