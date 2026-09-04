@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:14:06.514283Z",
+  "generated_at": "2026-09-04T06:26:56.308078Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8734,
-      "importance": 0.8734,
-      "importance_score": 0.8734,
+      "score": 0.8624,
+      "importance": 0.8624,
+      "importance_score": 0.8624,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8411,
+        "recency": 0.7801,
         "story_heat": 0.5
       },
       "category": "official",
@@ -196,15 +196,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8602,
-      "importance": 0.8602,
-      "importance_score": 0.8602,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9314,
+        "recency": 0.8638,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -315,15 +315,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9128,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -396,15 +396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.863,
+        "recency": 0.8005,
         "story_heat": 0.25
       },
       "category": "official",
@@ -421,68 +421,6 @@
         "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
         "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fda8903abd0e",
-      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T18:50:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T18:50:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9118,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T18:50:38Z",
-      "latest_at": "2026-09-03T18:50:38Z",
-      "primary_item": {
-        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
-        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -559,15 +497,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.826,
+        "recency": 0.7661,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -584,6 +522,68 @@
         "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
         "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fda8903abd0e",
+      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T18:50:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T18:50:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8457,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T18:50:38Z",
+      "latest_at": "2026-09-03T18:50:38Z",
+      "primary_item": {
+        "id": "f892eebe72c6933fd868ea6d135a2333c37c2ee2",
+        "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -621,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8408,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -649,63 +649,83 @@
       }
     },
     {
-      "story_id": "story_0e1db8e18953",
-      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-      "url": "https://x.com/steipete/status/2095678161052901828",
-      "primary_url": "https://x.com/steipete/status/2095678161052901828",
-      "source": "X：Peter Steinberger (@steipete)",
+      "story_id": "story_6d90549814a1",
+      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+      "url": "https://www.ithome.com/0/998/248.htm",
+      "primary_url": "https://www.ithome.com/0/998/248.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7461e269f4ce5431de650bddf050706285050c8",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-          "url": "https://x.com/steipete/status/2095678161052901828",
-          "source": "X：Peter Steinberger (@steipete)",
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T00:59:44Z"
+          "published_at": "2026-09-04T00:38:47Z"
+        },
+        {
+          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
+          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T00:38:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Peter Steinberger (@steipete)"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "b7461e269f4ce5431de650bddf050706285050c8",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-          "url": "https://x.com/steipete/status/2095678161052901828",
-          "source": "X：Peter Steinberger (@steipete)",
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T00:59:44Z"
+          "published_at": "2026-09-04T00:38:47Z"
+        },
+        {
+          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
+          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T00:38:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.93,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
-        "story_heat": 0.0
+        "recency": 0.9196,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T00:59:44Z",
-      "latest_at": "2026-09-04T00:59:44Z",
+      "earliest_at": "2026-09-04T00:38:47Z",
+      "latest_at": "2026-09-04T00:38:47Z",
       "primary_item": {
-        "id": "b7461e269f4ce5431de650bddf050706285050c8",
-        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-        "url": "https://x.com/steipete/status/2095678161052901828",
-        "source": "X：Peter Steinberger (@steipete)",
+        "id": "ce2303998489384f999253e9b6e4a340881372b2",
+        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "url": "https://www.ithome.com/0/998/248.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -744,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8751,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -772,101 +792,63 @@
       }
     },
     {
-      "story_id": "story_b1e457dea613",
-      "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-      "url": "https://www.ithome.com/0/998/208.htm",
-      "primary_url": "https://www.ithome.com/0/998/208.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_0e1db8e18953",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+      "url": "https://x.com/steipete/status/2095678161052901828",
+      "primary_url": "https://x.com/steipete/status/2095678161052901828",
+      "source": "X：Peter Steinberger (@steipete)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "88668d12efc36de4d3889d01672c85d33cbb287b",
-          "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-          "url": "https://www.ithome.com/0/998/208.htm",
-          "source": "IT之家（RSS）",
+          "id": "b7461e269f4ce5431de650bddf050706285050c8",
+          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+          "url": "https://x.com/steipete/status/2095678161052901828",
+          "source": "X：Peter Steinberger (@steipete)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T22:28:07Z"
-        },
-        {
-          "id": "4ad6bf7bb55d18c1bb0ec43f1b625fbbafa185c9",
-          "title": "OpenAI GPT-6 Astra 发布，首次达到“关键”级网络安全能力门槛",
-          "url": "https://www.ithome.com/0/998/208.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T22:28:07Z"
-        },
-        {
-          "id": "2b0f9d80ad6efd777c7d44519a33cb33661291b7",
-          "title": "OpenAI GPT-6 Astra 发布：首次达到“关键”级网络安全能力门槛，布罗克曼认为 AGI 时代已经到来",
-          "url": "https://www.ithome.com/0/998/208.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T22:28:07Z"
+          "published_at": "2026-09-04T00:59:44Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "X：Peter Steinberger (@steipete)"
       ],
       "items": [
         {
-          "id": "88668d12efc36de4d3889d01672c85d33cbb287b",
-          "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-          "url": "https://www.ithome.com/0/998/208.htm",
-          "source": "IT之家（RSS）",
+          "id": "b7461e269f4ce5431de650bddf050706285050c8",
+          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+          "url": "https://x.com/steipete/status/2095678161052901828",
+          "source": "X：Peter Steinberger (@steipete)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T22:28:07Z"
-        },
-        {
-          "id": "4ad6bf7bb55d18c1bb0ec43f1b625fbbafa185c9",
-          "title": "OpenAI GPT-6 Astra 发布，首次达到“关键”级网络安全能力门槛",
-          "url": "https://www.ithome.com/0/998/208.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T22:28:07Z"
-        },
-        {
-          "id": "2b0f9d80ad6efd777c7d44519a33cb33661291b7",
-          "title": "OpenAI GPT-6 Astra 发布：首次达到“关键”级网络安全能力门槛，布罗克曼认为 AGI 时代已经到来",
-          "url": "https://www.ithome.com/0/998/208.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T22:28:07Z"
+          "published_at": "2026-09-04T00:59:44Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.93,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9608,
-        "story_heat": 0.5
+        "recency": 0.9243,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T22:28:07Z",
-      "latest_at": "2026-09-03T22:28:07Z",
+      "earliest_at": "2026-09-04T00:59:44Z",
+      "latest_at": "2026-09-04T00:59:44Z",
       "primary_item": {
-        "id": "88668d12efc36de4d3889d01672c85d33cbb287b",
-        "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-        "url": "https://www.ithome.com/0/998/208.htm",
-        "source": "IT之家（RSS）",
+        "id": "b7461e269f4ce5431de650bddf050706285050c8",
+        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+        "url": "https://x.com/steipete/status/2095678161052901828",
+        "source": "X：Peter Steinberger (@steipete)",
         "source_name": "AI HOT"
       }
     },
@@ -924,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.826,
+        "recency": 0.7661,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1006,15 +988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8529,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1125,15 +1107,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8954,
+        "recency": 0.8305,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1206,15 +1188,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9443,
+        "recency": 0.8759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1268,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9228,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1349,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9008,
+        "recency": 0.8355,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1374,6 +1356,148 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_894943735074",
+      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+      "url": "https://x.com/frxiaobei/status/2095682473745363068",
+      "primary_url": "https://x.com/frxiaobei/status/2095682473745363068",
+      "source": "X：小北 (@frxiaobei)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
+          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "url": "https://x.com/frxiaobei/status/2095682473745363068",
+          "source": "X：小北 (@frxiaobei)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T01:16:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小北 (@frxiaobei)"
+      ],
+      "items": [
+        {
+          "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
+          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "url": "https://x.com/frxiaobei/status/2095682473745363068",
+          "source": "X：小北 (@frxiaobei)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T01:16:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9281,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T01:16:52Z",
+      "latest_at": "2026-09-04T01:16:52Z",
+      "primary_item": {
+        "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
+        "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+        "url": "https://x.com/frxiaobei/status/2095682473745363068",
+        "source": "X：小北 (@frxiaobei)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8cb68be363d4",
+      "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+      "url": "https://www.aibase.com/news/30835",
+      "primary_url": "https://www.aibase.com/news/30835",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6ae178bf91296eccddd95d1a602f85b598268e03",
+          "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+          "url": "https://www.aibase.com/news/30835",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T06:26:56.308078Z"
+        },
+        {
+          "id": "f2ac56367c6e0e13e3a406897a50f0481b63d7b3",
+          "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+          "url": "https://www.aibase.com/zh/news/30835",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6ae178bf91296eccddd95d1a602f85b598268e03",
+          "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+          "url": "https://www.aibase.com/news/30835",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T06:26:56.308078Z"
+        },
+        {
+          "id": "f2ac56367c6e0e13e3a406897a50f0481b63d7b3",
+          "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+          "url": "https://www.aibase.com/zh/news/30835",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T06:26:56.308078Z",
+      "latest_at": "2026-09-04T06:26:56.308078Z",
+      "primary_item": {
+        "id": "6ae178bf91296eccddd95d1a602f85b598268e03",
+        "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
+        "url": "https://www.aibase.com/news/30835",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1430,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8358,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1458,49 +1582,49 @@
       }
     },
     {
-      "story_id": "story_91dec8c98178",
-      "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-      "url": "https://x.com/sundarpichai/status/2095569375373984139",
-      "primary_url": "https://x.com/sundarpichai/status/2095569375373984139",
-      "source": "X：Sundar Pichai (@sundarpichai)",
+      "story_id": "story_802b31901bc5",
+      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "primary_url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
-          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-          "url": "https://x.com/sundarpichai/status/2095569375373984139",
-          "source": "X：Sundar Pichai (@sundarpichai)",
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T17:47:27Z"
+          "published_at": "2026-09-04T02:29:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
-          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-          "url": "https://x.com/sundarpichai/status/2095569375373984139",
-          "source": "X：Sundar Pichai (@sundarpichai)",
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T17:47:27Z"
+          "published_at": "2026-09-04T02:29:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.87,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8981,
+        "recency": 0.9445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,155 +1632,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T17:47:27Z",
-      "latest_at": "2026-09-03T17:47:27Z",
+      "earliest_at": "2026-09-04T02:29:45Z",
+      "latest_at": "2026-09-04T02:29:45Z",
       "primary_item": {
-        "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
-        "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-        "url": "https://x.com/sundarpichai/status/2095569375373984139",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4a465346fe83",
-      "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
-      "url": "https://www.aibase.com/news/30814",
-      "primary_url": "https://www.aibase.com/news/30814",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4f2e1f8e449db2225a81112c4d338ffacc3748dd",
-          "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
-          "url": "https://www.aibase.com/news/30814",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T01:14:06.514283Z"
-        },
-        {
-          "id": "d6b3d241355fd8b7c381e90f78ea6ef26f643395",
-          "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
-          "url": "https://www.aibase.com/zh/news/30814",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4f2e1f8e449db2225a81112c4d338ffacc3748dd",
-          "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
-          "url": "https://www.aibase.com/news/30814",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T01:14:06.514283Z"
-        },
-        {
-          "id": "d6b3d241355fd8b7c381e90f78ea6ef26f643395",
-          "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
-          "url": "https://www.aibase.com/zh/news/30814",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T01:14:06.514283Z",
-      "latest_at": "2026-09-04T01:14:06.514283Z",
-      "primary_item": {
-        "id": "4f2e1f8e449db2225a81112c4d338ffacc3748dd",
-        "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
-        "url": "https://www.aibase.com/news/30814",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1f62735b01ea",
-      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-      "url": "https://x.com/satyanadella/status/2095587182039969861",
-      "primary_url": "https://x.com/satyanadella/status/2095587182039969861",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-          "url": "https://x.com/satyanadella/status/2095587182039969861",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:58:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-          "url": "https://x.com/satyanadella/status/2095587182039969861",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:58:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9135,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T18:58:12Z",
-      "latest_at": "2026-09-03T18:58:12Z",
-      "primary_item": {
-        "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
-        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-        "url": "https://x.com/satyanadella/status/2095587182039969861",
-        "source": "X：Satya Nadella (@satyanadella)",
+        "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+        "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     }
