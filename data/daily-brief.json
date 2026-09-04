@@ -1,106 +1,67 @@
 {
-  "generated_at": "2026-09-04T11:39:36.377617Z",
+  "generated_at": "2026-09-04T16:09:32.718122Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_5190d2a1dccd",
-      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "primary_url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
+      "story_id": "story_d4ae66cc1a19",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI News",
+          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
+          "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "ba4ff70e1e7247c8197fbcdb6e530b7d1439d623",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders：10 亿美元承诺保护关键服务",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-04T16:04:14Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Readhub · AI"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI News",
+          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
+          "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "ba4ff70e1e7247c8197fbcdb6e530b7d1439d623",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders：10 亿美元承诺保护关键服务",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-04T16:04:14Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7235,
-        "story_heat": 0.5
+        "ai_relevance": 0.87,
+        "recency": 0.9987,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T13:15:00Z",
-      "latest_at": "2026-09-03T23:10:13.139621Z",
+      "earliest_at": "2026-09-04T16:04:14Z",
+      "latest_at": "2026-09-04T16:04:14Z",
       "primary_item": {
-        "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
-        "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-        "source": "OpenAI News",
+        "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
+        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -196,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8012,
+        "recency": 0.7508,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -315,15 +276,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.7934,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,188 +300,6 @@
         "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
         "url": "https://arcprize.org/blog/astra",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d75554c78e0f",
-      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "primary_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T15:02:08Z"
-        },
-        {
-          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T15:02:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T15:02:08Z"
-        },
-        {
-          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T15:02:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7424,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T15:02:08Z",
-      "latest_at": "2026-09-03T15:02:08Z",
-      "primary_item": {
-        "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
-        "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7f85661884a2",
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T11:59:49Z"
-        },
-        {
-          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
-          "title": "英伟达将收购Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "blogs.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T14:57:29.191000Z"
-        },
-        {
-          "id": "166e399053057262b30e5296bd18f79620cc2ca4",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "NVIDIA Blog（RSS）",
-        "Readhub · AI",
-        "blogs.nvidia.com"
-      ],
-      "items": [
-        {
-          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T11:59:49Z"
-        },
-        {
-          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
-          "title": "英伟达将收购Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "blogs.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T14:57:29.191000Z"
-        },
-        {
-          "id": "166e399053057262b30e5296bd18f79620cc2ca4",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.91,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7106,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T11:59:49Z",
-      "latest_at": "2026-09-03T14:57:29.191000Z",
-      "primary_item": {
-        "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-        "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-        "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -559,15 +338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7844,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -587,65 +366,84 @@
       }
     },
     {
-      "story_id": "story_96a3500c5a4b",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_03afda2e88fe",
+      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+      "url": "https://www.ithome.com/0/998/593.htm",
+      "primary_url": "https://www.ithome.com/0/998/593.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
+          "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T12:41:05Z"
+        },
+        {
+          "id": "327fbe2c77b6dd92161bf82e6219255f68ca266d",
+          "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T12:41:05Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
+          "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T12:41:05Z"
+        },
+        {
+          "id": "327fbe2c77b6dd92161bf82e6219255f68ca266d",
+          "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T12:41:05Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7233,
-        "story_heat": 0.0
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9511,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T13:13:48Z",
-      "latest_at": "2026-09-03T13:13:48Z",
+      "earliest_at": "2026-09-04T12:41:05Z",
+      "latest_at": "2026-09-04T12:41:05Z",
       "primary_item": {
-        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+        "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+        "url": "https://www.ithome.com/0/998/593.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -702,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -727,149 +525,6 @@
         "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6d90549814a1",
-      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-      "url": "https://www.ithome.com/0/998/248.htm",
-      "primary_url": "https://www.ithome.com/0/998/248.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
-        },
-        {
-          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
-          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T00:38:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
-        },
-        {
-          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
-          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T00:38:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.853,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:38:47Z",
-      "latest_at": "2026-09-04T00:38:47Z",
-      "primary_item": {
-        "id": "ce2303998489384f999253e9b6e4a340881372b2",
-        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "url": "https://www.ithome.com/0/998/248.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bedb7b253059",
-      "title": "GitHub Copilot app for Beginners: Run several agents at once",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-          "title": "GitHub Copilot app for Beginners: Run several agents at once",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-          "title": "GitHub Copilot app for Beginners: Run several agents at once",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7528,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T16:00:00Z",
-      "latest_at": "2026-09-03T16:00:00Z",
-      "primary_item": {
-        "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-        "title": "GitHub Copilot app for Beginners: Run several agents at once",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -907,15 +562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.93,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.8033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,88 +586,6 @@
         "url": "https://x.com/steipete/status/2095678161052901828",
         "source": "X：Peter Steinberger (@steipete)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7a45b185cff5",
-      "title": "Playco 用 GPT-6 Astra 将游戏原型制作的手动修复减少 50% / Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "primary_url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
-          "title": "Playco 用 GPT-6 Astra 将游戏原型制作的手动修复减少 50% / Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        },
-        {
-          "id": "a653ea2324c3aee67e67d3b670f0f508ce348196",
-          "title": "Playco 用 GPT-6 Astra 将游戏原型制作的手动修复减少 50%",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
-          "title": "Playco 用 GPT-6 Astra 将游戏原型制作的手动修复减少 50% / Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        },
-        {
-          "id": "a653ea2324c3aee67e67d3b670f0f508ce348196",
-          "title": "Playco 用 GPT-6 Astra 将游戏原型制作的手动修复减少 50%",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7106,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T12:00:00Z",
-      "latest_at": "2026-09-03T20:52:03.838785Z",
-      "primary_item": {
-        "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
-        "title": "Playco 用 GPT-6 Astra 将游戏原型制作的手动修复减少 50% / Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1069,15 +642,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9371,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1097,121 +670,63 @@
       }
     },
     {
-      "story_id": "story_e6a4832f97cd",
-      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-      "url": "https://ifm.ai/blog/k2",
-      "primary_url": "https://ifm.ai/blog/k2",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_1a1b5bf83c9c",
+      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+      "url": "https://x.com/kimmonismus/status/2095837763517988869",
+      "primary_url": "https://x.com/kimmonismus/status/2095837763517988869",
+      "source": "X：Kim (@kimmonismus)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "ac9cfd4e4a7aa529be792e1e51656b5c10d1272a",
+          "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+          "url": "https://x.com/kimmonismus/status/2095837763517988869",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T17:35:09.004000Z"
-        },
-        {
-          "id": "a358cf099e44b982be454303e9e521b6774fd746",
-          "title": "K2 Horizon：前沿性能，极致开放",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "ifm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T17:35:09.004000Z"
-        },
-        {
-          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T15:36:43Z"
-        },
-        {
-          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: Frontier Performance, Radically Open",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T15:36:43Z"
+          "published_at": "2026-09-04T11:33:56Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ifm.ai"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "ac9cfd4e4a7aa529be792e1e51656b5c10d1272a",
+          "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+          "url": "https://x.com/kimmonismus/status/2095837763517988869",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T17:35:09.004000Z"
-        },
-        {
-          "id": "a358cf099e44b982be454303e9e521b6774fd746",
-          "title": "K2 Horizon：前沿性能，极致开放",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "ifm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T17:35:09.004000Z"
-        },
-        {
-          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T15:36:43Z"
-        },
-        {
-          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: Frontier Performance, Radically Open",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T15:36:43Z"
+          "published_at": "2026-09-04T11:33:56Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
-        "story_heat": 0.75
+        "recency": 0.9358,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T15:36:43Z",
-      "latest_at": "2026-09-03T17:35:09.004000Z",
+      "earliest_at": "2026-09-04T11:33:56Z",
+      "latest_at": "2026-09-04T11:33:56Z",
       "primary_item": {
-        "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-        "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-        "url": "https://ifm.ai/blog/k2",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "ac9cfd4e4a7aa529be792e1e51656b5c10d1272a",
+        "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+        "url": "https://x.com/kimmonismus/status/2095837763517988869",
+        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       }
     },
@@ -1269,15 +784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8124,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1350,15 +865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7262,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1412,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7938,
+        "recency": 0.7439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1474,15 +989,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8608,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1554,15 +1069,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.7265,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1578,6 +1093,229 @@
         "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
         "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d90549814a1",
+      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+      "url": "https://www.ithome.com/0/998/248.htm",
+      "primary_url": "https://www.ithome.com/0/998/248.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:38:47Z"
+        },
+        {
+          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
+          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T00:38:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:38:47Z"
+        },
+        {
+          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
+          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T00:38:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7993,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T00:38:47Z",
+      "latest_at": "2026-09-04T00:38:47Z",
+      "primary_item": {
+        "id": "ce2303998489384f999253e9b6e4a340881372b2",
+        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "url": "https://www.ithome.com/0/998/248.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0f3b76bc480d",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "primary_url": "https://openai.com/index/gpt-6-astra",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfb9ab625bd607a4cef1b012c594888e3d445158",
+          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:07:48.515000Z"
+        },
+        {
+          "id": "9e66dbff8e31470459ce4f8fe64cbba0bfb1a352",
+          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力 / GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.515000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "dfb9ab625bd607a4cef1b012c594888e3d445158",
+          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:07:48.515000Z"
+        },
+        {
+          "id": "9e66dbff8e31470459ce4f8fe64cbba0bfb1a352",
+          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力 / GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.515000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7934,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T00:07:48.515000Z",
+      "latest_at": "2026-09-04T00:07:48.515000Z",
+      "primary_item": {
+        "id": "dfb9ab625bd607a4cef1b012c594888e3d445158",
+        "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+        "url": "https://openai.com/index/gpt-6-astra",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91dec8c98178",
+      "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+      "url": "https://x.com/sundarpichai/status/2095569375373984139",
+      "primary_url": "https://x.com/sundarpichai/status/2095569375373984139",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
+          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+          "url": "https://x.com/sundarpichai/status/2095569375373984139",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
+          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+          "url": "https://x.com/sundarpichai/status/2095569375373984139",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T17:47:27Z",
+      "latest_at": "2026-09-03T17:47:27Z",
+      "primary_item": {
+        "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
+        "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+        "url": "https://x.com/sundarpichai/status/2095569375373984139",
+        "source": "X：Sundar Pichai (@sundarpichai)",
         "source_name": "AI HOT"
       }
     },
@@ -1616,15 +1354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.876,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1639,6 +1377,148 @@
         "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
         "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3c7a15fe02ad",
+      "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+      "primary_url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b998f0cc21d042fb2482339ba1cd311accdcb11",
+          "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+          "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:25:40Z"
+        },
+        {
+          "id": "b004d8cfc69c5dabde203585aaa0eed6002af6ee",
+          "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+          "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T19:25:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9b998f0cc21d042fb2482339ba1cd311accdcb11",
+          "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+          "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:25:40Z"
+        },
+        {
+          "id": "b004d8cfc69c5dabde203585aaa0eed6002af6ee",
+          "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+          "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T19:25:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7413,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:25:40Z",
+      "latest_at": "2026-09-03T19:25:40Z",
+      "primary_item": {
+        "id": "9b998f0cc21d042fb2482339ba1cd311accdcb11",
+        "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+        "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_10d0627aae3c",
+      "title": "Hugging Face 宣布将以约 129.3 亿美元并入 NVIDIA，承诺保持平台开放独立",
+      "url": "https://x.com/EMostaque/status/2095549624547188825",
+      "primary_url": "https://x.com/EMostaque/status/2095549624547188825",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "077f152a01379b41fa32fa9a428515ca02f129bd",
+          "title": "Hugging Face 宣布将以约 129.3 亿美元并入 NVIDIA，承诺保持平台开放独立",
+          "url": "https://x.com/EMostaque/status/2095549624547188825",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T16:28:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Emad Mostaque (@EMostaque)"
+      ],
+      "items": [
+        {
+          "id": "077f152a01379b41fa32fa9a428515ca02f129bd",
+          "title": "Hugging Face 宣布将以约 129.3 亿美元并入 NVIDIA，承诺保持平台开放独立",
+          "url": "https://x.com/EMostaque/status/2095549624547188825",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T16:28:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7104,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T16:28:58Z",
+      "latest_at": "2026-09-03T16:28:58Z",
+      "primary_item": {
+        "id": "077f152a01379b41fa32fa9a428515ca02f129bd",
+        "title": "Hugging Face 宣布将以约 129.3 亿美元并入 NVIDIA，承诺保持平台开放独立",
+        "url": "https://x.com/EMostaque/status/2095549624547188825",
+        "source": "X：Emad Mostaque (@EMostaque)",
         "source_name": "AI HOT"
       }
     }
