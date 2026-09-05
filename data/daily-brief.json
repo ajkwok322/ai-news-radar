@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:52:22.537509Z",
+  "generated_at": "2026-09-05T04:00:10.101522Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8934,
+        "recency": 0.8417,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.932,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,87 +144,6 @@
         "title": "GPT-6 Astra is generally available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        },
-        {
-          "id": "dcfcb80918a5e6169f5ad622c94ff888b6c710a2",
-          "title": "Codex CLI 0.153.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        },
-        {
-          "id": "dcfcb80918a5e6169f5ad622c94ff888b6c710a2",
-          "title": "Codex CLI 0.153.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7084,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:00:00Z",
-      "latest_at": "2026-09-04T00:00:00Z",
-      "primary_item": {
-        "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-        "title": "Codex CLI 0.153.3",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -301,15 +220,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.8732,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -382,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9605,
+        "recency": 0.9049,
         "story_heat": 0.0
       },
       "category": "official",
@@ -525,15 +444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8579,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,6 +549,87 @@
         "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
         "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_670bbc23dba2",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "url": "https://www.ithome.com/0/998/661.htm",
+      "primary_url": "https://www.ithome.com/0/998/661.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        },
+        {
+          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
+          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        },
+        {
+          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
+          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9535,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T00:42:24Z",
+      "latest_at": "2026-09-05T00:42:24Z",
+      "primary_item": {
+        "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
+        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "url": "https://www.ithome.com/0/998/661.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -668,15 +668,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9486,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,148 +752,6 @@
         "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
         "url": "https://x.com/OpenAI/status/2095968413646737608",
         "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0f3b76bc480d",
-      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "primary_url": "https://openai.com/index/gpt-6-astra",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dfb9ab625bd607a4cef1b012c594888e3d445158",
-          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
-          "url": "https://openai.com/index/gpt-6-astra",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:48.515000Z"
-        },
-        {
-          "id": "9e66dbff8e31470459ce4f8fe64cbba0bfb1a352",
-          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力 / GPT-6 Astra",
-          "url": "https://openai.com/index/gpt-6-astra",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:48.515000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "dfb9ab625bd607a4cef1b012c594888e3d445158",
-          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
-          "url": "https://openai.com/index/gpt-6-astra",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:48.515000Z"
-        },
-        {
-          "id": "9e66dbff8e31470459ce4f8fe64cbba0bfb1a352",
-          "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力 / GPT-6 Astra",
-          "url": "https://openai.com/index/gpt-6-astra",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:48.515000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7097,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:07:48.515000Z",
-      "latest_at": "2026-09-04T00:07:48.515000Z",
-      "primary_item": {
-        "id": "dfb9ab625bd607a4cef1b012c594888e3d445158",
-        "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
-        "url": "https://openai.com/index/gpt-6-astra",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e1db8e18953",
-      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-      "url": "https://x.com/steipete/status/2095678161052901828",
-      "primary_url": "https://x.com/steipete/status/2095678161052901828",
-      "source": "X：Peter Steinberger (@steipete)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7461e269f4ce5431de650bddf050706285050c8",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-          "url": "https://x.com/steipete/status/2095678161052901828",
-          "source": "X：Peter Steinberger (@steipete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:59:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Peter Steinberger (@steipete)"
-      ],
-      "items": [
-        {
-          "id": "b7461e269f4ce5431de650bddf050706285050c8",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-          "url": "https://x.com/steipete/status/2095678161052901828",
-          "source": "X：Peter Steinberger (@steipete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:59:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.93,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7187,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:59:44Z",
-      "latest_at": "2026-09-04T00:59:44Z",
-      "primary_item": {
-        "id": "b7461e269f4ce5431de650bddf050706285050c8",
-        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
-        "url": "https://x.com/steipete/status/2095678161052901828",
-        "source": "X：Peter Steinberger (@steipete)",
         "source_name": "AI HOT"
       }
     },
@@ -932,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.902,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -957,67 +815,6 @@
         "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5b1c942a1ede",
-      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:45:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:45:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T17:45:09Z",
-      "latest_at": "2026-09-04T17:45:09Z",
-      "primary_item": {
-        "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-        "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-        "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1074,15 +871,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8383,
+        "recency": 0.7898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1099,6 +896,67 @@
         "url": "https://www.aibase.com/news/30838",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5b1c942a1ede",
+      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
+          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:45:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
+          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:45:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8624,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T17:45:09Z",
+      "latest_at": "2026-09-04T17:45:09Z",
+      "primary_item": {
+        "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
+        "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+        "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1136,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8372,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,148 +1017,6 @@
         "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
         "url": "https://x.com/kimmonismus/status/2095837763517988869",
         "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_894943735074",
-      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-      "url": "https://x.com/frxiaobei/status/2095682473745363068",
-      "primary_url": "https://x.com/frxiaobei/status/2095682473745363068",
-      "source": "X：小北 (@frxiaobei)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
-          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-          "url": "https://x.com/frxiaobei/status/2095682473745363068",
-          "source": "X：小北 (@frxiaobei)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T01:16:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小北 (@frxiaobei)"
-      ],
-      "items": [
-        {
-          "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
-          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-          "url": "https://x.com/frxiaobei/status/2095682473745363068",
-          "source": "X：小北 (@frxiaobei)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T01:16:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7216,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T01:16:52Z",
-      "latest_at": "2026-09-04T01:16:52Z",
-      "primary_item": {
-        "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
-        "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-        "url": "https://x.com/frxiaobei/status/2095682473745363068",
-        "source": "X：小北 (@frxiaobei)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6d90549814a1",
-      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-      "url": "https://www.ithome.com/0/998/248.htm",
-      "primary_url": "https://www.ithome.com/0/998/248.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
-        },
-        {
-          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
-          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T00:38:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
-        },
-        {
-          "id": "fe73266429b07f0f48f7bcae947e6add8d94a57a",
-          "title": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
-          "url": "https://www.ithome.com/0/998/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T00:38:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.715,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T00:38:47Z",
-      "latest_at": "2026-09-04T00:38:47Z",
-      "primary_item": {
-        "id": "ce2303998489384f999253e9b6e4a340881372b2",
-        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "url": "https://www.ithome.com/0/998/248.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1358,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.7837,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1386,63 +1102,456 @@
       }
     },
     {
-      "story_id": "story_802b31901bc5",
-      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-      "primary_url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "story_id": "story_2de22a56fa2f",
+      "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+      "url": "https://www.aibase.com/news/30841",
+      "primary_url": "https://www.aibase.com/news/30841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
+          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "url": "https://www.aibase.com/news/30841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T11:39:36.377617Z"
+        },
+        {
+          "id": "9ae332c3a6b6695fd720205e31099d65443c249f",
+          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "url": "https://www.aibase.com/zh/news/30841",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
+          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "url": "https://www.aibase.com/news/30841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T11:39:36.377617Z"
+        },
+        {
+          "id": "9ae332c3a6b6695fd720205e31099d65443c249f",
+          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+          "url": "https://www.aibase.com/zh/news/30841",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7898,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T11:39:36.377617Z",
+      "latest_at": "2026-09-04T11:39:36.377617Z",
+      "primary_item": {
+        "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
+        "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
+        "url": "https://www.aibase.com/news/30841",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4191638398ff",
+      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+      "url": "https://x.com/gdb/status/2095730639094079594",
+      "primary_url": "https://x.com/gdb/status/2095730639094079594",
+      "source": "X：Greg Brockman (@gdb)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
-          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+          "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+          "url": "https://x.com/gdb/status/2095730639094079594",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T02:29:45Z"
+          "published_at": "2026-09-04T04:28:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
-          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+          "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+          "url": "https://x.com/gdb/status/2095730639094079594",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T02:29:45Z"
+          "published_at": "2026-09-04T04:28:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7344,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T02:29:45Z",
-      "latest_at": "2026-09-04T02:29:45Z",
+      "earliest_at": "2026-09-04T04:28:15Z",
+      "latest_at": "2026-09-04T04:28:15Z",
       "primary_item": {
-        "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
-        "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-        "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+        "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+        "url": "https://x.com/gdb/status/2095730639094079594",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_03afda2e88fe",
+      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+      "url": "https://www.ithome.com/0/998/593.htm",
+      "primary_url": "https://www.ithome.com/0/998/593.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T12:41:05Z"
+        },
+        {
+          "id": "327fbe2c77b6dd92161bf82e6219255f68ca266d",
+          "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T12:41:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T12:41:05Z"
+        },
+        {
+          "id": "327fbe2c77b6dd92161bf82e6219255f68ca266d",
+          "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+          "url": "https://www.ithome.com/0/998/593.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T12:41:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8016,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T12:41:05Z",
+      "latest_at": "2026-09-04T12:41:05Z",
+      "primary_item": {
+        "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+        "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+        "url": "https://www.ithome.com/0/998/593.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_30078c24b45a",
+      "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+      "url": "https://www.aibase.com/news/30840",
+      "primary_url": "https://www.aibase.com/news/30840",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
+          "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+          "url": "https://www.aibase.com/news/30840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T11:39:36.377617Z"
+        },
+        {
+          "id": "17a1cc4860c61901fb207087e5e41e707508a170",
+          "title": "Vara 获全球首个自主乳腺癌筛查 AI 认证",
+          "url": "https://www.aibase.com/zh/news/30840",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
+          "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+          "url": "https://www.aibase.com/news/30840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T11:39:36.377617Z"
+        },
+        {
+          "id": "17a1cc4860c61901fb207087e5e41e707508a170",
+          "title": "Vara 获全球首个自主乳腺癌筛查 AI 认证",
+          "url": "https://www.aibase.com/zh/news/30840",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7898,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T11:39:36.377617Z",
+      "latest_at": "2026-09-04T11:39:36.377617Z",
+      "primary_item": {
+        "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
+        "title": "Vara获全球首个自主乳腺癌筛查AI认证",
+        "url": "https://www.aibase.com/news/30840",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-04",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "54e6b006f6ff09367a8b472a3d4b9de8cfbb2d04",
+          "title": "DeepSeek Harness的 \"一切皆插件\" 背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的地基。这篇文章，作者用通俗易懂的语言，把 Cordis 的魅力介绍给大家！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "7e0f0d50376579f81e276701027585ca6d473b64",
+          "title": "GEO 项目最容易卡在验收：服务商拿出一条提及率曲线，品牌方却还是说不清，这钱到底花得值不值。这篇文章把GEO验收拆成了三层：先看 AI 可见度，品牌有没有出现、排第几、有没有交易卡片；再看内容质量，AI 有没有说对、核心卖点有没有出来、服务商内容有没有被引用；最后看业务结果，成交、线索、官网回流能不能追到来源。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "767f0f47ea12becd1db24cd665eec5e094978717",
+          "title": "作者把6年 Obsidian 经验讲得很透：从本地 Markdown、双链、常青笔记，到 AI 辅助知识库的 raw / wiki / outputs 分层、AI 输出落文件、定期健康检查。想做个人知识管理、内容输出、AI 知识库的小白和创作者值得收藏慢慢啃。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "b25c3eaa6cb236f09aaf8f8d307f39d9c083d04f",
+          "title": "小歪整理了GPT‑6 Astra 的超全案例合集、还有详细的跑分变化、价格和体验入口。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "a43488a488d5cf09c8d60653518c4ef7e42adba4",
+          "title": "很多人学机器学习，卡住的地方并不是资料不够，而是路线图太满。这篇文章把8个月拆成4个阶段。想转行机器学习工程师、又不想被无数个技术名词劝退的人不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "d84e74ba69960bc410bebd9239a3b6d6c54da769",
+          "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "社区更新 · 2026-09-04"
+      ],
+      "items": [
+        {
+          "id": "54e6b006f6ff09367a8b472a3d4b9de8cfbb2d04",
+          "title": "DeepSeek Harness的 \"一切皆插件\" 背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的地基。这篇文章，作者用通俗易懂的语言，把 Cordis 的魅力介绍给大家！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "7e0f0d50376579f81e276701027585ca6d473b64",
+          "title": "GEO 项目最容易卡在验收：服务商拿出一条提及率曲线，品牌方却还是说不清，这钱到底花得值不值。这篇文章把GEO验收拆成了三层：先看 AI 可见度，品牌有没有出现、排第几、有没有交易卡片；再看内容质量，AI 有没有说对、核心卖点有没有出来、服务商内容有没有被引用；最后看业务结果，成交、线索、官网回流能不能追到来源。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "767f0f47ea12becd1db24cd665eec5e094978717",
+          "title": "作者把6年 Obsidian 经验讲得很透：从本地 Markdown、双链、常青笔记，到 AI 辅助知识库的 raw / wiki / outputs 分层、AI 输出落文件、定期健康检查。想做个人知识管理、内容输出、AI 知识库的小白和创作者值得收藏慢慢啃。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "b25c3eaa6cb236f09aaf8f8d307f39d9c083d04f",
+          "title": "小歪整理了GPT‑6 Astra 的超全案例合集、还有详细的跑分变化、价格和体验入口。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "a43488a488d5cf09c8d60653518c4ef7e42adba4",
+          "title": "很多人学机器学习，卡住的地方并不是资料不够，而是路线图太满。这篇文章把8个月拆成4个阶段。想转行机器学习工程师、又不想被无数个技术名词劝退的人不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        },
+        {
+          "id": "d84e74ba69960bc410bebd9239a3b6d6c54da769",
+          "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T19:04:11.787598Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6682,
+      "importance": 0.6682,
+      "importance_score": 0.6682,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.54,
+        "ai_relevance": 0.7,
+        "recency": 0.879,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-04T19:04:11.787598Z",
+      "latest_at": "2026-09-04T19:04:11.787598Z",
+      "primary_item": {
+        "id": "d84e74ba69960bc410bebd9239a3b6d6c54da769",
+        "title": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-04",
+        "source_name": "WaytoAGI"
       }
     }
   ]
