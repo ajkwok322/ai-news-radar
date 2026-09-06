@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:09:52.887548Z",
+  "generated_at": "2026-09-06T04:59:31.205956Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.8543,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,105 @@
         "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
         "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
+        },
+        {
+          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
+          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "32b897478229f1071bbe306166f519e50a664973",
+          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Readhub · AI",
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
+        },
+        {
+          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
+          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "32b897478229f1071bbe306166f519e50a664973",
+          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7786,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T11:39:52Z",
+      "latest_at": "2026-09-06T04:59:31.205956Z",
+      "primary_item": {
+        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -138,15 +237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.7742,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9206,
+        "recency": 0.8586,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -308,30 +407,30 @@
       }
     },
     {
-      "story_id": "story_e2d719d60d77",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "story_id": "story_61744e8cf204",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
+          "published_at": "2026-09-05T07:41:03Z"
         },
         {
-          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-05T13:31:04Z"
+          "published_at": "2026-09-05T07:41:03Z"
         }
       ],
       "source_count": 2,
@@ -341,35 +440,35 @@
       ],
       "items": [
         {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
+          "published_at": "2026-09-05T07:41:03Z"
         },
         {
-          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-05T13:31:04Z"
+          "published_at": "2026-09-05T07:41:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8575,
+        "recency": 0.7351,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -378,94 +477,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
+      "earliest_at": "2026-09-05T07:41:03Z",
+      "latest_at": "2026-09-05T07:41:03Z",
       "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        },
-        {
-          "id": "32b897478229f1071bbe306166f519e50a664973",
-          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        },
-        {
-          "id": "32b897478229f1071bbe306166f519e50a664973",
-          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8348,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:39:52Z",
-      "latest_at": "2026-09-05T15:04:57.198035Z",
-      "primary_item": {
-        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -504,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7905,
+        "recency": 0.7373,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -612,30 +630,30 @@
       }
     },
     {
-      "story_id": "story_61744e8cf204",
-      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "story_id": "story_e2d719d60d77",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
+          "published_at": "2026-09-05T13:31:04Z"
         },
         {
-          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-05T07:41:03Z"
+          "published_at": "2026-09-05T13:31:04Z"
         }
       ],
       "source_count": 2,
@@ -645,35 +663,35 @@
       ],
       "items": [
         {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
+          "published_at": "2026-09-05T13:31:04Z"
         },
         {
-          "id": "34bb7ac591aae9d385061aa2e2715b26d555eb47",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-05T07:41:03Z"
+          "published_at": "2026-09-05T13:31:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7882,
+        "recency": 0.7997,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -682,12 +700,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-05T07:41:03Z",
-      "latest_at": "2026-09-05T07:41:03Z",
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
       "primary_item": {
-        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
@@ -727,21 +745,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7912,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T07:56:50.597000Z",
       "latest_at": "2026-09-05T07:56:50.597000Z",
@@ -750,87 +767,6 @@
         "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
         "url": "https://github.com/anthropics/fermats-last-theorem",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_670bbc23dba2",
-      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-      "url": "https://www.ithome.com/0/998/661.htm",
-      "primary_url": "https://www.ithome.com/0/998/661.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://www.ithome.com/0/998/661.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T00:42:24Z"
-        },
-        {
-          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
-          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://www.ithome.com/0/998/661.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T00:42:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://www.ithome.com/0/998/661.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T00:42:24Z"
-        },
-        {
-          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
-          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://www.ithome.com/0/998/661.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T00:42:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T00:42:24Z",
-      "latest_at": "2026-09-05T00:42:24Z",
-      "primary_item": {
-        "id": "9737466c9c47af0c10bca079a5a5a2651acd15f4",
-        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-        "url": "https://www.ithome.com/0/998/661.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -923,15 +859,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6342,
-      "importance": 0.6342,
-      "importance_score": 0.6342,
+      "score": 0.6228,
+      "importance": 0.6228,
+      "importance_score": 0.6228,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.8809,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1038,15 +974,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5863,
-      "importance": 0.5863,
-      "importance_score": 0.5863,
+      "score": 0.5749,
+      "importance": 0.5749,
+      "importance_score": 0.5749,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9474,
+        "recency": 0.8836,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1135,15 +1071,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.9083,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1161,30 +1097,30 @@
       }
     },
     {
-      "story_id": "story_7b7e5871aea3",
-      "title": "America's two largest school districts impose AI moratoriums",
-      "url": "https://news.ycombinator.com/item?id=49580980",
-      "primary_url": "https://news.ycombinator.com/item?id=49580980",
+      "story_id": "story_ae0c2e3335c6",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://news.ycombinator.com/item?id=49582582",
+      "primary_url": "https://news.ycombinator.com/item?id=49582582",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://news.ycombinator.com/item?id=49580980",
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-05T23:56:39.671000Z"
+          "published_at": "2026-09-06T05:00:22.240000Z"
         },
         {
-          "id": "137de3428944d9b069466dd685f194a57994c0b8",
-          "title": "America's Two Largest School Districts Impose AI Moratoriums",
-          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-05T21:43:22Z"
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "source_count": 2,
@@ -1194,128 +1130,49 @@
       ],
       "items": [
         {
-          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://news.ycombinator.com/item?id=49580980",
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-05T23:56:39.671000Z"
+          "published_at": "2026-09-06T05:00:22.240000Z"
         },
         {
-          "id": "137de3428944d9b069466dd685f194a57994c0b8",
-          "title": "America's Two Largest School Districts Impose AI Moratoriums",
-          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-05T21:43:22Z"
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T21:43:22Z",
-      "latest_at": "2026-09-05T23:56:39.671000Z",
+      "earliest_at": "2026-09-06T01:52:45Z",
+      "latest_at": "2026-09-06T05:00:22.240000Z",
       "primary_item": {
-        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-        "title": "America's two largest school districts impose AI moratoriums",
-        "url": "https://news.ycombinator.com/item?id=49580980",
+        "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+        "title": "GPT-6 Astra on robot arms",
+        "url": "https://news.ycombinator.com/item?id=49582582",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a20ed4a4c949",
-      "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-      "primary_url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
-          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
-          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.972,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T20:00:00Z",
-      "latest_at": "2026-09-05T22:11:51.524015Z",
-      "primary_item": {
-        "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-        "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1390,15 +1247,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.828,
+        "recency": 0.7723,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1413,6 +1270,85 @@
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "source": "www.sylvainkalache.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a20ed4a4c949",
+      "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+      "primary_url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
+          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
+          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9065,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T20:00:00Z",
+      "latest_at": "2026-09-05T22:11:51.524015Z",
+      "primary_item": {
+        "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+        "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1469,15 +1405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9095,
+        "recency": 0.8483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,15 +1484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9063,
+        "recency": 0.8453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1627,15 +1563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.8327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1649,6 +1585,85 @@
         "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
         "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_44c50944f9bd",
+      "title": "费马最后定理的形式化表述",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
+          "title": "费马最后定理的形式化表述",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:46.923000Z"
+        },
+        {
+          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
+          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T12:54:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
+          "title": "费马最后定理的形式化表述",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:46.923000Z"
+        },
+        {
+          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
+          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T12:54:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8327,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T12:54:53Z",
+      "latest_at": "2026-09-05T16:18:46.923000Z",
+      "primary_item": {
+        "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
+        "title": "费马最后定理的形式化表述",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "source": "www.anthropic.com",
         "source_name": "Buzzing"
       }
     }
