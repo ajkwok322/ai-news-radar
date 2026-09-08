@@ -1,8 +1,291 @@
 {
-  "generated_at": "2026-09-08T18:27:22.989563Z",
+  "generated_at": "2026-09-08T21:21:37.853645Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_305f03a4aa6a",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "e2475f9da4eb6104eda4fab36f0f5224436a47fc",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T19:14:22.077000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "e2475f9da4eb6104eda4fab36f0f5224436a47fc",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T19:14:22.077000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8861,
+      "importance": 0.8861,
+      "importance_score": 0.8861,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8673,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T11:30:00Z",
+      "latest_at": "2026-09-08T19:14:22.077000Z",
+      "primary_item": {
+        "id": "e403851c39788b25d33193c78b15146edbe25fd8",
+        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7dd334d631a",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        },
+        {
+          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
+          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T14:14:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        },
+        {
+          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
+          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T14:14:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8992,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:00:15Z",
+      "latest_at": "2026-09-08T14:14:15Z",
+      "primary_item": {
+        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_917b521aa1cb",
+      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "e89293ec6919f4d3fe3fc093346e3b4871e4a0f8",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T19:47:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "e89293ec6919f4d3fe3fc093346e3b4871e4a0f8",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T19:47:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9463,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T17:32:15Z",
+      "latest_at": "2026-09-08T19:47:13Z",
+      "primary_item": {
+        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_fbb79928f7d9",
       "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
@@ -76,15 +359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8813,
-      "importance": 0.8813,
-      "importance_score": 0.8813,
+      "score": 0.8748,
+      "importance": 0.8748,
+      "importance_score": 0.8748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.885,
+        "recency": 0.8487,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,88 +384,6 @@
         "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
         "url": "https://openai.com/index/navier-stokes-solution",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7dd334d631a",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:00:15Z"
-        },
-        {
-          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
-          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T14:14:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:00:15Z"
-        },
-        {
-          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
-          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T14:14:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9377,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T14:00:15Z",
-      "latest_at": "2026-09-08T14:14:15Z",
-      "primary_item": {
-        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -221,15 +422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9429,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "official",
@@ -276,7 +477,7 @@
         },
         {
           "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "title": "纳维-斯托克斯方程——特里斯坦·巴克马斯特 [pdf] / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
           "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -285,7 +486,7 @@
         },
         {
           "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "title": "纳维-斯托克斯方程——特里斯坦·巴克马斯特 [pdf] / Navier-Stokes – Tristan Buckmaster [pdf]",
           "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -321,7 +522,7 @@
         },
         {
           "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "title": "纳维-斯托克斯方程——特里斯坦·巴克马斯特 [pdf] / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
           "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -330,7 +531,7 @@
         },
         {
           "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "title": "纳维-斯托克斯方程——特里斯坦·巴克马斯特 [pdf] / Navier-Stokes – Tristan Buckmaster [pdf]",
           "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -340,15 +541,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8516,
+        "recency": 0.8166,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -368,21 +569,21 @@
       }
     },
     {
-      "story_id": "story_184883cf7091",
-      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
-      "primary_url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "story_id": "story_49d221fd67ec",
+      "title": "New customer portal help.github.com",
+      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T16:46:05Z"
+          "published_at": "2026-09-08T18:00:10Z"
         }
       ],
       "source_count": 1,
@@ -391,26 +592,26 @@
       ],
       "items": [
         {
-          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T16:46:05Z"
+          "published_at": "2026-09-08T18:00:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9759,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,176 +620,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T16:46:05Z",
-      "latest_at": "2026-09-08T16:46:05Z",
+      "earliest_at": "2026-09-08T18:00:10Z",
+      "latest_at": "2026-09-08T18:00:10Z",
       "primary_item": {
-        "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-        "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+        "title": "New customer portal help.github.com",
+        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_917b521aa1cb",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9868,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T17:32:15Z",
-      "latest_at": "2026-09-08T17:32:15Z",
-      "primary_item": {
-        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_99c22bc85dd5",
-      "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "primary_url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "72f7284c770fa7bfb397929a87d1a7137972172b",
-          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
-          "url": "https://openai.com/index/teen-development-research-grants",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T09:00:00Z"
-        },
-        {
-          "id": "937033778d8c855940a3f80545b5f0a9efcc0bb8",
-          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究",
-          "url": "https://openai.com/index/teen-development-research-grants",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "72f7284c770fa7bfb397929a87d1a7137972172b",
-          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
-          "url": "https://openai.com/index/teen-development-research-grants",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T09:00:00Z"
-        },
-        {
-          "id": "937033778d8c855940a3f80545b5f0a9efcc0bb8",
-          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究",
-          "url": "https://openai.com/index/teen-development-research-grants",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8724,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T09:00:00Z",
-      "latest_at": "2026-09-08T18:27:22.989563Z",
-      "primary_item": {
-        "id": "72f7284c770fa7bfb397929a87d1a7137972172b",
-        "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
-        "url": "https://openai.com/index/teen-development-research-grants",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -684,15 +722,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8351,
+        "recency": 0.8008,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -709,6 +747,130 @@
         "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
         "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_184883cf7091",
+      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "primary_url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T16:46:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T16:46:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9358,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T16:46:05Z",
+      "latest_at": "2026-09-08T16:46:05Z",
+      "primary_item": {
+        "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
+        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+        "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_167bce5d47e7",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T17:00:00Z",
+      "latest_at": "2026-09-08T17:00:00Z",
+      "primary_item": {
+        "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -746,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9875,
+        "recency": 0.947,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9853,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,68 +993,6 @@
         "url": "https://x.com/polynoamial/status/2097375837670785447",
         "source": "X：Noam Brown (@polynoamial)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aaada63e998e",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "primary_url": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0c225103d8bbdb274acb89884cf1925952614089",
-          "title": "The Work Now Within Reach",
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0c225103d8bbdb274acb89884cf1925952614089",
-          "title": "The Work Now Within Reach",
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T13:00:00Z",
-      "latest_at": "2026-09-08T13:00:00Z",
-      "primary_item": {
-        "id": "0c225103d8bbdb274acb89884cf1925952614089",
-        "title": "The Work Now Within Reach",
-        "url": "https://openai.com/index/the-work-now-within-reach",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -930,15 +1030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9941,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,6 +1115,88 @@
         "url": "https://x.com/sama/status/2097385167002415140",
         "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_99c22bc85dd5",
+      "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "primary_url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "72f7284c770fa7bfb397929a87d1a7137972172b",
+          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T09:00:00Z"
+        },
+        {
+          "id": "937033778d8c855940a3f80545b5f0a9efcc0bb8",
+          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "72f7284c770fa7bfb397929a87d1a7137972172b",
+          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T09:00:00Z"
+        },
+        {
+          "id": "937033778d8c855940a3f80545b5f0a9efcc0bb8",
+          "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8365,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T09:00:00Z",
+      "latest_at": "2026-09-08T18:27:22.989563Z",
+      "primary_item": {
+        "id": "72f7284c770fa7bfb397929a87d1a7137972172b",
+        "title": "OpenAI 提供 500 万美元资助，支持青少年发展与 AI 影响研究 / Funding grants for new research into AI and teen development",
+        "url": "https://openai.com/index/teen-development-research-grants",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1071,15 +1253,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8244,
+        "recency": 0.7905,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1133,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.9393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7693,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8244,
+        "recency": 0.7905,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1300,206 +1482,63 @@
       }
     },
     {
-      "story_id": "story_3978b8b7d67f",
-      "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
-      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "primary_url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "story_id": "story_a5e7978336c1",
+      "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
+      "url": "https://x.com/OpenAI/status/2097431322117476423",
+      "primary_url": "https://x.com/OpenAI/status/2097431322117476423",
+      "source": "X：OpenAI (@OpenAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4648773b5be69038e86e0f83b083c9b4923dd65d",
-          "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
-          "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "6d724d8711f62543908c9eaf826f1446fef061a4",
+          "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
+          "url": "https://x.com/OpenAI/status/2097431322117476423",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T16:10:16Z"
+          "published_at": "2026-09-08T21:06:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "4648773b5be69038e86e0f83b083c9b4923dd65d",
-          "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
-          "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "6d724d8711f62543908c9eaf826f1446fef061a4",
+          "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
+          "url": "https://x.com/OpenAI/status/2097431322117476423",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T16:10:16Z"
+          "published_at": "2026-09-08T21:06:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9675,
+        "recency": 0.9963,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T16:10:16Z",
-      "latest_at": "2026-09-08T16:10:16Z",
+      "earliest_at": "2026-09-08T21:06:10Z",
+      "latest_at": "2026-09-08T21:06:10Z",
       "primary_item": {
-        "id": "4648773b5be69038e86e0f83b083c9b4923dd65d",
-        "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
-        "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "id": "6d724d8711f62543908c9eaf826f1446fef061a4",
+        "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
+        "url": "https://x.com/OpenAI/status/2097431322117476423",
+        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_671a9fed35e2",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.766,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T00:00:00Z",
-      "latest_at": "2026-09-08T00:00:00Z",
-      "primary_item": {
-        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
-        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3216b1335458",
-      "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
-      "url": "https://www.aibase.com/news/30890",
-      "primary_url": "https://www.aibase.com/news/30890",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "63ff6fb492d19d8817cf384dd96e9ef7b18ab73e",
-          "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
-          "url": "https://www.aibase.com/news/30890",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:04:58.032530Z"
-        },
-        {
-          "id": "5965757d604a6059514d18891ae3c842497e620c",
-          "title": "张一鸣亲自督导，字节跳动或将推出实时生成虚拟世界 AI 模型",
-          "url": "https://www.aibase.com/zh/news/30890",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "63ff6fb492d19d8817cf384dd96e9ef7b18ab73e",
-          "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
-          "url": "https://www.aibase.com/news/30890",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:04:58.032530Z"
-        },
-        {
-          "id": "5965757d604a6059514d18891ae3c842497e620c",
-          "title": "张一鸣亲自督导，字节跳动或将推出实时生成虚拟世界 AI 模型",
-          "url": "https://www.aibase.com/zh/news/30890",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8244,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T05:04:58.032530Z",
-      "latest_at": "2026-09-08T05:04:58.032530Z",
-      "primary_item": {
-        "id": "63ff6fb492d19d8817cf384dd96e9ef7b18ab73e",
-        "title": "张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型",
-        "url": "https://www.aibase.com/news/30890",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
