@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:21:59.079027Z",
+  "generated_at": "2026-09-10T06:32:51.873144Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8126,
+        "recency": 0.7541,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9273,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -239,15 +239,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.7946,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8685,
+        "recency": 0.8059,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8735,
+        "recency": 0.8105,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,15 +444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8365,
+        "recency": 0.7762,
         "story_heat": 0.25
       },
       "category": "official",
@@ -545,15 +545,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9279,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -607,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9491,
+        "recency": 0.8807,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,65 +635,64 @@
       }
     },
     {
-      "story_id": "story_ada2f6461358",
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cf9e7f8b7e08",
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
+          "id": "09e02b519b59037c4409e618dca34e880d033e48",
+          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T05:58:04.695000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "DeepSeek：API 更新日志"
       ],
       "items": [
         {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
+          "id": "09e02b519b59037c4409e618dca34e880d033e48",
+          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T05:58:04.695000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
-      "importance_label": "官方更新",
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8735,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:00:00Z",
-      "latest_at": "2026-09-09T16:00:00Z",
+      "earliest_at": "2026-09-10T05:58:04.695000Z",
+      "latest_at": "2026-09-10T05:58:04.695000Z",
       "primary_item": {
-        "id": "26fbf978c4fd836611834662158952580d960e28",
-        "title": "Recreating a 70-year love story frame by frame",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "09e02b519b59037c4409e618dca34e880d033e48",
+        "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -750,15 +749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -775,6 +774,68 @@
         "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ada2f6461358",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "26fbf978c4fd836611834662158952580d960e28",
+          "title": "Recreating a 70-year love story frame by frame",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "26fbf978c4fd836611834662158952580d960e28",
+          "title": "Recreating a 70-year love story frame by frame",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8105,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T16:00:00Z",
+      "latest_at": "2026-09-09T16:00:00Z",
+      "primary_item": {
+        "id": "26fbf978c4fd836611834662158952580d960e28",
+        "title": "Recreating a 70-year love story frame by frame",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -812,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,106 +896,6 @@
         "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
         "url": "https://x.com/natolambert/status/2097745018421236154",
         "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_048aa76fa30e",
-      "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "primary_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T07:10:03.765000Z"
-        },
-        {
-          "id": "c0b66a0d4d5c9e92b04b7e47ab3d1e4111752c85",
-          "title": "纳维-斯托克斯千禧年大奖问题 / The Navier–Stokes Millennium Prize Problem",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T05:55:39Z"
-        },
-        {
-          "id": "d1ab2c4789ac0e42ad3c4b7115aa3e2269b204e8",
-          "title": "纳维-斯托克斯千禧年大奖问题 / On the Navier–Stokes Millennium Prize Problem",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T07:10:03.765000Z"
-        },
-        {
-          "id": "c0b66a0d4d5c9e92b04b7e47ab3d1e4111752c85",
-          "title": "纳维-斯托克斯千禧年大奖问题 / The Navier–Stokes Millennium Prize Problem",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T05:55:39Z"
-        },
-        {
-          "id": "d1ab2c4789ac0e42ad3c4b7115aa3e2269b204e8",
-          "title": "纳维-斯托克斯千禧年大奖问题 / On the Navier–Stokes Millennium Prize Problem",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7689,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T04:15:13.386444Z",
-      "latest_at": "2026-09-09T07:10:03.765000Z",
-      "primary_item": {
-        "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
-        "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1029,15 +990,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.7813,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1110,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7388,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,6 +1096,87 @@
         "url": "https://www.ithome.com/1/000/353.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_737cd7fbb6b4",
+      "title": "​Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+      "url": "https://www.aibase.com/news/30947",
+      "primary_url": "https://www.aibase.com/news/30947",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ce01ab29f0dc10a53dc65dd042c4c408162fef34",
+          "title": "​Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+          "url": "https://www.aibase.com/news/30947",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T06:32:51.873144Z"
+        },
+        {
+          "id": "3608203350fd776816a068b1ee0e68e0a9d01bf8",
+          "title": "Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+          "url": "https://www.aibase.com/zh/news/30947",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ce01ab29f0dc10a53dc65dd042c4c408162fef34",
+          "title": "​Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+          "url": "https://www.aibase.com/news/30947",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T06:32:51.873144Z"
+        },
+        {
+          "id": "3608203350fd776816a068b1ee0e68e0a9d01bf8",
+          "title": "Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+          "url": "https://www.aibase.com/zh/news/30947",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T06:32:51.873144Z",
+      "latest_at": "2026-09-10T06:32:51.873144Z",
+      "primary_item": {
+        "id": "ce01ab29f0dc10a53dc65dd042c4c408162fef34",
+        "title": "​Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+        "url": "https://www.aibase.com/news/30947",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1172,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9128,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1233,15 +1275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8862,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1295,15 +1337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9184,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8934,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1381,87 +1423,6 @@
         "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_be8c6649d123",
-      "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
-      "url": "https://www.aibase.com/news/30940",
-      "primary_url": "https://www.aibase.com/news/30940",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "426faa5dfb6ba6b5e6d8fd2a88408df0fca0d9f4",
-          "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
-          "url": "https://www.aibase.com/news/30940",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T01:21:59.079027Z"
-        },
-        {
-          "id": "5ebfcfeb7434b5766aca7c45df1cbb3faeebdd12",
-          "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
-          "url": "https://www.aibase.com/zh/news/30940",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "426faa5dfb6ba6b5e6d8fd2a88408df0fca0d9f4",
-          "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
-          "url": "https://www.aibase.com/news/30940",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T01:21:59.079027Z"
-        },
-        {
-          "id": "5ebfcfeb7434b5766aca7c45df1cbb3faeebdd12",
-          "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
-          "url": "https://www.aibase.com/zh/news/30940",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T01:21:59.079027Z",
-      "latest_at": "2026-09-10T01:21:59.079027Z",
-      "primary_item": {
-        "id": "426faa5dfb6ba6b5e6d8fd2a88408df0fca0d9f4",
-        "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
-        "url": "https://www.aibase.com/news/30940",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1499,15 +1460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.7361,
         "story_heat": 0.0
       },
       "category": "industry",
