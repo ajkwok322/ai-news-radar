@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:23:54.074315Z",
+  "generated_at": "2026-09-11T00:25:53.547379Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8987,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9874,
+        "recency": 0.9589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,87 +144,6 @@
         "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e68db8d85219bed1556b149155beb7759db91bbc",
-          "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "4a626eb7c4e4a97cc2ed6e709431dddbf19fba02",
-          "title": "Codex CLI Python SDK 0.154.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "e68db8d85219bed1556b149155beb7759db91bbc",
-          "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "4a626eb7c4e4a97cc2ed6e709431dddbf19fba02",
-          "title": "Codex CLI Python SDK 0.154.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7237,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T00:00:00Z",
-      "latest_at": "2026-09-10T00:00:00Z",
-      "primary_item": {
-        "id": "e68db8d85219bed1556b149155beb7759db91bbc",
-        "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -263,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9865,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "official",
@@ -287,88 +206,6 @@
         "title": "Refreshed repository pull requests page in public preview",
         "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cb50b0c3c856",
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7237,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T00:00:00Z",
-      "latest_at": "2026-09-10T00:00:00Z",
-      "primary_item": {
-        "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
-        "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-        "url": "https://huggingface.co/blog/gradio-workflow-1111",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -407,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9117,
+        "recency": 0.8854,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,6 +269,105 @@
         "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e0bea100c91b",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "url": "https://shopify.engineering/back-to-native",
+      "primary_url": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:04:41.487000Z"
+        },
+        {
+          "id": "919cb537c88be6b4e4bd360a8378ac0f197c2b4f",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify is moving from React Native back to Swift and Kotlin",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-10T14:09:31Z"
+        },
+        {
+          "id": "0b5e6098b6676c21f931f4cbd7ee75ff9732efc0",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify moves back to Native from React Native",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-10T14:09:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:04:41.487000Z"
+        },
+        {
+          "id": "919cb537c88be6b4e4bd360a8378ac0f197c2b4f",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify is moving from React Native back to Swift and Kotlin",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-10T14:09:31Z"
+        },
+        {
+          "id": "0b5e6098b6676c21f931f4cbd7ee75ff9732efc0",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify moves back to Native from React Native",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-10T14:09:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8737,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T14:09:31Z",
+      "latest_at": "2026-09-10T15:04:41.487000Z",
+      "primary_item": {
+        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
+        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+        "url": "https://shopify.engineering/back-to-native",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -469,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9117,
+        "recency": 0.8854,
         "story_heat": 0.0
       },
       "category": "official",
@@ -550,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9794,
+        "recency": 0.9511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -612,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9708,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -693,15 +629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8926,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -717,87 +653,6 @@
         "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
         "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e0bea100c91b",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "primary_url": "https://shopify.engineering/back-to-native",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
-        },
-        {
-          "id": "0b5e6098b6676c21f931f4cbd7ee75ff9732efc0",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify moves back to Native from React Native",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T14:09:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
-        },
-        {
-          "id": "0b5e6098b6676c21f931f4cbd7ee75ff9732efc0",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发 / Shopify moves back to Native from React Native",
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T14:09:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8997,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T14:09:31Z",
-      "latest_at": "2026-09-10T15:04:41.487000Z",
-      "primary_item": {
-        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -855,15 +710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8006,
+        "recency": 0.7775,
         "story_heat": 0.25
       },
       "category": "official",
@@ -918,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8066,
+        "recency": 0.7833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -979,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.931,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,106 +859,6 @@
         "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8bb72b267cf0",
-      "title": "OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁",
-      "url": "https://www.aibase.com/news/30942",
-      "primary_url": "https://www.aibase.com/news/30942",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5aa5653527c27ec383b45c6d12eb6400486655a",
-          "title": "OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁",
-          "url": "https://www.aibase.com/news/30942",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T01:21:59.079027Z"
-        },
-        {
-          "id": "fccd7f8a9835adb0513227ba407e60980d2d055d",
-          "title": "OpenAI 悄然调整 ChatGPT 广告政策，封杀 Adobe 等竞品 AI 生图与语音广告",
-          "url": "https://www.aibase.com/zh/news/30938",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "aa7ee1742902b603b264eba357170e05802378e1",
-          "title": "OpenAI 悄然收紧 ChatGPT 广告政策，禁止 Adobe 等竞品投放 AI 生图与音频广告",
-          "url": "https://www.ithome.com/1/000/568.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-10T00:09:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a5aa5653527c27ec383b45c6d12eb6400486655a",
-          "title": "OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁",
-          "url": "https://www.aibase.com/news/30942",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T01:21:59.079027Z"
-        },
-        {
-          "id": "fccd7f8a9835adb0513227ba407e60980d2d055d",
-          "title": "OpenAI 悄然调整 ChatGPT 广告政策，封杀 Adobe 等竞品 AI 生图与语音广告",
-          "url": "https://www.aibase.com/zh/news/30938",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "aa7ee1742902b603b264eba357170e05802378e1",
-          "title": "OpenAI 悄然收紧 ChatGPT 广告政策，禁止 Adobe 等竞品投放 AI 生图与音频广告",
-          "url": "https://www.ithome.com/1/000/568.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-10T00:09:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7381,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T00:09:39Z",
-      "latest_at": "2026-09-10T01:21:59.079027Z",
-      "primary_item": {
-        "id": "a5aa5653527c27ec383b45c6d12eb6400486655a",
-        "title": "OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁",
-        "url": "https://www.aibase.com/news/30942",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1141,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9315,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,6 +920,87 @@
         "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
         "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8e27a13a4eae",
+      "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+      "url": "https://www.aibase.com/news/30960",
+      "primary_url": "https://www.aibase.com/news/30960",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
+          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+          "url": "https://www.aibase.com/news/30960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T12:10:04.299442Z"
+        },
+        {
+          "id": "eb2e6ebde1797a750432ded133bf111c9fe0464a",
+          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+          "url": "https://www.aibase.com/zh/news/30960",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
+          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+          "url": "https://www.aibase.com/news/30960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T12:10:04.299442Z"
+        },
+        {
+          "id": "eb2e6ebde1797a750432ded133bf111c9fe0464a",
+          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+          "url": "https://www.aibase.com/zh/news/30960",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8377,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T12:10:04.299442Z",
+      "latest_at": "2026-09-10T12:10:04.299442Z",
+      "primary_item": {
+        "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
+        "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+        "url": "https://www.aibase.com/news/30960",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1221,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8691,
+        "recency": 0.8439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1245,6 +1081,67 @@
         "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
         "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e49382d9afe6",
+      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+      "url": "https://cursor.com/blog/projects",
+      "primary_url": "https://cursor.com/blog/projects",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "url": "https://cursor.com/blog/projects",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "url": "https://cursor.com/blog/projects",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8357,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T12:00:00Z",
+      "latest_at": "2026-09-10T12:00:00Z",
+      "primary_item": {
+        "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+        "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+        "url": "https://cursor.com/blog/projects",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -1283,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8154,
+        "recency": 0.7919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,21 +1241,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7888,
+        "recency": 0.766,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-10T05:58:04.695000Z",
       "latest_at": "2026-09-10T05:58:04.695000Z",
@@ -1371,84 +1267,124 @@
       }
     },
     {
-      "story_id": "story_4e410dad70fb",
-      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "primary_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_646c4cfacd76",
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "primary_url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa499acdee266b73e44fc3c07d7788607b46c31a",
-          "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "fd465ec7bb37863901e6f1092e6bb1b9d73368c7",
-          "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "37075f1db40b91c96d53783998fe88076f5f141d",
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
+          "published_at": "2026-09-10T15:49:16Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)"
       ],
       "items": [
         {
-          "id": "fa499acdee266b73e44fc3c07d7788607b46c31a",
-          "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "fd465ec7bb37863901e6f1092e6bb1b9d73368c7",
-          "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
-          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "37075f1db40b91c96d53783998fe88076f5f141d",
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
+          "published_at": "2026-09-10T15:49:16Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8831,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T15:49:16Z",
+      "latest_at": "2026-09-10T15:49:16Z",
+      "primary_item": {
+        "id": "37075f1db40b91c96d53783998fe88076f5f141d",
+        "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+        "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1eb78558aa2a",
+      "title": "MAI-Code-1-Flash deprecated",
+      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+          "title": "MAI-Code-1-Flash deprecated",
+          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:54:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+          "title": "MAI-Code-1-Flash deprecated",
+          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:54:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7237,
-        "story_heat": 0.25
+        "ai_relevance": 0.87,
+        "recency": 0.8969,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T00:00:00Z",
-      "latest_at": "2026-09-10T00:00:00Z",
+      "earliest_at": "2026-09-10T16:54:01Z",
+      "latest_at": "2026-09-10T16:54:01Z",
       "primary_item": {
-        "id": "fa499acdee266b73e44fc3c07d7788607b46c31a",
-        "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "source": "OpenAI News",
+        "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+        "title": "MAI-Code-1-Flash deprecated",
+        "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     }
