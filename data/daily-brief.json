@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-09-14T19:11:22.872446Z",
+  "generated_at": "2026-09-14T22:41:03.717493Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_dce815e05e9f",
+      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "primary_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
+          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T12:40:57Z"
+        },
+        {
+          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
+          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "tenderlovemaking.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T16:02:42.072000Z"
+        },
+        {
+          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
+          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / OpenAI bots knew about the RubyGems caching vulnerability",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T12:40:57Z"
+        },
+        {
+          "id": "b5cda5dbb8efcff8bb8918744a6c26d9e49a1ac0",
+          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive – rouge AI agents attack RubyGems.org",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T12:40:57Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "tenderlovemaking.com"
+      ],
+      "items": [
+        {
+          "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
+          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T12:40:57Z"
+        },
+        {
+          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
+          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "tenderlovemaking.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T16:02:42.072000Z"
+        },
+        {
+          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
+          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / OpenAI bots knew about the RubyGems caching vulnerability",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T12:40:57Z"
+        },
+        {
+          "id": "b5cda5dbb8efcff8bb8918744a6c26d9e49a1ac0",
+          "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive – rouge AI agents attack RubyGems.org",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T12:40:57Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T12:40:57Z",
+      "latest_at": "2026-09-14T16:02:42.072000Z",
+      "primary_item": {
+        "id": "5658e52b13a561a05d335a6d1989fc01e5952b91",
+        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_91704e3cc457",
       "title": "Configure cost and quality in Copilot auto model selection",
@@ -38,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9562,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,21 +185,21 @@
       }
     },
     {
-      "story_id": "story_2267286cfd5c",
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "story_id": "story_6860ae25bff9",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
+          "published_at": "2026-09-14T19:00:00Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +208,26 @@
       ],
       "items": [
         {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
+          "published_at": "2026-09-14T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.955,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,12 +236,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T16:00:00Z",
-      "latest_at": "2026-09-14T16:00:00Z",
+      "earliest_at": "2026-09-14T19:00:00Z",
+      "latest_at": "2026-09-14T19:00:00Z",
       "primary_item": {
-        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-        "title": "DevFest is back",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+        "id": "4aba297759fbdbea54920e19cad219b1a7f81fff",
+        "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
@@ -162,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.758,
+        "recency": 0.7207,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,6 +306,149 @@
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2267286cfd5c",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.908,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T16:00:00Z",
+      "latest_at": "2026-09-14T16:00:00Z",
+      "primary_item": {
+        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+        "title": "DevFest is back",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_37cba5d6b8d5",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        },
+        {
+          "id": "fbbd43bf9f27aebb7c067c53e02904d67546178a",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        },
+        {
+          "id": "fbbd43bf9f27aebb7c067c53e02904d67546178a",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9051,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T15:46:45Z",
+      "latest_at": "2026-09-14T15:46:45Z",
+      "primary_item": {
+        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -243,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.8807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -268,6 +530,148 @@
         "url": "https://www.aibase.com/news/31030",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_82404ffdc91b",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "primary_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:56:20Z"
+        },
+        {
+          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T19:56:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:56:20Z"
+        },
+        {
+          "id": "8e769b3e4892d5d1da0982c6dce4e0ab29170994",
+          "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T19:56:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9611,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T19:56:20Z",
+      "latest_at": "2026-09-14T19:56:20Z",
+      "primary_item": {
+        "id": "b5c3cb1fd5f31603cbc13ab4200e05173e3b2423",
+        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dc4a5944da49",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "primary_url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "source": "Apple：Newsroom（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "957353dde116e324837409e8be470d90e7933e47",
+          "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T17:09:41.324000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "items": [
+        {
+          "id": "957353dde116e324837409e8be470d90e7933e47",
+          "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T17:09:41.324000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9233,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T17:09:41.324000Z",
+      "latest_at": "2026-09-14T17:09:41.324000Z",
+      "primary_item": {
+        "id": "957353dde116e324837409e8be470d90e7933e47",
+        "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+        "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+        "source": "Apple：Newsroom（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -324,15 +728,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.8807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -349,6 +753,186 @@
         "url": "https://www.aibase.com/news/31037",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_eb4d52e3874b",
+      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+      "url": "https://x.com/arena/status/2099549108013006958",
+      "primary_url": "https://x.com/arena/status/2099549108013006958",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
+          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+          "url": "https://x.com/arena/status/2099549108013006958",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T17:21:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
+          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+          "url": "https://x.com/arena/status/2099549108013006958",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T17:21:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.926,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-14T17:21:29Z",
+      "latest_at": "2026-09-14T17:21:29Z",
+      "primary_item": {
+        "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
+        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+        "url": "https://x.com/arena/status/2099549108013006958",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bdc1ffa510b1",
+      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+      "primary_url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
+          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T16:32:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "items": [
+        {
+          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
+          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T16:32:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9151,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-14T16:32:25Z",
+      "latest_at": "2026-09-14T16:32:25Z",
+      "primary_item": {
+        "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
+        "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+        "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f1dbbf70c25",
+      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "primary_url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f05f3a786cfee3052bbfcdfed2d4f3e8d2f356e",
+          "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+          "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:15:56.861000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "1f05f3a786cfee3052bbfcdfed2d4f3e8d2f356e",
+          "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+          "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T19:15:56.861000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9518,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-14T19:15:56.861000Z",
+      "latest_at": "2026-09-14T19:15:56.861000Z",
+      "primary_item": {
+        "id": "1f05f3a786cfee3052bbfcdfed2d4f3e8d2f356e",
+        "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+        "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -386,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8324,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -465,15 +1049,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.8807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -546,15 +1130,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -571,157 +1155,6 @@
         "url": "https://www.aibase.com/news/31025",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-14",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
-          "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "a4944df60da88fe8737867bc809c256535dc8f21",
-          "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "4051455cbc2a4f1235ca72787482b285f6396bf4",
-          "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
-          "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-13T21:04:12.448533Z"
-        },
-        {
-          "id": "23ba9bd3190f85ba309165c467fa1f2712e90e01",
-          "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-13T21:04:12.448533Z"
-        },
-        {
-          "id": "9c8e0964bbe9e466b9d4db15bf57b23acad54874",
-          "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-13T21:04:12.448533Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-09-13",
-        "社区更新 · 2026-09-14"
-      ],
-      "items": [
-        {
-          "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
-          "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "a4944df60da88fe8737867bc809c256535dc8f21",
-          "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "4051455cbc2a4f1235ca72787482b285f6396bf4",
-          "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
-          "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-13T21:04:12.448533Z"
-        },
-        {
-          "id": "23ba9bd3190f85ba309165c467fa1f2712e90e01",
-          "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-13T21:04:12.448533Z"
-        },
-        {
-          "id": "9c8e0964bbe9e466b9d4db15bf57b23acad54874",
-          "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-13T21:04:12.448533Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T21:04:12.448533Z",
-      "latest_at": "2026-09-14T19:11:22.872446Z",
-      "primary_item": {
-        "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
-        "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-14",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -778,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -803,6 +1236,102 @@
         "url": "https://www.aibase.com/news/31020",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-14",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
+          "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-14T19:11:22.872446Z"
+        },
+        {
+          "id": "a4944df60da88fe8737867bc809c256535dc8f21",
+          "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-14T19:11:22.872446Z"
+        },
+        {
+          "id": "4051455cbc2a4f1235ca72787482b285f6396bf4",
+          "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-14T19:11:22.872446Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-09-14"
+      ],
+      "items": [
+        {
+          "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
+          "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-14T19:11:22.872446Z"
+        },
+        {
+          "id": "a4944df60da88fe8737867bc809c256535dc8f21",
+          "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-14T19:11:22.872446Z"
+        },
+        {
+          "id": "4051455cbc2a4f1235ca72787482b285f6396bf4",
+          "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-14T19:11:22.872446Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6103,
+      "importance": 0.6103,
+      "importance_score": 0.6103,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9508,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T19:11:22.872446Z",
+      "latest_at": "2026-09-14T19:11:22.872446Z",
+      "primary_item": {
+        "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
+        "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-14",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -859,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -940,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -965,712 +1494,6 @@
         "url": "https://www.aibase.com/news/31012",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c30ba8a42b1",
-      "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "993f816775eadc79238823fd7f16e5a0509959d8",
-          "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T17:36:19.951000Z"
-        },
-        {
-          "id": "dee382a605db153ea8b3c859dbfb66ef0cc3d419",
-          "title": "受人工智能相关预警影响，股市回落，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:30.910000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "993f816775eadc79238823fd7f16e5a0509959d8",
-          "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T17:36:19.951000Z"
-        },
-        {
-          "id": "dee382a605db153ea8b3c859dbfb66ef0cc3d419",
-          "title": "受人工智能相关预警影响，股市回落，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:30.910000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5667,
-      "importance": 0.5667,
-      "importance_score": 0.5667,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9774,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T23:29:16.467000Z",
-      "latest_at": "2026-09-14T17:36:19.951000Z",
-      "primary_item": {
-        "id": "993f816775eadc79238823fd7f16e5a0509959d8",
-        "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0fa77dcd1de2",
-      "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "source": "www.vals.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0533fafa970879a7ac50ed1e76814513c1238415",
-          "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T05:48:18.200000Z"
-        },
-        {
-          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T22:25:23.276000Z"
-        },
-        {
-          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T21:06:13Z"
-        },
-        {
-          "id": "609bba8476226084de8142261dadb3ef6c29e187",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T21:06:13Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "www.vals.ai"
-      ],
-      "items": [
-        {
-          "id": "0533fafa970879a7ac50ed1e76814513c1238415",
-          "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T05:48:18.200000Z"
-        },
-        {
-          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T22:25:23.276000Z"
-        },
-        {
-          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T21:06:13Z"
-        },
-        {
-          "id": "609bba8476226084de8142261dadb3ef6c29e187",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T21:06:13Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8242,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T21:06:13Z",
-      "latest_at": "2026-09-14T05:48:18.200000Z",
-      "primary_item": {
-        "id": "0533fafa970879a7ac50ed1e76814513c1238415",
-        "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
-        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "source": "www.vals.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dce815e05e9f",
-      "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "primary_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "source": "tenderlovemaking.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "tenderlovemaking.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T16:02:42.072000Z"
-        },
-        {
-          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / OpenAI bots knew about the RubyGems caching vulnerability",
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "b5cda5dbb8efcff8bb8918744a6c26d9e49a1ac0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / What a time to be alive – rouge AI agents attack RubyGems.org",
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T12:40:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "tenderlovemaking.com"
-      ],
-      "items": [
-        {
-          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "tenderlovemaking.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T16:02:42.072000Z"
-        },
-        {
-          "id": "68796a2f63e9047de57b50a9f9e91ada11c0e245",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / OpenAI bots knew about the RubyGems caching vulnerability",
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T12:40:57Z"
-        },
-        {
-          "id": "b5cda5dbb8efcff8bb8918744a6c26d9e49a1ac0",
-          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / What a time to be alive – rouge AI agents attack RubyGems.org",
-          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T12:40:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5628,
-      "importance": 0.5628,
-      "importance_score": 0.5628,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9556,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T12:40:57Z",
-      "latest_at": "2026-09-14T16:02:42.072000Z",
-      "primary_item": {
-        "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
-        "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-        "source": "tenderlovemaking.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_465d6348b5a7",
-      "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
-      "url": "https://www.aibase.com/news/31018",
-      "primary_url": "https://www.aibase.com/news/31018",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "49ee80c0770053237704f464d060c88e1b5cab3c",
-          "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
-          "url": "https://www.aibase.com/news/31018",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T06:57:45.569332Z"
-        },
-        {
-          "id": "84fdb41b5707a6182c06e758036ab93e590c3cde",
-          "title": "马斯克：Grok 4.8 本周完成训练，参数量达 2.5 万亿，采用全新 C++ 软件栈",
-          "url": "https://www.aibase.com/zh/news/31018",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "49ee80c0770053237704f464d060c88e1b5cab3c",
-          "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
-          "url": "https://www.aibase.com/news/31018",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T06:57:45.569332Z"
-        },
-        {
-          "id": "84fdb41b5707a6182c06e758036ab93e590c3cde",
-          "title": "马斯克：Grok 4.8 本周完成训练，参数量达 2.5 万亿，采用全新 C++ 软件栈",
-          "url": "https://www.aibase.com/zh/news/31018",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8381,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T06:57:45.569332Z",
-      "latest_at": "2026-09-14T06:57:45.569332Z",
-      "primary_item": {
-        "id": "49ee80c0770053237704f464d060c88e1b5cab3c",
-        "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
-        "url": "https://www.aibase.com/news/31018",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5e2cec07176b",
-      "title": "欧盟将提议禁止 15 岁以下青少年使用社交媒体和 AI 聊天机器人",
-      "url": "https://www.gelonghui.com/live/2668223",
-      "primary_url": "https://www.gelonghui.com/live/2668223",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "26d9561a36504cc559b7934adea14588725b2cdb",
-          "title": "欧盟将提议禁止 15 岁以下青少年使用社交媒体和 AI 聊天机器人",
-          "url": "https://www.gelonghui.com/live/2668223",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "697037421fcde6292554cfeee473d8cbb137337a",
-          "title": "欧盟拟提议禁止15岁以下青少年使用社交媒体和AI聊天机器人",
-          "url": "https://www.reuters.com/legal/litigation/eu-is-set-propose-ban-social-media-ai-chatbots-under-15s-2026-09-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:23:21.149000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "26d9561a36504cc559b7934adea14588725b2cdb",
-          "title": "欧盟将提议禁止 15 岁以下青少年使用社交媒体和 AI 聊天机器人",
-          "url": "https://www.gelonghui.com/live/2668223",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "697037421fcde6292554cfeee473d8cbb137337a",
-          "title": "欧盟拟提议禁止15岁以下青少年使用社交媒体和AI聊天机器人",
-          "url": "https://www.reuters.com/legal/litigation/eu-is-set-propose-ban-social-media-ai-chatbots-under-15s-2026-09-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:23:21.149000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T18:23:21.149000Z",
-      "latest_at": "2026-09-14T19:11:22.872446Z",
-      "primary_item": {
-        "id": "26d9561a36504cc559b7934adea14588725b2cdb",
-        "title": "欧盟将提议禁止 15 岁以下青少年使用社交媒体和 AI 聊天机器人",
-        "url": "https://www.gelonghui.com/live/2668223",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_309ab432f884",
-      "title": "受人工智能相关担忧拖累，芯片制造商股价重挫，华尔街股指下挫",
-      "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-      "primary_url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cbea5d8832092d8402e59ab126fedd5e18f44137",
-          "title": "受人工智能相关担忧拖累，芯片制造商股价重挫，华尔街股指下挫",
-          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:38:44.037000Z"
-        },
-        {
-          "id": "342732a38235edcae4c27cf739d7f898c2a3fa33",
-          "title": "快讯：受人工智能市场担忧影响，英伟达及芯片制造商股价承压，标普500指数和纳斯达克指数低开",
-          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T13:38:23.316000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "cbea5d8832092d8402e59ab126fedd5e18f44137",
-          "title": "受人工智能相关担忧拖累，芯片制造商股价重挫，华尔街股指下挫",
-          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:38:44.037000Z"
-        },
-        {
-          "id": "342732a38235edcae4c27cf739d7f898c2a3fa33",
-          "title": "快讯：受人工智能市场担忧影响，英伟达及芯片制造商股价承压，标普500指数和纳斯达克指数低开",
-          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T13:38:23.316000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9922,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T13:38:23.316000Z",
-      "latest_at": "2026-09-14T18:38:44.037000Z",
-      "primary_item": {
-        "id": "cbea5d8832092d8402e59ab126fedd5e18f44137",
-        "title": "受人工智能相关担忧拖累，芯片制造商股价重挫，华尔街股指下挫",
-        "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_04e7a2adc532",
-      "title": "Show HN: Taskuary——将您的收件箱中的邮件转化为 Claude Code、Codex 或 Gemini 的任务",
-      "url": "https://github.com/ldbumble/taskuary",
-      "primary_url": "https://github.com/ldbumble/taskuary",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9932d00177ac83760704daf5bf72038e0a9f3a90",
-          "title": "Show HN: Taskuary——将您的收件箱中的邮件转化为 Claude Code、Codex 或 Gemini 的任务",
-          "url": "https://github.com/ldbumble/taskuary",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:07:27.689000Z"
-        },
-        {
-          "id": "02d21fa4b07e3250a8c3ee507f6aa973a16e3368",
-          "title": "Show HN: Taskuary——将您的收件箱中的邮件转化为 Claude Code、Codex 或 Gemini 的任务 / Show HN: Taskuary – turn your inbox into tasks for Claude Code, Codex, or Gemini",
-          "url": "https://github.com/ldbumble/taskuary",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-14T17:55:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "9932d00177ac83760704daf5bf72038e0a9f3a90",
-          "title": "Show HN: Taskuary——将您的收件箱中的邮件转化为 Claude Code、Codex 或 Gemini 的任务",
-          "url": "https://github.com/ldbumble/taskuary",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:07:27.689000Z"
-        },
-        {
-          "id": "02d21fa4b07e3250a8c3ee507f6aa973a16e3368",
-          "title": "Show HN: Taskuary——将您的收件箱中的邮件转化为 Claude Code、Codex 或 Gemini 的任务 / Show HN: Taskuary – turn your inbox into tasks for Claude Code, Codex, or Gemini",
-          "url": "https://github.com/ldbumble/taskuary",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-14T17:55:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9847,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T17:55:23Z",
-      "latest_at": "2026-09-14T18:07:27.689000Z",
-      "primary_item": {
-        "id": "9932d00177ac83760704daf5bf72038e0a9f3a90",
-        "title": "Show HN: Taskuary——将您的收件箱中的邮件转化为 Claude Code、Codex 或 Gemini 的任务",
-        "url": "https://github.com/ldbumble/taskuary",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f55afdd97887",
-      "title": "一位机器学习工程师的来信",
-      "url": "https://nemin.hu/llm-letter/index.html",
-      "primary_url": "https://nemin.hu/llm-letter/index.html",
-      "source": "nemin.hu",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6f26d06c28cff807c14b7c723878fa19bf77ef39",
-          "title": "一位机器学习工程师的来信",
-          "url": "https://nemin.hu/llm-letter/index.html",
-          "source": "nemin.hu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:07:27.701000Z"
-        },
-        {
-          "id": "193a903dbb5b3f33f5766b234bbbc6bd92ee211b",
-          "title": "一位机器学习工程师的来信 / A Letter from a Machine Learning Engineer",
-          "url": "https://nemin.hu/llm-letter/index.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T17:58:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "nemin.hu"
-      ],
-      "items": [
-        {
-          "id": "6f26d06c28cff807c14b7c723878fa19bf77ef39",
-          "title": "一位机器学习工程师的来信",
-          "url": "https://nemin.hu/llm-letter/index.html",
-          "source": "nemin.hu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T18:07:27.701000Z"
-        },
-        {
-          "id": "193a903dbb5b3f33f5766b234bbbc6bd92ee211b",
-          "title": "一位机器学习工程师的来信 / A Letter from a Machine Learning Engineer",
-          "url": "https://nemin.hu/llm-letter/index.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T17:58:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9847,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T17:58:22Z",
-      "latest_at": "2026-09-14T18:07:27.701000Z",
-      "primary_item": {
-        "id": "6f26d06c28cff807c14b7c723878fa19bf77ef39",
-        "title": "一位机器学习工程师的来信",
-        "url": "https://nemin.hu/llm-letter/index.html",
-        "source": "nemin.hu",
-        "source_name": "Buzzing"
       }
     }
   ]
