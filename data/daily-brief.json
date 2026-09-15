@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:08:09.496530Z",
+  "generated_at": "2026-09-15T23:37:43.880464Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9168,
-      "importance": 0.9168,
-      "importance_score": 0.9168,
+      "score": 0.9108,
+      "importance": 0.9108,
+      "importance_score": 0.9108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9434,
+        "recency": 0.91,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9285,
+        "recency": 0.8957,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9287,
+        "recency": 0.8958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9714,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9771,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9285,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -507,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8739,
+        "recency": 0.843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8402,
+        "recency": 0.8105,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -612,87 +612,6 @@
         "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
         "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e4b50f354b69",
-      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T22:59:41Z"
-        },
-        {
-          "id": "687b4792c4c1d93a6b6c562b4a8d2e761bb77179",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-14T22:59:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T22:59:41Z"
-        },
-        {
-          "id": "687b4792c4c1d93a6b6c562b4a8d2e761bb77179",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-14T22:59:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7263,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T22:59:41Z",
-      "latest_at": "2026-09-14T22:59:41Z",
-      "primary_item": {
-        "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -731,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.8917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -792,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9392,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "official",
@@ -854,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9285,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -935,15 +854,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8105,
+        "recency": 0.7818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1016,15 +935,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1116,15 +1035,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8333,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1140,6 +1059,66 @@
         "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
         "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
         "source": "Trail of Bits：AI安全研究",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b25ec880834a",
+      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+      "url": "https://x.com/arena/status/2099971741993050236",
+      "primary_url": "https://x.com/arena/status/2099971741993050236",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
+          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+          "url": "https://x.com/arena/status/2099971741993050236",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T21:20:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
+          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+          "url": "https://x.com/arena/status/2099971741993050236",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T21:20:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9676,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T21:20:53Z",
+      "latest_at": "2026-09-15T21:20:53Z",
+      "primary_item": {
+        "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
+        "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+        "url": "https://x.com/arena/status/2099971741993050236",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -1178,21 +1157,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9893,
+        "recency": 0.9543,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T20:23:34Z",
       "latest_at": "2026-09-15T20:23:34Z",
@@ -1239,15 +1217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8892,
+        "recency": 0.8577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1320,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8105,
+        "recency": 0.7818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1382,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.7172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1408,63 +1386,84 @@
       }
     },
     {
-      "story_id": "story_b5fd1928c34b",
-      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-      "primary_url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_aaa6996c1556",
+      "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+      "url": "https://www.aibase.com/news/31055",
+      "primary_url": "https://www.aibase.com/news/31055",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b3e2f673c6f63bf19e76aeb6e8dc792e8309517",
-          "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-          "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T17:21:21.489000Z"
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/news/31055",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "8a55c21234ff401beb9c3d82d6b730d016c6eb8f",
+          "title": "微软 CEO 内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/zh/news/31055",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Claude：Blog（网页）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4b3e2f673c6f63bf19e76aeb6e8dc792e8309517",
-          "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-          "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T17:21:21.489000Z"
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/news/31055",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "8a55c21234ff401beb9c3d82d6b730d016c6eb8f",
+          "title": "微软 CEO 内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/zh/news/31055",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9469,
-        "story_heat": 0.0
+        "recency": 0.7818,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-15T17:21:21.489000Z",
-      "latest_at": "2026-09-15T17:21:21.489000Z",
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
       "primary_item": {
-        "id": "4b3e2f673c6f63bf19e76aeb6e8dc792e8309517",
-        "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-        "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "1035052f93b799930c626d7f07633485feed5d4d",
+        "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+        "url": "https://www.aibase.com/news/31055",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
