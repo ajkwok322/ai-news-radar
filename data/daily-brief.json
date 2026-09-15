@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:19:00.937758Z",
+  "generated_at": "2026-09-15T06:35:11.815894Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.7722,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8753,
+        "recency": 0.8111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9128,
+        "recency": 0.8459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.967,
+        "recency": 0.8962,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,6 +325,87 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d96db19e6751",
+      "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+      "url": "https://www.aibase.com/news/31052",
+      "primary_url": "https://www.aibase.com/news/31052",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
+          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "url": "https://www.aibase.com/news/31052",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "20885054e155a4c6833da578d9032b0091e5294a",
+          "title": "AI 大模型下田「掌舵」：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "url": "https://www.aibase.com/zh/news/31052",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
+          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "url": "https://www.aibase.com/news/31052",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "20885054e155a4c6833da578d9032b0091e5294a",
+          "title": "AI 大模型下田「掌舵」：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "url": "https://www.aibase.com/zh/news/31052",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
+      "primary_item": {
+        "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
+        "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+        "url": "https://www.aibase.com/news/31052",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -362,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8741,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -462,15 +543,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9253,
+        "recency": 0.8575,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -543,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8713,
+        "recency": 0.8075,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -568,6 +649,87 @@
         "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_07a5cd1d1457",
+      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+      "url": "https://www.aibase.com/news/31056",
+      "primary_url": "https://www.aibase.com/news/31056",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "url": "https://www.aibase.com/news/31056",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "2b590becf49b61ce4559b680aa18c00efca939bf",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "url": "https://www.aibase.com/zh/news/31056",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "url": "https://www.aibase.com/news/31056",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "2b590becf49b61ce4559b680aa18c00efca939bf",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "url": "https://www.aibase.com/zh/news/31056",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
+      "primary_item": {
+        "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+        "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "url": "https://www.aibase.com/news/31056",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -605,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -629,67 +791,6 @@
         "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
         "source": "Fireworks AI（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_046e273e892a",
-      "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-      "url": "https://www.aibase.com/news/31040",
-      "primary_url": "https://www.aibase.com/news/31040",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
-          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "url": "https://www.aibase.com/news/31040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
-          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "url": "https://www.aibase.com/news/31040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
-      "primary_item": {
-        "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
-        "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-        "url": "https://www.aibase.com/news/31040",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -727,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -754,364 +855,142 @@
       }
     },
     {
-      "story_id": "story_ecd8cdabd81c",
-      "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-      "url": "https://www.aibase.com/news/31039",
-      "primary_url": "https://www.aibase.com/news/31039",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
-          "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-          "url": "https://www.aibase.com/news/31039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
-          "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-          "url": "https://www.aibase.com/news/31039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
-      "primary_item": {
-        "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
-        "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-        "url": "https://www.aibase.com/news/31039",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eb4d52e3874b",
-      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-      "url": "https://x.com/arena/status/2099549108013006958",
-      "primary_url": "https://x.com/arena/status/2099549108013006958",
-      "source": "X：Arena (@arena)",
+      "story_id": "story_1f582ddc083f",
+      "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+      "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-          "url": "https://x.com/arena/status/2099549108013006958",
-          "source": "X：Arena (@arena)",
+          "id": "6b1923544a77677e55f0ac65b1ffa522007a8768",
+          "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+          "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T17:21:29Z"
+          "published_at": "2026-09-15T03:14:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-          "url": "https://x.com/arena/status/2099549108013006958",
-          "source": "X：Arena (@arena)",
+          "id": "6b1923544a77677e55f0ac65b1ffa522007a8768",
+          "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+          "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T17:21:29Z"
+          "published_at": "2026-09-15T03:14:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-14T17:21:29Z",
-      "latest_at": "2026-09-14T17:21:29Z",
+      "earliest_at": "2026-09-15T03:14:09Z",
+      "latest_at": "2026-09-15T03:14:09Z",
       "primary_item": {
-        "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-        "url": "https://x.com/arena/status/2099549108013006958",
-        "source": "X：Arena (@arena)",
+        "id": "6b1923544a77677e55f0ac65b1ffa522007a8768",
+        "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+        "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_bdc1ffa510b1",
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T16:32:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T16:32:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.881,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T16:32:25Z",
-      "latest_at": "2026-09-14T16:32:25Z",
-      "primary_item": {
-        "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-        "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-        "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f1dbbf70c25",
-      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "primary_url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f05f3a786cfee3052bbfcdfed2d4f3e8d2f356e",
-          "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-          "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T19:15:56.861000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "1f05f3a786cfee3052bbfcdfed2d4f3e8d2f356e",
-          "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-          "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T19:15:56.861000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9163,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T19:15:56.861000Z",
-      "latest_at": "2026-09-14T19:15:56.861000Z",
-      "primary_item": {
-        "id": "1f05f3a786cfee3052bbfcdfed2d4f3e8d2f356e",
-        "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-        "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e0a8082aeda9",
-      "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-      "url": "https://www.aibase.com/news/31045",
-      "primary_url": "https://www.aibase.com/news/31045",
+      "story_id": "story_aaa6996c1556",
+      "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+      "url": "https://www.aibase.com/news/31055",
+      "primary_url": "https://www.aibase.com/news/31055",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
-          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-          "url": "https://www.aibase.com/news/31045",
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/news/31055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "8a55c21234ff401beb9c3d82d6b730d016c6eb8f",
+          "title": "微软 CEO 内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/zh/news/31055",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
-          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-          "url": "https://www.aibase.com/news/31045",
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/news/31055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        },
+        {
+          "id": "8a55c21234ff401beb9c3d82d6b730d016c6eb8f",
+          "title": "微软 CEO 内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "url": "https://www.aibase.com/zh/news/31055",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
       "primary_item": {
-        "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
-        "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-        "url": "https://www.aibase.com/news/31045",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_29c930d206f1",
-      "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-      "url": "https://www.aibase.com/news/31041",
-      "primary_url": "https://www.aibase.com/news/31041",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d0aefac09327a83446129adbf6d225170c1535fe",
-          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-          "url": "https://www.aibase.com/news/31041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d0aefac09327a83446129adbf6d225170c1535fe",
-          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-          "url": "https://www.aibase.com/news/31041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
-      "primary_item": {
-        "id": "d0aefac09327a83446129adbf6d225170c1535fe",
-        "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-        "url": "https://www.aibase.com/news/31041",
+        "id": "1035052f93b799930c626d7f07633485feed5d4d",
+        "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+        "url": "https://www.aibase.com/news/31055",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1132,11 +1011,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-15T01:19:00.937758Z"
+        },
+        {
+          "id": "cf7752de5f6be160f576ad1a21bb84382dc7c2ce",
+          "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
+          "url": "https://www.aibase.com/zh/news/31044",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -1147,28 +1036,38 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-15T01:19:00.937758Z"
+        },
+        {
+          "id": "cf7752de5f6be160f576ad1a21bb84382dc7c2ce",
+          "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
+          "url": "https://www.aibase.com/zh/news/31044",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9267,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
       "primary_item": {
         "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
         "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
@@ -1178,21 +1077,21 @@
       }
     },
     {
-      "story_id": "story_148ea5a83935",
-      "title": "蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%",
-      "url": "https://www.aibase.com/news/31042",
-      "primary_url": "https://www.aibase.com/news/31042",
+      "story_id": "story_4a654b599211",
+      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+      "url": "https://www.aibase.com/news/31057",
+      "primary_url": "https://www.aibase.com/news/31057",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "63cb2288f180e12e60ac1ef9f17a505388250431",
-          "title": "蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%",
-          "url": "https://www.aibase.com/news/31042",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T06:35:11.815894Z"
         }
       ],
       "source_count": 1,
@@ -1201,13 +1100,13 @@
       ],
       "items": [
         {
-          "id": "63cb2288f180e12e60ac1ef9f17a505388250431",
-          "title": "蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%",
-          "url": "https://www.aibase.com/news/31042",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T06:35:11.815894Z"
         }
       ],
       "item_count": 1,
@@ -1228,12 +1127,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
       "primary_item": {
-        "id": "63cb2288f180e12e60ac1ef9f17a505388250431",
-        "title": "蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%",
-        "url": "https://www.aibase.com/news/31042",
+        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "url": "https://www.aibase.com/news/31057",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_37086dd827b9",
+      "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+      "url": "https://www.aibase.com/news/31049",
+      "primary_url": "https://www.aibase.com/news/31049",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
+          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "url": "https://www.aibase.com/news/31049",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
+          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "url": "https://www.aibase.com/news/31049",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
+      "primary_item": {
+        "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
+        "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+        "url": "https://www.aibase.com/news/31049",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1309,15 +1269,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.604,
-      "importance": 0.604,
-      "importance_score": 0.604,
+      "score": 0.5919,
+      "importance": 0.5919,
+      "importance_score": 0.5919,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9153,
+        "recency": 0.8483,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1335,21 +1295,21 @@
       }
     },
     {
-      "story_id": "story_bac95660f5d2",
-      "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
-      "url": "https://www.aibase.com/news/31043",
-      "primary_url": "https://www.aibase.com/news/31043",
+      "story_id": "story_b8d5cb4d55de",
+      "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+      "url": "https://www.aibase.com/news/31050",
+      "primary_url": "https://www.aibase.com/news/31050",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "07ccb6b6d006025aca56776995dc8af8070998aa",
-          "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
-          "url": "https://www.aibase.com/news/31043",
+          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
+          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "url": "https://www.aibase.com/news/31050",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T06:35:11.815894Z"
         }
       ],
       "source_count": 1,
@@ -1358,13 +1318,13 @@
       ],
       "items": [
         {
-          "id": "07ccb6b6d006025aca56776995dc8af8070998aa",
-          "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
-          "url": "https://www.aibase.com/news/31043",
+          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
+          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "url": "https://www.aibase.com/news/31050",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T06:35:11.815894Z"
         }
       ],
       "item_count": 1,
@@ -1385,14 +1345,172 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T01:19:00.937758Z",
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
       "primary_item": {
-        "id": "07ccb6b6d006025aca56776995dc8af8070998aa",
-        "title": "黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设",
-        "url": "https://www.aibase.com/news/31043",
+        "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
+        "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+        "url": "https://www.aibase.com/news/31050",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d482926e5e2f",
+      "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+      "url": "https://www.aibase.com/news/31046",
+      "primary_url": "https://www.aibase.com/news/31046",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
+          "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+          "url": "https://www.aibase.com/news/31046",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
+          "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+          "url": "https://www.aibase.com/news/31046",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T06:35:11.815894Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T06:35:11.815894Z",
+      "latest_at": "2026-09-15T06:35:11.815894Z",
+      "primary_item": {
+        "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
+        "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+        "url": "https://www.aibase.com/news/31046",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_df1c0beb84f2",
+      "title": "为什么机器学习研究中的代理不会出现过拟合？",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "primary_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "source": "www.amazon.science",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2189e9649fca5398206e133e6208ebfdc626d9d5",
+          "title": "为什么机器学习研究中的代理不会出现过拟合？",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "source": "www.amazon.science",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T00:57:33.120000Z"
+        },
+        {
+          "id": "93ba23a33a1874b9a9c965f976c7003e6d21381c",
+          "title": "为什么机器学习研究代理不会出现过拟合？",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "source": "www.amazon.science",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T17:36:19.137000Z"
+        },
+        {
+          "id": "e492d0c97562ea52cabb3ebc4086eb916e86d8fd",
+          "title": "为什么机器学习研究代理不会出现过拟合？ / Why don't machine learning research agents overfit?",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T16:32:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.amazon.science"
+      ],
+      "items": [
+        {
+          "id": "2189e9649fca5398206e133e6208ebfdc626d9d5",
+          "title": "为什么机器学习研究中的代理不会出现过拟合？",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "source": "www.amazon.science",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-15T00:57:33.120000Z"
+        },
+        {
+          "id": "93ba23a33a1874b9a9c965f976c7003e6d21381c",
+          "title": "为什么机器学习研究代理不会出现过拟合？",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "source": "www.amazon.science",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T17:36:19.137000Z"
+        },
+        {
+          "id": "e492d0c97562ea52cabb3ebc4086eb916e86d8fd",
+          "title": "为什么机器学习研究代理不会出现过拟合？ / Why don't machine learning research agents overfit?",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T16:32:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.922,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T16:32:23Z",
+      "latest_at": "2026-09-15T00:57:33.120000Z",
+      "primary_item": {
+        "id": "2189e9649fca5398206e133e6208ebfdc626d9d5",
+        "title": "为什么机器学习研究中的代理不会出现过拟合？",
+        "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+        "source": "www.amazon.science",
+        "source_name": "Buzzing"
       }
     }
   ]
