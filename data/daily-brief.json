@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:35:11.815894Z",
+  "generated_at": "2026-09-15T12:35:41.527361Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7722,
+        "recency": 0.708,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8111,
+        "recency": 0.7437,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8459,
+        "recency": 0.7756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,6 +244,168 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_28a1d8edd2b6",
+      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+      "url": "https://www.ithome.com/1/002/750.htm",
+      "primary_url": "https://www.ithome.com/1/002/750.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:48:13Z"
+        },
+        {
+          "id": "6805189c0bb937bd395856d788f52e87230264b1",
+          "title": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T11:48:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:48:13Z"
+        },
+        {
+          "id": "6805189c0bb937bd395856d788f52e87230264b1",
+          "title": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
+          "url": "https://www.ithome.com/1/002/750.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T11:48:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T11:48:13Z",
+      "latest_at": "2026-09-15T11:48:13Z",
+      "primary_item": {
+        "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
+        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "url": "https://www.ithome.com/1/002/750.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_df8f3eb027ba",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        },
+        {
+          "id": "049363fdf9740d9dff9ae4c0d025da000f23ca67",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        },
+        {
+          "id": "049363fdf9740d9dff9ae4c0d025da000f23ca67",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9505,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T09:04:36Z",
+      "latest_at": "2026-09-15T09:04:36Z",
+      "primary_item": {
+        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8962,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8101,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -543,15 +705,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8575,
+        "recency": 0.7862,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -567,87 +729,6 @@
         "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
         "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
         "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_37cba5d6b8d5",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
-        },
-        {
-          "id": "fbbd43bf9f27aebb7c067c53e02904d67546178a",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-14T15:46:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
-        },
-        {
-          "id": "fbbd43bf9f27aebb7c067c53e02904d67546178a",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-14T15:46:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8075,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T15:46:45Z",
-      "latest_at": "2026-09-14T15:46:45Z",
-      "primary_item": {
-        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -705,15 +786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,21 +848,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T00:36:35.301000Z",
       "latest_at": "2026-09-15T00:36:35.301000Z",
@@ -828,21 +908,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-14T17:09:41.324000Z",
       "latest_at": "2026-09-14T17:09:41.324000Z",
@@ -851,6 +930,207 @@
         "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
         "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
         "source": "Apple：Newsroom（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_37cba5d6b8d5",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        },
+        {
+          "id": "fbbd43bf9f27aebb7c067c53e02904d67546178a",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        },
+        {
+          "id": "fbbd43bf9f27aebb7c067c53e02904d67546178a",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7404,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T15:46:45Z",
+      "latest_at": "2026-09-14T15:46:45Z",
+      "primary_item": {
+        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "source": "公众号：阶跃星辰（Step）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：阶跃星辰（Step）"
+      ],
+      "items": [
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9291,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T07:29:56Z",
+      "latest_at": "2026-09-15T07:29:56Z",
+      "primary_item": {
+        "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+        "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+        "source": "公众号：阶跃星辰（Step）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b934de795cb2",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "primary_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "source": "Trail of Bits：AI安全研究",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Trail of Bits：AI安全研究"
+      ],
+      "items": [
+        {
+          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+          "source": "Trail of Bits：AI安全研究",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9772,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T11:00:00Z",
+      "latest_at": "2026-09-15T11:00:00Z",
+      "primary_item": {
+        "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
+        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+        "source": "Trail of Bits：AI安全研究",
         "source_name": "AI HOT"
       }
     },
@@ -889,15 +1169,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,15 +1248,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -996,521 +1276,204 @@
       }
     },
     {
-      "story_id": "story_702b2a822a95",
-      "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
-      "url": "https://www.aibase.com/news/31044",
-      "primary_url": "https://www.aibase.com/news/31044",
+      "story_id": "story_72ad78367669",
+      "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+      "url": "https://www.aibase.com/news/31065",
+      "primary_url": "https://www.aibase.com/news/31065",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
-          "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
-          "url": "https://www.aibase.com/news/31044",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "published_at": "2026-09-15T12:35:41.527361Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "url": "https://www.aibase.com/news/31065",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T12:35:41.527361Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T12:35:41.527361Z",
+      "latest_at": "2026-09-15T12:35:41.527361Z",
+      "primary_item": {
+        "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+        "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+        "url": "https://www.aibase.com/news/31065",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_303095275e2c",
+      "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+      "url": "https://www.aibase.com/news/31061",
+      "primary_url": "https://www.aibase.com/news/31061",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "url": "https://www.aibase.com/news/31061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T12:35:41.527361Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "url": "https://www.aibase.com/news/31061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T12:35:41.527361Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T12:35:41.527361Z",
+      "latest_at": "2026-09-15T12:35:41.527361Z",
+      "primary_item": {
+        "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+        "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+        "url": "https://www.aibase.com/news/31061",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fbf3222df417",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+      "primary_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "1c30e295b81bcf06cecf2754c3597c42727645d7",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T20:44:14Z"
         },
         {
-          "id": "cf7752de5f6be160f576ad1a21bb84382dc7c2ce",
-          "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
-          "url": "https://www.aibase.com/zh/news/31044",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b9d1d34c1dcf74083955ccf1a638a2be3b94c6c4",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T12:01:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
-          "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
-          "url": "https://www.aibase.com/news/31044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T01:19:00.937758Z"
+          "id": "1c30e295b81bcf06cecf2754c3597c42727645d7",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-14T20:44:14Z"
         },
         {
-          "id": "cf7752de5f6be160f576ad1a21bb84382dc7c2ce",
-          "title": "你的 ChatGPT 对话可能被真人看过：OpenAI 人工审核机制曝光",
-          "url": "https://www.aibase.com/zh/news/31044",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b9d1d34c1dcf74083955ccf1a638a2be3b94c6c4",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-15T12:01:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
-      "importance_label": "行业动态",
+      "score": 0.6244,
+      "importance": 0.6244,
+      "importance_score": 0.6244,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.7953,
         "story_heat": 0.25
       },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T01:19:00.937758Z",
-      "latest_at": "2026-09-15T06:35:11.815894Z",
-      "primary_item": {
-        "id": "088d502490cf846a963c298f3ed0d1071ed2df82",
-        "title": "你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光",
-        "url": "https://www.aibase.com/news/31044",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4a654b599211",
-      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-      "url": "https://www.aibase.com/news/31057",
-      "primary_url": "https://www.aibase.com/news/31057",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
-          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-          "url": "https://www.aibase.com/news/31057",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
-          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-          "url": "https://www.aibase.com/news/31057",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T06:35:11.815894Z",
-      "latest_at": "2026-09-15T06:35:11.815894Z",
-      "primary_item": {
-        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
-        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
-        "url": "https://www.aibase.com/news/31057",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_37086dd827b9",
-      "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-      "url": "https://www.aibase.com/news/31049",
-      "primary_url": "https://www.aibase.com/news/31049",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-          "url": "https://www.aibase.com/news/31049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-          "url": "https://www.aibase.com/news/31049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T06:35:11.815894Z",
-      "latest_at": "2026-09-15T06:35:11.815894Z",
-      "primary_item": {
-        "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-        "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-        "url": "https://www.aibase.com/news/31049",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-14",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
-          "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "a4944df60da88fe8737867bc809c256535dc8f21",
-          "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "4051455cbc2a4f1235ca72787482b285f6396bf4",
-          "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "社区更新 · 2026-09-14"
-      ],
-      "items": [
-        {
-          "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
-          "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "a4944df60da88fe8737867bc809c256535dc8f21",
-          "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        },
-        {
-          "id": "4051455cbc2a4f1235ca72787482b285f6396bf4",
-          "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-14T19:11:22.872446Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5919,
-      "importance": 0.5919,
-      "importance_score": 0.5919,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8483,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-14T19:11:22.872446Z",
-      "latest_at": "2026-09-14T19:11:22.872446Z",
+      "earliest_at": "2026-09-14T20:44:14Z",
+      "latest_at": "2026-09-15T12:01:31Z",
       "primary_item": {
-        "id": "ceb803fad4683f094ac5dcb7d843bab6e5a79140",
-        "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-14",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_b8d5cb4d55de",
-      "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-      "url": "https://www.aibase.com/news/31050",
-      "primary_url": "https://www.aibase.com/news/31050",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-          "url": "https://www.aibase.com/news/31050",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-          "url": "https://www.aibase.com/news/31050",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T06:35:11.815894Z",
-      "latest_at": "2026-09-15T06:35:11.815894Z",
-      "primary_item": {
-        "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-        "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-        "url": "https://www.aibase.com/news/31050",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d482926e5e2f",
-      "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-      "url": "https://www.aibase.com/news/31046",
-      "primary_url": "https://www.aibase.com/news/31046",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
-          "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-          "url": "https://www.aibase.com/news/31046",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
-          "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-          "url": "https://www.aibase.com/news/31046",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:35:11.815894Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T06:35:11.815894Z",
-      "latest_at": "2026-09-15T06:35:11.815894Z",
-      "primary_item": {
-        "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
-        "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-        "url": "https://www.aibase.com/news/31046",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_df1c0beb84f2",
-      "title": "为什么机器学习研究中的代理不会出现过拟合？",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "primary_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "source": "www.amazon.science",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2189e9649fca5398206e133e6208ebfdc626d9d5",
-          "title": "为什么机器学习研究中的代理不会出现过拟合？",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "www.amazon.science",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T00:57:33.120000Z"
-        },
-        {
-          "id": "93ba23a33a1874b9a9c965f976c7003e6d21381c",
-          "title": "为什么机器学习研究代理不会出现过拟合？",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "www.amazon.science",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T17:36:19.137000Z"
-        },
-        {
-          "id": "e492d0c97562ea52cabb3ebc4086eb916e86d8fd",
-          "title": "为什么机器学习研究代理不会出现过拟合？ / Why don't machine learning research agents overfit?",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T16:32:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.amazon.science"
-      ],
-      "items": [
-        {
-          "id": "2189e9649fca5398206e133e6208ebfdc626d9d5",
-          "title": "为什么机器学习研究中的代理不会出现过拟合？",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "www.amazon.science",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T00:57:33.120000Z"
-        },
-        {
-          "id": "93ba23a33a1874b9a9c965f976c7003e6d21381c",
-          "title": "为什么机器学习研究代理不会出现过拟合？",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "www.amazon.science",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T17:36:19.137000Z"
-        },
-        {
-          "id": "e492d0c97562ea52cabb3ebc4086eb916e86d8fd",
-          "title": "为什么机器学习研究代理不会出现过拟合？ / Why don't machine learning research agents overfit?",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T16:32:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.922,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T16:32:23Z",
-      "latest_at": "2026-09-15T00:57:33.120000Z",
-      "primary_item": {
-        "id": "2189e9649fca5398206e133e6208ebfdc626d9d5",
-        "title": "为什么机器学习研究中的代理不会出现过拟合？",
-        "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-        "source": "www.amazon.science",
-        "source_name": "Buzzing"
+        "id": "1c30e295b81bcf06cecf2754c3597c42727645d7",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     }
   ]
